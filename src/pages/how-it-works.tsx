@@ -21,6 +21,7 @@ import { getLocalizedPath, useLanguage } from "src/context/LanguageContext";
 import { Link } from "wouter";
 import { Seo } from "src/components/Seo";
 import { productSchema } from "src/config/schema";
+import { YouTubeEmbed } from "src/components/ui/YouTubeEmbed";
 
 export default function HowItWorks() {
   const { t, language } = useLanguage();
@@ -96,14 +97,12 @@ export default function HowItWorks() {
               </p>
             </div>
             <div className="animate-float parallax-image flex justify-center">
-              <iframe
-                  className="rounded-2xl shadow-2xl w-full max-w-2xl h-64 sm:h-80 md:h-96"
-                  src="https://www.youtube.com/embed/oi-RQ1oNvuo"
-                  title="How asyncz works - Demo 2025: Next-Gen AI Scheduling for Modern Businesses"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowFullScreen
-              ></iframe>
+              <div className="w-full max-w-2xl">
+                <YouTubeEmbed 
+                  videoId="oi-RQ1oNvuo" 
+                  title="How asyncz works - Demo 2025: Next-Gen AI Scheduling for Modern Businesses" 
+                />
+              </div>
             </div>
           </section>
 

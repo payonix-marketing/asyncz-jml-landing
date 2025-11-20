@@ -2,7 +2,8 @@ import { Button } from "src/components/ui/button";
 import { getLocalizedPath, useLanguage } from "src/context/LanguageContext";
 import { Link } from "wouter";
 import { useParallax, useParallaxScale } from "src/hooks/use-parallax";
-import ai from "src/assets/img/ai.png";
+import ai from "src/assets/img/ai.webp";
+import { YouTubeEmbed } from "src/components/ui/YouTubeEmbed";
 
 export function Hero() {
   const { t, language } = useLanguage();
@@ -66,6 +67,8 @@ export function Hero() {
                         zIndex: 1,
                         objectFit: 'contain'
                       }}
+                      width="40"
+                      height="408"
                   />
                 {t('hero.titleHighlight')}
               </span>
@@ -74,17 +77,6 @@ export function Hero() {
                 {t('hero.description')}
               </p>
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                {/*<a*/}
-                {/*    href="https://app.asyncz.com/"*/}
-                {/*    target="_blank"*/}
-                {/*    rel="noopener noreferrer"*/}
-                {/*    className="w-full sm:w-auto"*/}
-                {/*>*/}
-                {/*  <Button className="brand-gradient text-white px-6 py-3 sm:px-8 sm:py-4 rounded-lg font-semibold text-base sm:text-lg hover:shadow-xl transition-all transform hover:scale-105 w-full">*/}
-                {/*    {t('hero.startFreeTrial')}*/}
-                {/*  </Button>*/}
-                {/*</a>*/}
-
                 <a
                     href={`mailto:info@asyncz.com?subject=Claim%20My%20Lifetime%20Pro%20Access%20on%20asyncz&body=Hi%20asyncz%20team,%0A%0AI'd%20like%20to%20claim%20my%20lifetime%20Pro%20access%20as%20an%20early%20user.%20Please%20let%20me%20know%20the%20next%20steps.%0A%0AThanks!`}
                     className="w-full sm:w-auto"
@@ -113,21 +105,6 @@ export function Hero() {
                 </Link>
               </div>
             </div>
-            {/* Mockup Image with Parallax */}
-            {/*<div*/}
-            {/*    className="animate-float parallax-image"*/}
-            {/*    style={{*/}
-            {/*      transform: `${imageParallax.transform} scale(${scaleParallax.scale})`*/}
-            {/*    }}*/}
-            {/*    ref={imageParallax.elementRef}*/}
-            {/*>*/}
-            {/*  <img*/}
-            {/*      src={logo}*/}
-            {/*      alt="asyncz Dashboard Mockup"*/}
-            {/*      className="rounded-2xl shadow-2xl w-full"*/}
-            {/*  />*/}
-            {/*</div>*/}
-
               <div
                   className="animate-float parallax-image"
                   style={{
@@ -135,15 +112,10 @@ export function Hero() {
                   }}
                   ref={imageParallax.elementRef}
               >
-                  <iframe
-                      loading="lazy"
-                      className="rounded-2xl shadow-2xl w-full h-64 sm:h-80 md:h-96"
-                      src="https://www.youtube.com/embed/oi-RQ1oNvuo"
-                      title="How asyncz works - Demo 2025: Next-Gen AI Scheduling for Modern Businesses"
-                      frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                      allowFullScreen
-                  ></iframe>
+                  <YouTubeEmbed 
+                    videoId="oi-RQ1oNvuo" 
+                    title="How asyncz works - Demo 2025: Next-Gen AI Scheduling for Modern Businesses" 
+                  />
               </div>
 
           </div>

@@ -4,7 +4,7 @@ import { Menu, X, Moon, Sun } from "lucide-react";
 import { useTheme } from "./theme-provider";
 import { LanguageSelector } from "src/components/ui/language-selector";
 import { getLocalizedPath, useLanguage } from "src/context/LanguageContext";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo.webp";
 import { Link } from "wouter";
 
 export function Header() {
@@ -42,7 +42,7 @@ export function Header() {
             {/* Logo */}
             <div className="flex items-center space-x-2 flex-shrink-0">
               <Link to={buildPath("/")} className="flex items-center space-x-2">
-                <img src={logo} alt="asyncz logo" className="w-[8rem]" style={{ marginBottom: '12px' }} />
+                <img src={logo} alt="asyncz logo" className="w-[8rem]" style={{ marginBottom: '12px' }} width="128" height="35" />
                 <span className="font-serif text-2xl font-bold text-primary dark:text-primary"></span>
               </Link>
             </div>
@@ -79,6 +79,7 @@ export function Header() {
                   variant="ghost"
                   size="icon"
                   onClick={toggleTheme}
+                  aria-label="Toggle theme"
                   className="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600"
               >
                 {theme === "dark" ? <Sun className="h-4 w-4 lg:h-5 lg:w-5" /> : <Moon className="h-4 w-4 lg:h-5 lg:w-5" />}
@@ -96,6 +97,7 @@ export function Header() {
                 size="icon"
                 onClick={() => setIsMenuOpen(!isMenuOpen)}
                 className="md:hidden p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700"
+                aria-label="Open menu"
             >
               {isMenuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
             </Button>

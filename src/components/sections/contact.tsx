@@ -70,7 +70,7 @@ export function Contact() {
   };
 
   const contactInfo = [
-    {
+    CONTACT_PHONE && {
       icon: Phone,
       title: t("contact.phoneTitle"),
       content: CONTACT_PHONE,
@@ -87,7 +87,7 @@ export function Contact() {
       title: t("contact.addressTitle"),
       content: `${CONTACT_ADDRESS.street}, ${CONTACT_ADDRESS.city}, ${CONTACT_ADDRESS.state} ${CONTACT_ADDRESS.postalCode}, ${CONTACT_ADDRESS.country}`
     }
-  ];
+  ].filter(Boolean);
 
   return (
       <section id="contact" className="py-12 sm:py-16 lg:py-20 section-alt">
@@ -107,7 +107,7 @@ export function Contact() {
                 {t("contact.infoTitle")}
               </h3>
               <div className="space-y-4 sm:space-y-6">
-                {contactInfo.map((info, index) => (
+                {contactInfo.map((info: any, index: number) => (
                     <div key={index} className="flex items-center">
                       <div className="w-10 h-10 sm:w-12 sm:h-12 brand-gradient rounded-full flex items-center justify-center mr-3 sm:mr-4 flex-shrink-0">
                         <info.icon className="text-white h-5 w-5 sm:h-6 sm:w-6" />

@@ -122,7 +122,7 @@ export function Pricing() {
       variant: isPrimary ? "default" : "outline",
       className: isPrimary
           ? "brand-gradient text-white hover:shadow-lg"
-          : "border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:border-green-500 hover:text-green-500",
+          : "border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:border-green-600 hover:text-green-600",
     };
   };
 
@@ -140,7 +140,7 @@ export function Pricing() {
               Contact:{" "}
               <a
                   href="mailto:info@asyncz.com?subject=Early Bird Special - Free Lifetime Pro Account&body=Hi,%0D%0A%0D%0AI would like to claim my free lifetime Pro account as an early adopter.%0D%0A%0D%0AThank you!"
-                  className="text-green-500 hover:underline"
+                  className="text-green-600 hover:underline"
               >
                 info@asyncz.com
               </a>
@@ -152,8 +152,9 @@ export function Pricing() {
             </span>
               <button
                   onClick={() => setIsYearly(!isYearly)}
+                  aria-label="Toggle between monthly and yearly pricing"
                   className={`relative inline-flex h-6 w-11 items-center rounded-full transition-colors focus:outline-none ${
-                      isYearly ? "bg-green-500" : "bg-gray-300 dark:bg-gray-600"
+                      isYearly ? "bg-green-600" : "bg-gray-300 dark:bg-gray-600"
                   }`}
               >
               <span
@@ -164,7 +165,7 @@ export function Pricing() {
               </button>
               <span className="text-sm sm:text-base text-gray-700 dark:text-gray-300 ml-2 sm:ml-3">
               {t("pricing.yearly")}{" "}
-                <span className="text-green-500 font-semibold">{t("pricing.savePercent")}</span>
+                <span className="text-green-600 font-semibold">{t("pricing.savePercent")}</span>
             </span>
             </div>
           </div>
@@ -243,7 +244,7 @@ export function Pricing() {
                   <Link to={getLocalizedPath(language, "/pricing")}>
                     <Button
                         variant="outline"
-                        className="border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 px-8 py-3 rounded-lg font-semibold hover:border-green-500 hover:text-green-500 transition-all"
+                        className="border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 px-8 py-3 rounded-lg font-semibold hover:border-green-600 hover:text-green-600 transition-all"
                     >
                       {t("pricing.viewFullPricing")}
                     </Button>
