@@ -18,7 +18,7 @@ import {
   Star
 } from "lucide-react";
 import { useLanguage } from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { productSchema } from "src/config/schema";
 
 export default function VideoTutorials() {
@@ -41,8 +41,6 @@ export default function VideoTutorials() {
     }),
     [t]
   );
-
-  useSeo(seoConfig);
 
   // Helper function to get array items
   const getArrayItems = (key: string): any[] => {
@@ -91,6 +89,7 @@ export default function VideoTutorials() {
 
   return (
       <div className="min-h-screen dark:text-gray-300">
+        <Seo {...seoConfig} />
         <Header />
 
         <main>

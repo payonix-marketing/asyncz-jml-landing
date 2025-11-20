@@ -4,7 +4,7 @@ import { Footer } from "src/components/layout/footer";
 import { Button } from "src/components/ui/button";
 import { Check, X } from "lucide-react";
 import { useLanguage } from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { productSchema } from "src/config/schema";
 
 export default function PricingDetails() {
@@ -25,8 +25,6 @@ export default function PricingDetails() {
     }),
     [t]
   );
-
-  useSeo(seoConfig);
 
   // Helper function to get array items
   const getArrayItems = (key: string): any[] => {
@@ -55,6 +53,7 @@ export default function PricingDetails() {
 
   return (
       <div className="min-h-screen dark:text-gray-300">
+        <Seo {...seoConfig} />
         <Header />
 
         <main>

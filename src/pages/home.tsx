@@ -10,12 +10,11 @@ import { Contact } from "src/components/sections/contact";
 import { Footer } from "src/components/layout/footer";
 import { LocationSpotlight } from "src/components/sections/location-spotlight";
 import { TargetLandingPage, resolveTargetLanding } from "./target-landing";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import {
   localBusinessSchema,
   organizationSchema,
   productSchema,
-  // reviewSchema,
 } from "src/config/schema";
 import { useLanguage } from "src/context/LanguageContext";
 
@@ -37,16 +36,14 @@ function DefaultLanding() {
         organizationSchema,
         localBusinessSchema,
         productSchema,
-        // reviewSchema,
       ],
     }),
     [t] 
   );
 
-  useSeo(seoConfig);
-
   return (
     <div className="min-h-screen dark:text-gray-300">
+      <Seo {...seoConfig} />
       <Header />
       <main>
         <Hero />

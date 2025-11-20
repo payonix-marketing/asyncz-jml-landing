@@ -4,7 +4,7 @@ import { Footer } from "src/components/layout/footer";
 import { Button } from "src/components/ui/button";
 import { ChevronDown, ChevronUp, MessageCircle, Mail, Phone } from "lucide-react";
 import { useLanguage } from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { organizationSchema } from "src/config/schema";
 
 export default function FAQ() {
@@ -26,8 +26,6 @@ export default function FAQ() {
     [t]
   );
 
-  useSeo(seoConfig);
-
   // Helper function to get array items
   const getArrayItems = (key: string): any[] => {
     const result = t(key);
@@ -47,6 +45,7 @@ export default function FAQ() {
 
   return (
       <div className="min-h-screen dark:text-gray-300">
+        <Seo {...seoConfig} />
         <Header />
 
         <main>

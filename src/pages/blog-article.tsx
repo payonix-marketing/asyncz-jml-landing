@@ -4,7 +4,7 @@ import { Header } from "src/components/layout/header";
 import { Footer } from "src/components/layout/footer";
 import { ShareButtons } from "src/components/ui/share-buttons";
 import { useLanguage, getLocalizedPath } from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { SITE_NAME, SITE_URL, DEFAULT_SOCIAL_IMAGE } from "src/config/seo";
 import { Card, CardContent } from "src/components/ui/card";
 import { Button } from "src/components/ui/button";
@@ -64,15 +64,15 @@ export default function BlogArticlePage({ params }: BlogArticleProps) {
       description: post.excerpt,
       path: `/blog/${post.slug}`,
       keywords: post.tags ?? [],
-      structuredData: buildBlogSchema(post, shareUrl)
+      structuredData: buildBlogSchema(post, shareUrl),
+      type: "article",
     };
   }, [localizedUrl, post, shareUrl, t]);
-
-  useSeo(seoConfig);
 
   if (!post) {
     return (
       <div className="min-h-screen bg-gradient-to-b from-white via-slate-50 to-slate-100 dark:from-gray-950 dark:via-gray-900 dark:to-gray-950 text-gray-900 dark:text-gray-100">
+        <Seo {...seoConfig} />
         <Header />
         <main className="pt-24 pb-20 sm:pt-28 sm:pb-24 px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center space-y-4">
@@ -90,6 +90,7 @@ export default function BlogArticlePage({ params }: BlogArticleProps) {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-white via-slate-50 to-slate-100 dark:from-gray-950 dark:via-gray-900 dark:to-gray-950 text-gray-900 dark:text-gray-100">
+      <Seo {...seoConfig} />
       <Header />
       <main className="pt-24 pb-20 sm:pt-28 sm:pb-24 px-4 sm:px-6 lg:px-8">
         <article className="max-w-4xl mx-auto space-y-10">

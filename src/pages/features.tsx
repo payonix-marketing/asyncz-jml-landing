@@ -5,7 +5,7 @@ import { Footer } from "src/components/layout/footer";
 import { Button } from "src/components/ui/button";
 import { Card, CardContent } from "src/components/ui/card";
 import { useLanguage, getLocalizedPath } from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { productSchema } from "src/config/schema";
 
 export default function FeaturesPage() {
@@ -21,8 +21,6 @@ export default function FeaturesPage() {
     }),
     [t]
   );
-
-  useSeo(seoConfig);
 
   const features = [
     {
@@ -64,6 +62,7 @@ export default function FeaturesPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-white via-slate-50 to-slate-100 dark:from-gray-950 dark:via-gray-900 dark:to-gray-950 text-gray-900 dark:text-gray-100">
+      <Seo {...seoConfig} />
       <Header />
       <main className="pt-24 pb-16 sm:pt-28 sm:pb-24">
         <section className="px-4 sm:px-6 lg:px-8">

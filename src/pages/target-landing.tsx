@@ -9,7 +9,7 @@ import {
   type LandingTarget,
   type TargetLandingContent,
 } from "src/config/targetLanding";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { organizationSchema, productSchema } from "src/config/schema";
 
 const TARGET_LABELS: Record<
@@ -54,12 +54,11 @@ export function TargetLandingPage({ target, content }: TargetLandingPageProps) {
     [content, target]
   );
 
-  useSeo(seoConfig);
-
   const labels = TARGET_LABELS[target];
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 dark:text-gray-200">
+      <Seo {...seoConfig} />
       <Header />
       <main>
         <section className="bg-white dark:bg-gray-900 pt-16 pb-12 sm:pt-24 sm:pb-20">

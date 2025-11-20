@@ -11,7 +11,7 @@ import { Textarea } from "src/components/ui/textarea";
 import { Label } from "src/components/ui/label";
 import { MapPin, Phone, Mail, Clock, Building2, CheckCircle2 } from "lucide-react";
 import { useLanguage } from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import {
   BUSINESS_HOURS,
   CONTACT_ADDRESS,
@@ -80,8 +80,6 @@ export default function ContactPage() {
     [t]
   );
 
-  useSeo(seoConfig);
-
   const onSubmit = form.handleSubmit(async (values) => {
     try {
       setStatus("idle");
@@ -107,6 +105,7 @@ export default function ContactPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-white via-slate-50 to-slate-100 dark:from-gray-950 dark:via-gray-900 dark:to-gray-950 text-gray-900 dark:text-gray-100">
+      <Seo {...seoConfig} />
       <Header />
       <main className="pt-24 pb-20 sm:pt-28 sm:pb-24 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto text-center space-y-6">

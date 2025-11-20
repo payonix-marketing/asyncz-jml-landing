@@ -19,7 +19,7 @@ import {
 } from "lucide-react";
 import { getLocalizedPath, useLanguage } from "src/context/LanguageContext";
 import { Link } from "wouter";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { organizationSchema } from "src/config/schema";
 
 export default function HelpCenter() {
@@ -41,8 +41,6 @@ export default function HelpCenter() {
     }),
     [t]
   );
-
-  useSeo(seoConfig);
 
   // Helper function to get array items
   const getArrayItems = (key: string): any[] => {
@@ -101,6 +99,7 @@ export default function HelpCenter() {
 
   return (
       <div className="min-h-screen dark:text-gray-300">
+        <Seo {...seoConfig} />
         <Header />
 
         <main>

@@ -6,8 +6,9 @@ import { Card, CardContent } from "src/components/ui/card";
 import { Button } from "src/components/ui/button";
 import { ShareButtons } from "src/components/ui/share-buttons";
 import { getLocalizedPath, useLanguage } from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { SITE_URL } from "src/config/seo";
+import { organizationSchema } from "src/config/schema";
 
 interface BlogPost {
   slug: string;
@@ -35,12 +36,11 @@ export default function BlogPage() {
       title: t("blog.pageTitle"),
       description: t("blog.metaDescription"),
       path: "/blog",
-      keywords: t("blog.keywords")
+      keywords: t("blog.keywords"),
+      structuredData: organizationSchema,
     }),
     [t]
   );
-
-  useSeo(seoConfig);
 
   const filteredPosts = selectedCategory === "all"
     ? posts
@@ -52,6 +52,7 @@ export default function BlogPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-white via-slate-50 to-slate-100 dark:from-gray-950 dark:via-gray-900 dark:to-gray-950 text-gray-900 dark:text-gray-100">
+      <Seo {...seoConfig} />
       <Header />
       <main className="pt-24 pb-20 sm:pt-28 sm:pb-24 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto text-center space-y-6">

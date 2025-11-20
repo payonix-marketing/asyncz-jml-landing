@@ -2,7 +2,7 @@ import {useEffect, useMemo, useState} from "react";
 import { Header } from "src/components/layout/header";
 import { Footer } from "src/components/layout/footer";
 import {Language, useLanguage} from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { organizationSchema } from "src/config/schema";
 import {getLegalPolicy} from "../api/api";
 import {LegalAgreementType} from "../types";
@@ -13,6 +13,7 @@ export default function PrivacyPolicy() {
   const [policyCreatedAt, setPolicyCreatedAt] = useState<string>("");
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+
 
   // Safe helpers
   const ts = (key: string): string => {
@@ -61,8 +62,6 @@ export default function PrivacyPolicy() {
     [t]
   );
 
-  useSeo(seoConfig);
-
   if (loading) {
     return (
         <div className="min-h-screen dark:text-gray-300">
@@ -83,6 +82,7 @@ export default function PrivacyPolicy() {
 
   return (
       <div className="min-h-screen dark:text-gray-300">
+        <Seo {...seoConfig} />
         <Header />
 
         <main>

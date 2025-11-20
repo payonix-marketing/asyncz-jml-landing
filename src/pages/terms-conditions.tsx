@@ -2,7 +2,7 @@ import {useEffect, useMemo, useState} from "react";
 import { Header } from "src/components/layout/header";
 import { Footer } from "src/components/layout/footer";
 import {Language, useLanguage} from "src/context/LanguageContext";
-import { useSeo } from "src/hooks/useSeo";
+import { Seo } from "src/components/Seo";
 import { organizationSchema } from "src/config/schema";
 import {LegalAgreementType} from "../types";
 import {getLegalPolicy} from "../api/api";
@@ -66,8 +66,6 @@ export default function TermsConditions() {
     fetchTermsContent();
   }, [t]);
 
-  useSeo(seoConfig);
-
   if (loading) {
     return (
         <div className="min-h-screen dark:text-gray-300">
@@ -88,6 +86,7 @@ export default function TermsConditions() {
 
   return (
       <div className="min-h-screen dark:text-gray-300">
+        <Seo {...seoConfig} />
         <Header />
 
         <main>
