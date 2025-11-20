@@ -2143,6 +2143,206 @@
         "subtitle": "See for yourself why asyncz is the trusted choice for forward-thinking teams.",
         "cta": "Talk to an Expert"
       }
+    },
+    "booksy": {
+      "name": "Booksy",
+      "seo": {
+        "title": "Booksy Alternative for Salons & Barbers | asyncz",
+        "description": "Escape the Booksy marketplace. See why asyncz is the better alternative for multi-location salons and barbershops wanting full brand control, no booking fees, and advanced operational tools.",
+        "keywords": ["booksy alternative", "salon software", "barber booking app", "asyncz vs booksy"]
+      },
+      "hero": {
+        "title": "Want to Grow Your Brand, Not a Marketplace?",
+        "subtitle": "{competitor} is a great discovery tool, but it lists you right next to your competition. asyncz is the platform for service businesses focused on building their own brand and client loyalty.",
+        "cta": "Take Control of Your Brand"
+      },
+      "painPointsTitle": "Is {competitor} Holding Your Brand Back?",
+      "painPoints": [
+        {
+          "title": "Competing in a Marketplace",
+          "description": "Booksy's marketplace model promotes your competitors to your clients, making it harder to build loyalty."
+        },
+        {
+          "title": "High Booking & Payment Fees",
+          "description": "Subscription costs plus transaction fees on bookings and payments eat into your profit margins."
+        },
+        {
+          "title": "Limited Multi-Location Tools",
+          "description": "Managing multiple shops requires workarounds, lacking the unified analytics needed for true operational oversight."
+        }
+      ],
+      "comparison": {
+        "title": "asyncz vs. {competitor}: For Brand-Focused Businesses",
+        "features": [
+          { "name": "Client Marketplace", "competitor": true, "asyncz": false },
+          { "name": "Direct Booking Link", "competitor": true, "asyncz": true },
+          { "name": "Booking/Payment Fees", "competitor": true, "asyncz": false },
+          { "name": "Unified Multi-Branch Dashboard", "competitor": false, "asyncz": true },
+          { "name": "AI-Powered Waitlists", "competitor": false, "asyncz": true },
+          { "name": "Full Branding on Custom Domain", "competitor": false, "asyncz": true },
+          { "name": "Advanced Operational Analytics", "competitor": false, "asyncz": true }
+        ]
+      },
+      "testimonial": {
+        "quote": "Leaving the Booksy marketplace was the best decision for our brand. With asyncz, our clients book directly through our site, and we're not losing them to nearby competitors. The operational analytics are also leagues ahead.",
+        "author": "Chloe Davis",
+        "role": "Owner, The Modern Barber, former {competitor} user"
+      },
+      "finalCta": {
+        "title": "Ready to Build Your Own Empire?",
+        "subtitle": "Stop paying to be listed next to your competition. Invest in a platform that invests in your brand's growth.",
+        "cta": "Start Your Free Trial"
+      }
+    },
+    "vagaro": {
+      "name": "Vagaro",
+      "seo": {
+        "title": "A Modern Vagaro Alternative | asyncz",
+        "description": "Feeling overwhelmed by Vagaro's complex interface and add-on fees? asyncz offers a streamlined, modern alternative with powerful AI features and transparent pricing for salons, spas, and fitness studios.",
+        "keywords": ["vagaro alternative", "salon management software", "asyncz vs vagaro", "fitness studio software"]
+      },
+      "hero": {
+        "title": "Looking for a Simpler, Smarter {competitor} Alternative?",
+        "subtitle": "{competitor} tries to do everything, resulting in a complex system with hidden costs. asyncz focuses on delivering a world-class scheduling and operations experience with transparent, all-inclusive pricing.",
+        "cta": "Discover a Better Workflow"
+      },
+      "painPointsTitle": "Frustrated with {competitor}'s Complexity?",
+      "painPoints": [
+        {
+          "title": "Death by a Thousand Add-ons",
+          "description": "Essential features like forms, marketing, and branding are all extra monthly fees that quickly inflate your bill."
+        },
+        {
+          "title": "Clunky, Outdated Interface",
+          "description": "The user experience can feel slow and unintuitive, making staff training and daily operations a chore."
+        },
+        {
+          "title": "Limited Advanced Automation",
+          "description": "Lacks modern AI features like intelligent waitlists and advanced operational routing for multi-location businesses."
+        }
+      ],
+      "comparison": {
+        "title": "asyncz vs. {competitor}: Simplicity Meets Power",
+        "features": [
+          { "name": "All-in-One Platform (POS, Payroll)", "competitor": true, "asyncz": false },
+          { "name": "À La Carte Feature Pricing", "competitor": true, "asyncz": false },
+          { "name": "Modern, Intuitive UI", "competitor": false, "asyncz": true },
+          { "name": "AI-Powered Waitlists & Routing", "competitor": false, "asyncz": true },
+          { "name": "Transparent, All-Inclusive Plans", "competitor": false, "asyncz": true },
+          { "name": "Advanced Multi-Branch Analytics", "competitor": false, "asyncz": true },
+          { "name": "Dedicated Customer Success Manager", "competitor": false, "asyncz": true }
+        ]
+      },
+      "testimonial": {
+        "quote": "We switched from Vagaro because we were tired of the constant upsells and the clunky interface. asyncz is a breath of fresh air. It's so much faster, and the AI waitlist feature has been a game-changer for filling last-minute cancellations.",
+        "author": "Liam Johnson",
+        "role": "Studio Manager, former {competitor} user"
+      },
+      "finalCta": {
+        "title": "Upgrade to a Modern Operations Platform",
+        "subtitle": "Focus on your clients, not on navigating a complex system. See how asyncz can streamline your business.",
+        "cta": "Start Your Free Trial"
+      }
+    },
+    "simplybook": {
+      "name": "SimplyBook.me",
+      "seo": {
+        "title": "SimplyBook.me Alternative for Service Businesses | asyncz",
+        "description": "Confused by SimplyBook.me's custom feature limits and pricing? asyncz is the straightforward alternative with powerful features built-in, designed for scaling multi-location service businesses.",
+        "keywords": ["simplybook.me alternative", "booking system", "asyncz vs simplybook.me"]
+      },
+      "hero": {
+        "title": "Need a More Powerful, All-Inclusive Alternative to {competitor}?",
+        "subtitle": "The 'custom feature' system of {competitor} can be limiting and expensive. asyncz includes advanced team and multi-branch features out-of-the-box, with clear, predictable pricing.",
+        "cta": "Simplify Your Scheduling Stack"
+      },
+      "painPointsTitle": "Outgrowing the {competitor} Plugin System?",
+      "painPoints": [
+        {
+          "title": "Confusing Custom Features",
+          "description": "Essential functions are treated as plugins, with limits on how many you can use per plan, creating complexity and hidden costs."
+        },
+        {
+          "title": "Not Built for Teams",
+          "description": "While flexible, it lacks the dedicated multi-branch dashboards and operational analytics needed to manage a growing team."
+        },
+        {
+          "title": "Dated User Experience",
+          "description": "The interface can feel less modern and intuitive compared to newer platforms, slowing down both staff and clients."
+        }
+      ],
+      "comparison": {
+        "title": "asyncz vs. {competitor}: Built-in Power vs. Add-ons",
+        "features": [
+          { "name": "Plugin-Based Features", "competitor": true, "asyncz": false },
+          { "name": "Wide Range of Integrations", "competitor": true, "asyncz": true },
+          { "name": "Free Plan Available", "competitor": true, "asyncz": true },
+          { "name": "Unified Multi-Branch Dashboard", "competitor": false, "asyncz": true },
+          { "name": "Advanced Team Analytics (Built-in)", "competitor": false, "asyncz": true },
+          { "name": "Modern, Intuitive Interface", "competitor": false, "asyncz": true },
+          { "name": "AI-Powered Automation", "competitor": false, "asyncz": true }
+        ]
+      },
+      "testimonial": {
+        "quote": "We hit a wall with SimplyBook.me's custom feature limits. To get the functionality we needed for our three locations, the price was astronomical. asyncz had everything we needed built-in for a fraction of the cost.",
+        "author": "Isabella Rossi",
+        "role": "Operations Director, former {competitor} user"
+      },
+      "finalCta": {
+        "title": "Stop Paying for Every Single Feature",
+        "subtitle": "Get a powerful, all-in-one platform that's ready to scale with you from day one.",
+        "cta": "Explore Our All-Inclusive Plans"
+      }
+    },
+    "boulevard": {
+      "name": "Boulevard",
+      "seo": {
+        "title": "Boulevard Alternative: Enterprise Power, Accessible Price | asyncz",
+        "description": "Love Boulevard's premium feel but not the premium price? asyncz offers a powerful, elegant, and modern scheduling platform for salons and spas at a fraction of the cost.",
+        "keywords": ["boulevard alternative", "joinblvd alternative", "salon software", "spa software", "asyncz vs boulevard"]
+      },
+      "hero": {
+        "title": "The Smart, Accessible Alternative to {competitor}",
+        "subtitle": "{competitor} sets a high bar for experience but comes with a prohibitive price tag. asyncz delivers the same premium, client-centric experience with powerful operational tools, built for ambitious, growing brands.",
+        "cta": "Get Enterprise Power, Smarter Price"
+      },
+      "painPointsTitle": "Is {competitor}'s Price Tag Justified?",
+      "painPoints": [
+        {
+          "title": "Extremely High Cost",
+          "description": "As a premium-tier product, Boulevard's pricing is often out of reach for independent salons, spas, and growing businesses."
+        },
+        {
+          "title": "Complex for Smaller Teams",
+          "description": "The extensive feature set can be overkill and complex to manage for teams that don't need every single bell and whistle."
+        },
+        {
+          "title": "Focus on High-End Market",
+          "description": "The platform is heavily tailored to luxury salons, potentially making it less flexible for other types of service businesses."
+        }
+      ],
+      "comparison": {
+        "title": "asyncz vs. {competitor}: Premium Experience for All",
+        "features": [
+          { "name": "Polished Client Experience", "competitor": true, "asyncz": true },
+          { "name": "Advanced Messaging & Marketing", "competitor": true, "asyncz": true },
+          { "name": "Premium Pricing", "competitor": true, "asyncz": false },
+          { "name": "Accessible for Growing Businesses", "competitor": false, "asyncz": true },
+          { "name": "AI-Powered Operational Analytics", "competitor": false, "asyncz": true },
+          { "name": "Transparent, Scalable Plans", "competitor": false, "asyncz": true },
+          { "name": "Fast & Simple Onboarding", "competitor": false, "asyncz": true }
+        ]
+      },
+      "testimonial": {
+        "quote": "We loved the look and feel of Boulevard but just couldn't justify the cost for our two locations. asyncz gave us that same high-end feel for our clients, plus operational tools that were even better for managing our staff across branches.",
+        "author": "Olivia Chen",
+        "role": "Co-founder, Aura Beauty Studios, former {competitor} evaluator"
+      },
+      "finalCta": {
+        "title": "Don't Pay a Premium for a Premium Experience",
+        "subtitle": "Deliver five-star service to your clients and empower your team with a platform that's both powerful and affordable.",
+        "cta": "See Our Transparent Pricing"
+      }
     }
   }
 }
