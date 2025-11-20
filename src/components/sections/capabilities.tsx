@@ -56,6 +56,8 @@ export function Capabilities() {
                       src={capability.image}
                       alt={`${capability.title} preview`}
                       loading="lazy"
+                      width={index === 2 ? 1000 : 1200}
+                      height={index === 2 ? 600 : 720}
                       className="rounded-2xl shadow-2xl w-full object-cover"
                   />
                 </div>

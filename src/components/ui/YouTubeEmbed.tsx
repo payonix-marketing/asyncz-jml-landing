@@ -35,7 +35,7 @@ export function YouTubeEmbed({ videoId, title }: YouTubeEmbedProps) {
       <img
         src={thumbnailUrl}
         alt={`Thumbnail for YouTube video: ${title}`}
-        loading="lazy"
+        fetchPriority="high"
         width="1920"
         height="1080"
         className="w-full h-full object-cover rounded-2xl shadow-2xl"
