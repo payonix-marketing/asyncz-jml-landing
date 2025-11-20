@@ -1,6 +1,6 @@
 import {Facebook, Linkedin, Instagram} from "lucide-react";
 import { Link } from "wouter";
-import logo from "src/assets/logo.png";
+import logo from "src/assets/logo.webp";
 import { getLocalizedPath, useLanguage } from "src/context/LanguageContext";
 
 export function Footer() {
@@ -79,7 +79,7 @@ export function Footer() {
             <div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <Link to={localize("/")} className="flex items-center space-x-2">
-                  <img src={logo} alt={t("footer.logoAlt") ?? "asyncz logo"} className="w-[8rem]" loading="lazy" />
+                  <img src={logo} alt={t("footer.logoAlt") ?? "asyncz logo"} className="w-[8rem]" loading="lazy" width="256" height="70" />
                   <span className="font-serif text-2xl font-bold text-primary dark:text-primary">
                 </span>
                 </Link>
