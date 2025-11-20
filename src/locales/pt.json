@@ -1,0 +1,556 @@
+{
+  "common": {
+    "asyncz": "asyncz",
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "close": "Fechar",
+    "back": "Voltar",
+    "next": "Avançar",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "search": "Pesquisar",
+    "filter": "Filtrar",
+    "clear": "Limpar",
+    "all": "Todos",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "navigation": {
+    "home": "Início",
+    "pricing": "Preços",
+    "features": "Recursos",
+    "aboutUs": "Sobre nós",
+    "howItWorks": "Como funciona",
+    "faq": "FAQ",
+    "contact": "Contato",
+    "language": "Idioma",
+    "signIn": "Comece agora",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Garanta seu acesso vitalício ao Pro",
+    "titleHighlight": "enquanto ainda somos novos!",
+    "description": "O asyncz com IA é a plataforma de agendamento da próxima geração. Como usuário inicial, você pode obter nosso pacote Pro completo para sempre totalmente gratuito. Potencialize sua equipe e seu negócio para maximizar a produtividade sem limites.",
+    "startFreeTrial": "Garanta o Pro vitalício agora",
+    "exploreFeatures": "Explorar recursos",
+    "learnAboutUs": "Conheça mais sobre nós →"
+  },
+  "trustedBy": {
+    "title": "Confiado por",
+    "count": " ",
+    "subtitle": "Equipes visionárias"
+  },
+  "pricing": {
+    "title": "Escolha o plano perfeito",
+    "description": "🚀 Oferta para pioneiros: ainda estamos lançando e não temos preços definidos! Garanta sua conta Pro vitalícia gratuita agora — oferta por tempo limitado para os primeiros clientes.",
+    "monthly": "Mensal",
+    "yearly": "Anual",
+    "savePercent": "(Economize ~17%)",
+    "mostPopular": "Mais popular",
+    "getStarted": "Começar",
+    "startFreeTrial": "Iniciar teste gratuito",
+    "contactSales": "Falar com vendas",
+    "bookDemo": "Agendar demonstração",
+    "viewFullPricing": "Ver todos os preços",
+    "needHelpChoosing": "Precisa de ajuda para escolher?",
+    "demoDescription": "Agende uma demonstração personalizada para ver o asyncz em ação e encontrar o plano ideal para o seu negócio.",
+    "studentPlan": "Plano para estudantes",
+    "studentDescription": "Recursos Pro gratuitos! O asyncz apoia estudantes com acesso profissional sem custo.",
+    "contactToGetStarted": "Fale conosco para começar",
+    "plans": {
+      "free": {
+        "name": "Gratuito",
+        "description": "Ideal para indivíduos"
+      },
+      "starter": {
+        "name": "Starter",
+        "description": "Para equipes pequenas"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Para empresas em crescimento"
+      },
+      "enterprise": {
+        "name": "Premium",
+        "description": "Para grandes organizações"
+      }
+    }
+  },
+  "features": {
+    "title": "Por que escolher",
+    "titleHighlight": "asyncz",
+    "subtitle": "Descubra os recursos poderosos que tornam o asyncz a solução definitiva de agendamento para equipes modernas",
+    "exploreAllFeatures": "Ver todos os recursos",
+    "smartCalendar": {
+      "title": "Gestão inteligente de agenda",
+      "description": "Visões avançadas com modos diário, semanal e mensal. Gerencie vários especialistas e unidades sem esforço."
+    },
+    "multiBranch": {
+      "title": "Gestão multiloja",
+      "description": "Administre múltiplas unidades, atribua especialistas e organize agendas em todos os locais."
+    },
+    "analytics": {
+      "title": "Análises avançadas",
+      "description": "Painel completo com insights, relatórios e análises orientadas por dados para otimizar suas operações."
+    },
+    "blacklistProtection": {
+      "title": "Proteção inteligente de blacklist",
+      "description": "Bloqueie automaticamente clientes problemáticos com base em padrões de e-mail ou telefone para proteger a qualidade do serviço."
+    },
+    "customBranding": {
+      "title": "Branding personalizado",
+      "description": "Personalize notificações por e-mail com sua marca para uma experiência profissional."
+    },
+    "domainIntegration": {
+      "title": "Integração com seu domínio",
+      "description": "Integre o agendamento diretamente no seu domínio para manter a consistência da marca."
+    }
+  },
+  "footer": {
+    "logoAlt": "Logotipo da asyncz",
+    "companyDescription": "Potencializamos negócios com soluções inteligentes de agendamento que maximizam a produtividade e simplificam operações.",
+    "sections": [
+      {
+        "title": "Produtos",
+        "links": [
+          {
+            "name": "Como funciona",
+            "href": "/how-it-works"
+          },
+          {
+            "name": "Recursos",
+            "action": "scrollToFeatures"
+          },
+          {
+            "name": "Preços",
+            "href": "/pricing"
+          },
+          {
+            "name": "Experimente grátis",
+            "href": "https://app.asyncz.com/"
+          },
+          {
+            "name": "Documentação da API",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Empresa",
+        "links": [
+          {
+            "name": "Sobre nós",
+            "href": "/about-us"
+          },
+          {
+            "name": "Depoimentos",
+            "action": "scrollToTestimonials"
+          },
+          {
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "name": "Contato",
+            "action": "scrollToContact"
+          }
+        ]
+      },
+      {
+        "title": "Suporte",
+        "links": [
+          {
+            "name": "Central de ajuda",
+            "href": "/help-center"
+          },
+          {
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "name": "Política de privacidade",
+            "href": "/privacy-policy"
+          },
+          {
+            "name": "Termos de uso",
+            "href": "/terms-conditions"
+          },
+          {
+            "name": "Política de cookies",
+            "href": "/cookie-policy"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "Facebook",
+        "href": "https://www.facebook.com/asynczcom",
+        "label": "Facebook"
+      },
+      {
+        "icon": "Instagram",
+        "href": "https://www.instagram.com/asynczcom",
+        "label": "X"
+      },
+      {
+        "icon": "Linkedin",
+        "href": "https://www.linkedin.com/company/asynczcom/",
+        "label": "LinkedIn"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 asyncz por",
+      "deviofy": {
+        "name": "Deviofy",
+        "href": "https://deviofy.com"
+      },
+      "allRightsReserved": ". Todos os direitos reservados."
+    },
+    "bottomLinks": {
+      "privacyPolicy": {
+        "name": "Política de privacidade",
+        "href": "/privacy-policy"
+      },
+      "termsOfService": {
+        "name": "Termos de uso",
+        "href": "/terms-conditions"
+      },
+      "cookiePolicy": {
+        "name": "Política de cookies",
+        "href": "/cookie-policy"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": "Fale conosco",
+    "sectionDescription": "Tem dúvidas? Estamos prontos para ajudar você a começar com o asyncz",
+    "infoTitle": "Informações de contato",
+    "phoneTitle": "Telefone",
+    "emailTitle": "E-mail",
+    "addressTitle": "Endereço",
+    "fields": {
+      "name": "Nome",
+      "namePlaceholder": "Seu nome",
+      "email": "E-mail",
+      "emailPlaceholder": "seu.email@exemplo.com",
+      "subject": "Assunto",
+      "subjectPlaceholder": "Como podemos ajudar?",
+      "message": "Mensagem",
+      "messagePlaceholder": "Conte mais sobre suas necessidades..."
+    },
+    "sendMessage": "Enviar mensagem",
+    "sending": "Enviando...",
+    "validationError": "Preencha todos os campos",
+    "thankYou": "Obrigado pela mensagem! Entraremos em contato em breve.",
+    "error": "Não foi possível enviar sua mensagem. Tente novamente.",
+    "goToContactPage": "Ver página de contato"
+  },
+  "capabilities": {
+    "sectionTitlePart1": "Uma plataforma,",
+    "sectionTitlePart2": "muitos superpoderes",
+    "sectionDescription": "Descubra o conjunto completo de ferramentas que transforma o asyncz no seu centro de agendamentos",
+    "smartCalendar": {
+      "title": "Gestão inteligente de agenda",
+      "description": "Experimente um calendário de outro nível com agendamento inteligente, arrastar e soltar compromissos e visões flexíveis.",
+      "features": [
+        "Visões diária, semanal e mensal",
+        "Gestão de compromissos com arrastar e soltar",
+        "Coordenação de agenda entre vários especialistas"
+      ]
+    },
+    "analytics": {
+      "title": "Insights e análises avançadas",
+      "description": "Transforme dados do negócio em decisões com análises completas que revelam padrões, otimizam performance e aceleram o crescimento.",
+      "features": [
+        "Métricas em tempo real",
+        "Análise de engajamento do cliente",
+        "Insights para otimização de receita"
+      ]
+    },
+    "collaboration": {
+      "title": "Colaboração perfeita de equipe",
+      "description": "Una sua equipe com ferramentas que agilizam a comunicação, coordenam agendas e mantêm todos alinhados.",
+      "features": [
+        "Acessos com base em função",
+        "Gestão multiloja",
+        "Notificações em tempo real"
+      ]
+    }
+  },
+  "testimonials": {
+    "sectionTitlePart1": "O que nossos",
+    "sectionTitlePart2": "clientes dizem",
+    "sectionSubtitle": "Junte-se a milhares de empresas satisfeitas que estão transformando seus agendamentos",
+    "list": [
+      {
+        "name": "Elena Gilbert",
+        "position": "Coordenadora de projetos",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b332c38c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "O asyncz revolucionou o fluxo de trabalho da nossa equipe com agendamentos fluídos e análises completas, elevando a produtividade em toda a empresa."
+      },
+      {
+        "name": "Michael Smith",
+        "position": "Gerente de operações",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "O painel analítico nos entrega insights incríveis. Reduzimos faltas em 40% e aumentamos a eficiência de forma dramática."
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "CEO, HealthCare Plus",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "Gerenciar várias unidades era um caos antes do asyncz. Agora tudo está centralizado e nossa coordenação nunca foi tão boa."
+      }
+    ],
+    "ctaTitle": "Pronto para transformar seus agendamentos?",
+    "ctaDescription": "Junte-se a mais de 1.000 empresas que já usam o asyncz",
+    "ctaButton": "Comece seu teste gratuito de 28 dias"
+  },
+  "locationSpotlight": {
+    "tagline": "Especialistas locais",
+    "title": "asyncz para equipes ao redor do mundo",
+    "description": "Mantenha unidades alinhadas de ponta a ponta com experiências de agendamento localizadas, roteamento por IA e automações prontas para cada região.",
+    "ctaLabel": "Veja como o asyncz apoia equipes globais",
+    "ctaHref": "/contact",
+    "highlights": [
+      {
+        "icon": "map",
+        "title": "Agendamento em conformidade regional",
+        "description": "Aplique bloqueios por estado e cidade, impostos de serviço e regras de profissionais sem duplicar calendários."
+      },
+      {
+        "icon": "users",
+        "title": "Suporte bilíngue na linha de frente",
+        "description": "Especialistas em inglês e espanhol garantem que cada recepção esteja confiante e alinhada."
+      }
+    ]
+  },
+  "notFound": {
+    "tagline": "Você encontrou um horário vazio",
+    "title": "Esta página saiu da agenda",
+    "subtitle": "O URL que você acessou não existe mais. Explore os recursos do asyncz para voltar ao ritmo.",
+    "primaryCta": "Voltar para a página inicial",
+    "secondaryCta": "Falar com o suporte",
+    "linkDescription": "Descubra mais sobre {section}.",
+    "explore": "Explorar"
+  },
+  "featuresPage": {
+    "pageTitle": "Recursos - asyncz | Fluxos de agendamento com IA",
+    "metaDescription": "Explore os recursos do asyncz, incluindo orquestração multiloja, proteção contra listas de bloqueio, dashboards analíticos e listas de espera inteligentes.",
+    "keywords": [
+      "recursos asyncz",
+      "agendamento com ia",
+      "automação de lista de espera",
+      "calendário multiloja",
+      "analítica asyncz"
+    ],
+    "tagline": "Tour do produto",
+    "heroTitle": "Orquestração completa para cada fluxo de agendamento",
+    "heroSubtitle": "O asyncz reúne reservas, roteamento, lembretes e insights para que suas equipes entreguem um serviço consistente em todas as unidades.",
+    "primaryCta": "Comparar planos",
+    "secondaryCta": "Falar com vendas",
+    "coreTitle": "Capacidades centrais que crescem com suas unidades",
+    "coreDescription": "De calendários inteligentes a comunicações com a sua marca, o asyncz foi criado para simplificar operações complexas sem aumentar a equipe.",
+    "deepDives": [
+      {
+        "title": "Planejamento de capacidade multiloja",
+        "description": "Equilibre a demanda entre locais com janelas inteligentes de disponibilidade, regras de intervalo e limites de equipe."
+      },
+      {
+        "title": "Fluxos de comunicação automatizados",
+        "description": "Dispare confirmações, lembretes e follow-ups por WhatsApp, SMS e e-mail — sem acompanhamento manual."
+      },
+      {
+        "title": "Controles de acesso por função",
+        "description": "Ofereça à diretoria, gerentes e recepções as ferramentas certas sem comprometer a segurança."
+      }
+    ],
+    "deepDiveTitle": "Aprofunde nos fluxos que importam",
+    "deepDiveDescription": "O asyncz mapeia cada etapa da jornada do cliente — do primeiro contato ao reagendamento — para que nada escape.",
+    "analyticsHighlight": {
+      "title": "Análises operacionais em tempo real",
+      "description": "Acompanhe utilização, impacto de faltas e receita por assento com dashboards criados para marcas de serviços.",
+      "metrics": [
+        "Panoramas de desempenho por unidade e profissional",
+        "Motivos de cancelamento com sugestões de recuperação",
+        "Atribuição de marketing com tendências de conversão"
+      ]
+    },
+    "waitlistHighlight": {
+      "title": "Lista de espera com IA que preenche cada vaga",
+      "description": "O asyncz recomenda o melhor cliente com base em preferências, tempo de deslocamento e histórico de gasto para proteger cada horário.",
+      "metric": "Em média, 27% menos vagas vazias entre as unidades piloto."
+    },
+    "differentiatorTitle": "Por que o asyncz supera ferramentas de agendamento genéricas",
+    "differentiatorDescription": "Fluxos sob medida mantêm equipes multiloja alinhadas enquanto protegem contra faltas e tráfego fraudulento.",
+    "differentiators": [
+      {
+        "title": "Proteção avançada contra listas de bloqueio",
+        "description": "Pare reincidências identificando padrões em e-mail, telefone e métodos de pagamento."
+      },
+      {
+        "title": "Análises embutidas para cada papel",
+        "description": "Forneça os insights que cada membro precisa sem depender de planilhas."
+      },
+      {
+        "title": "API pronta desde o primeiro dia",
+        "description": "Sincronize disponibilidade com apps próprios e marketplaces parceiros por meio de webhooks seguros e APIs REST."
+      },
+      {
+        "title": "Experiências localizadas",
+        "description": "Atenda clientes em seis idiomas com conteúdo, notificações e páginas otimizadas para SEO."
+      }
+    ],
+    "finalCtaTitle": "Pronto para orquestrar cada agendamento com o asyncz?",
+    "finalCtaDescription": "Nossa equipe desenha suas unidades, automações e análises em menos de uma semana.",
+    "finalPrimaryCta": "Agendar sessão estratégica",
+    "finalSecondaryCta": "Ler histórias de clientes"
+  },
+  "contactPage": {
+    "pageTitle": "Contato asyncz | Agende uma sessão estratégica",
+    "metaDescription": "Fale com o asyncz para demos, preços ou suporte. Ligue para +1 (415) 555-0134, envie um e-mail para info@asyncz.com ou visite nosso escritório em San Francisco.",
+    "keywords": [
+      "contato asyncz",
+      "suporte asyncz",
+      "telefone asyncz",
+      "email asyncz"
+    ],
+    "tagline": "Vamos construir sua vantagem em agendamento",
+    "heroTitle": "Conecte-se com a equipe asyncz",
+    "heroSubtitle": "Compartilhe seus objetivos e criaremos um plano de implantação para suas unidades, equipe e clientes.",
+    "formTitle": "Envie uma mensagem",
+    "formSubtitle": "Conte como podemos ajudar e responderemos em um dia útil.",
+    "form": {
+      "name": "Nome completo",
+      "namePlaceholder": "Ana Souza",
+      "email": "E-mail corporativo",
+      "emailPlaceholder": "ana@suaempresa.com",
+      "company": "Empresa",
+      "companyPlaceholder": "Nome da organização",
+      "phone": "Telefone (opcional)",
+      "phonePlaceholder": "+55 11 99999-0000",
+      "topic": "Tema",
+      "topicPlaceholder": "Selecione um tema",
+      "topics": [
+        "Demonstração do produto",
+        "Pergunta sobre preços",
+        "Suporte de onboarding",
+        "Oportunidade de parceria",
+        "Assessoria de imprensa"
+      ],
+      "message": "Como podemos ajudar?",
+      "messagePlaceholder": "Compartilhe contexto, prazos e as unidades que deseja habilitar...",
+      "securityQuestion": "Quanto é {a} + {b}? (verificação anti-spam)",
+      "securityPlaceholder": "Informe a resposta",
+      "submit": "Enviar mensagem",
+      "success": "Obrigado! Responderemos em até um dia útil.",
+      "error": "Algo deu errado. Tente novamente."
+    },
+    "infoTitle": "Visite nossa sede",
+    "hoursTitle": "Horário de suporte (Horário do Pacífico)",
+    "supportTitle": "Suporte e onboarding",
+    "supportDescription": "Todo plano do asyncz inclui onboarding guiado, auditorias de automação e coaching operacional.",
+    "supportItems": {
+      "enterprise": "Especialistas em rollouts para equipes multiloja",
+      "email": "Caixa dedicada com resposta em menos de 24h",
+      "training": "Treinamentos ao vivo e trilhas de certificação"
+    },
+    "days": {
+      "monday": "Segunda-feira",
+      "tuesday": "Terça-feira",
+      "wednesday": "Quarta-feira",
+      "thursday": "Quinta-feira",
+      "friday": "Sexta-feira",
+      "saturday": "Sábado",
+      "sunday": "Domingo"
+    }
+  },
+  "blog": {
+    "pageTitle": "Blog asyncz | Ideias de agendamento com IA",
+    "metaDescription": "Leia insights do asyncz sobre agendamento com IA, fluxos de automação e análises para operações multiloja.",
+    "keywords": [
+      "blog asyncz",
+      "dicas de agendamento com ia",
+      "operações multiloja",
+      "automação asyncz"
+    ],
+    "tagline": "Insights para equipes de serviços modernas",
+    "heroTitle": "Inteligência de agendamento para cada unidade",
+    "heroSubtitle": "Playbooks, frameworks e benchmarks para líderes de operações que constroem jornadas confiáveis.",
+    "categories": [
+      "Produto",
+      "Operações",
+      "Crescimento"
+    ],
+    "allLabel": "Todos os temas",
+    "readMore": "Ler artigo",
+    "emptyState": "Nenhum artigo corresponde a esse filtro ainda.",
+    "articleNotFoundTitle": "Artigo não encontrado",
+    "articleNotFoundDescription": "Esta história pode ter sido retirada. Explore os posts mais recentes.",
+    "backToBlog": "Voltar ao blog",
+    "posts": [
+      {
+        "slug": "ai-scheduling-playbook",
+        "title": "Playbook de agendamento com IA para equipes multiloja",
+        "excerpt": "Frameworks para alinhar operações, automações e análises em todos os locais.",
+        "content": [
+          "A complexidade operacional cresce rápido quando sua marca expande. O asyncz centraliza regras para que cada filial siga o mesmo playbook comprovado.",
+          "Comece mapeando serviços, regras de disponibilidade e exceções. O motor de regras do asyncz permite aplicá-las uma vez e reutilizar em todos os lugares.",
+          "Inclua análises para manter a liderança informada sobre utilização, demanda e gargalos antes que impactem a experiência do cliente."
+        ],
+        "category": "Produto",
+        "author": "Equipe editorial asyncz",
+        "published": "2025-09-10",
+        "readingTime": "Leitura de 6 min",
+        "tags": [
+          "agendamento com ia",
+          "playbook",
+          "multiloja"
+        ]
+      },
+      {
+        "slug": "asyncz-automation-blueprint",
+        "title": "Blueprint de automação: reduza faltas com o asyncz",
+        "excerpt": "Modelos passo a passo para manter agendas cheias e clientes engajados.",
+        "content": [
+          "Combine janelas de confirmação, regras de pagamento e cadências de lembretes para cortar faltas sem adicionar trabalho administrativo.",
+          "O asyncz conecta WhatsApp, SMS e e-mail para que seus clientes recebam lembretes no canal preferido.",
+          "Use caminhos de escalonamento para atendimentos de alto valor e acione convites da lista de espera automaticamente quando surgir um horário."
+        ],
+        "category": "Operações",
+        "author": "Sucesso do cliente asyncz",
+        "published": "2025-08-22",
+        "readingTime": "Leitura de 5 min",
+        "tags": [
+          "automação",
+          "faltas",
+          "experiência do cliente"
+        ]
+      },
+      {
+        "slug": "multi-branch-analytics-guide",
+        "title": "Guia de análises para operadores multiloja",
+        "excerpt": "Dashboards e métricas que clientes asyncz acompanham para aumentar utilização e receita.",
+        "content": [
+          "Além de contagens básicas, o asyncz destaca conversão, retenção e tendências de reagendamento que impulsionam a receita.",
+          "Compare cada unidade em utilização, eficiência de equipe e desempenho por canal para priorizar treinamentos.",
+          "Use esses insights nos planos de marketing e contratação para continuar atraindo os clientes certos no momento ideal."
+        ],
+        "category": "Crescimento",
+        "author": "Equipe de dados asyncz",
+        "published": "2025-08-05",
+        "readingTime": "Leitura de 7 min",
+        "tags": [
+          "analítica",
+          "crescimento",
+          "dashboards"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1"
+    />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- <meta name="description"
+          content="asyncz is your ultimate scheduling companion, designed to streamline workflows for businesses and professionals. Simplify team collaboration, optimize scheduling, and maximize productivity effortlessly."> -->
+
+    <meta
+      name="description"
+      content="AI-powered customer appointment manager. Simplify scheduling, reduce no-shows, and automate bookings for teams and professionals."
+    />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/icon.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/icon.png" />
+    <link rel="mask-icon" href="/favicon/icon.png" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-REQQHVBZ0L"
+    ></script>
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MH57GWQC");
+    </script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-2STZM3FZGW"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+      gtag("config", "G-2STZM3FZGW");
+    </script>
+    <!-- Google Identity Services -->
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script>
+      window.$zoho = window.$zoho || {};
+      $zoho.salesiq = $zoho.salesiq || { ready: function () {} };
+    </script>
+    <script
+      id="zsiqscript"
+      data-src="https://salesiq.zohopublic.com/widget?wc=siqafdead65e35008e03490f3412bce59539f1edea69263f5d59f8a22554084604c6a5a55c8fcf72ae10c5dded535d296fa"
+      defer
+    ></script>
+    <script src="https://cdn.pagesense.io/js/899996274/13fb97eb39cf404ca8ad3122eab8cd9d.js"></script>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MH57GWQC"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- NEW SCRIPT to delay loading the Zoho widget -->
+    <script>
+      function loadZohoSalesIQ() {
+        const zohoScript = document.getElementById("zsiqscript");
+        // Only load the script if it hasn't been loaded already
+        if (zohoScript && !zohoScript.src) {
+          zohoScript.src = zohoScript.dataset.src;
+          // Remove the event listeners after the script is loaded
+          window.removeEventListener("scroll", loadZohoSalesIQ);
+          window.removeEventListener("mousemove", loadZohoSalesIQ);
+          window.removeEventListener("touchstart", loadZohoSalesIQ);
+          console.log("Zoho SalesIQ script loaded on user interaction.");
+        }
+      }
+
+      // Add event listeners for the first user interaction
+      window.addEventListener("scroll", loadZohoSalesIQ, { once: true });
+      window.addEventListener("mousemove", loadZohoSalesIQ, { once: true });
+      window.addEventListener("touchstart", loadZohoSalesIQ, { once: true });
+    </script>
+  </body>
+</html>

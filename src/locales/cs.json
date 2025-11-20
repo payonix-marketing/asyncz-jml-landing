@@ -1,0 +1,556 @@
+{
+  "common": {
+    "asyncz": "asyncz",
+    "loading": "Načítání...",
+    "error": "Chyba",
+    "success": "Hotovo",
+    "cancel": "Zrušit",
+    "save": "Uložit",
+    "delete": "Smazat",
+    "edit": "Upravit",
+    "close": "Zavřít",
+    "back": "Zpět",
+    "next": "Další",
+    "previous": "Předchozí",
+    "submit": "Odeslat",
+    "search": "Hledat",
+    "filter": "Filtrovat",
+    "clear": "Vymazat",
+    "all": "Vše",
+    "yes": "Ano",
+    "no": "Ne"
+  },
+  "navigation": {
+    "home": "Domů",
+    "pricing": "Ceník",
+    "features": "Funkce",
+    "aboutUs": "O nás",
+    "howItWorks": "Jak to funguje",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "language": "Jazyk",
+    "signIn": "Začít hned",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Získejte celoživotní přístup k Pro",
+    "titleHighlight": "dokud jsme stále noví!",
+    "description": "asyncz s umělou inteligencí je platforma nové generace pro plánování. Jako jeden z prvních uživatelů získáte celý balíček Pro navždy zdarma. Podpořte svůj tým a firmu v maximální produktivitě bez omezení.",
+    "startFreeTrial": "Získejte Pro navždy nyní",
+    "exploreFeatures": "Prozkoumat funkce",
+    "learnAboutUs": "Zjistit více →"
+  },
+  "trustedBy": {
+    "title": "Důvěřují nám",
+    "count": " ",
+    "subtitle": "Pokrokové týmy"
+  },
+  "pricing": {
+    "title": "Vyberte si ideální plán",
+    "description": "🚀 Nabídka pro první zákazníky: právě spouštíme a ceny ještě finalizujeme! Získejte doživotní účet Pro zdarma – časově omezená akce pro rané zájemce.",
+    "monthly": "Měsíčně",
+    "yearly": "Ročně",
+    "savePercent": "(Ušetříte ~17 %)",
+    "mostPopular": "Nejoblíbenější",
+    "getStarted": "Začít",
+    "startFreeTrial": "Spustit zkušební verzi",
+    "contactSales": "Kontaktovat obchod",
+    "bookDemo": "Domluvit demo",
+    "viewFullPricing": "Zobrazit celý ceník",
+    "needHelpChoosing": "Potřebujete poradit s výběrem?",
+    "demoDescription": "Naplánujte si osobní demo, uvidíte asyncz v akci a najdete pro svou firmu ideální plán.",
+    "studentPlan": "Studentský plán",
+    "studentDescription": "Pro funkce zdarma! asyncz podporuje studenty profesionálními nástroji pro plánování.",
+    "contactToGetStarted": "Kontaktujte nás a začněte",
+    "plans": {
+      "free": {
+        "name": "Zdarma",
+        "description": "Ideální pro jednotlivce"
+      },
+      "starter": {
+        "name": "Starter",
+        "description": "Pro malé týmy"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Pro rostoucí firmy"
+      },
+      "enterprise": {
+        "name": "Premium",
+        "description": "Pro velké organizace"
+      }
+    }
+  },
+  "features": {
+    "title": "Proč zvolit",
+    "titleHighlight": "asyncz",
+    "subtitle": "Poznejte silné funkce, díky nimž je asyncz nejlepším řešením plánování pro moderní týmy",
+    "exploreAllFeatures": "Zobrazit všechny funkce",
+    "smartCalendar": {
+      "title": "Chytrá správa kalendáře",
+      "description": "Pokročilé denní, týdenní a měsíční pohledy. Spravujte experty a pobočky bez námahy."
+    },
+    "multiBranch": {
+      "title": "Správa více poboček",
+      "description": "Snadno řiďte více lokalit, přidělujte experty a slaďte harmonogramy napříč všemi místy."
+    },
+    "analytics": {
+      "title": "Pokročilá analytika",
+      "description": "Komplexní dashboard s přehledy, reporty a datovou analytikou pro optimalizaci provozu."
+    },
+    "blacklistProtection": {
+      "title": "Chytrá ochrana proti černé listině",
+      "description": "Automaticky blokujte problematické zákazníky podle vzorců e-mailů či telefonních čísel a chraňte kvalitu služeb."
+    },
+    "customBranding": {
+      "title": "Vlastní branding",
+      "description": "Přizpůsobte e-mailová upozornění vlastním logem a vizuální identitou pro profesionální zkušenost."
+    },
+    "domainIntegration": {
+      "title": "Integrace s vlastním doménou",
+      "description": "Napojte rezervace přímo na svůj web a zachovejte jednotnou značku."
+    }
+  },
+  "footer": {
+    "logoAlt": "Logo asyncz",
+    "companyDescription": "Dodáváme chytrá řešení plánování, která zvyšují produktivitu a zjednodušují provoz.",
+    "sections": [
+      {
+        "title": "Produkty",
+        "links": [
+          {
+            "name": "Jak to funguje",
+            "href": "/how-it-works"
+          },
+          {
+            "name": "Funkce",
+            "action": "scrollToFeatures"
+          },
+          {
+            "name": "Ceník",
+            "href": "/pricing"
+          },
+          {
+            "name": "Vyzkoušet zdarma",
+            "href": "https://app.asyncz.com/"
+          },
+          {
+            "name": "Dokumentace API",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Společnost",
+        "links": [
+          {
+            "name": "O nás",
+            "href": "/about-us"
+          },
+          {
+            "name": "Reference",
+            "action": "scrollToTestimonials"
+          },
+          {
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "name": "Kontakt",
+            "action": "scrollToContact"
+          }
+        ]
+      },
+      {
+        "title": "Podpora",
+        "links": [
+          {
+            "name": "Centrum nápovědy",
+            "href": "/help-center"
+          },
+          {
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "name": "Zásady ochrany soukromí",
+            "href": "/privacy-policy"
+          },
+          {
+            "name": "Podmínky služby",
+            "href": "/terms-conditions"
+          },
+          {
+            "name": "Zásady cookies",
+            "href": "/cookie-policy"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "Facebook",
+        "href": "https://www.facebook.com/asynczcom",
+        "label": "Facebook"
+      },
+      {
+        "icon": "Instagram",
+        "href": "https://www.instagram.com/asynczcom",
+        "label": "X"
+      },
+      {
+        "icon": "Linkedin",
+        "href": "https://www.linkedin.com/company/asynczcom/",
+        "label": "LinkedIn"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 asyncz od",
+      "deviofy": {
+        "name": "Deviofy",
+        "href": "https://deviofy.com"
+      },
+      "allRightsReserved": ". Všechna práva vyhrazena."
+    },
+    "bottomLinks": {
+      "privacyPolicy": {
+        "name": "Zásady ochrany soukromí",
+        "href": "/privacy-policy"
+      },
+      "termsOfService": {
+        "name": "Podmínky služby",
+        "href": "/terms-conditions"
+      },
+      "cookiePolicy": {
+        "name": "Zásady cookies",
+        "href": "/cookie-policy"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": "Spojte se s námi",
+    "sectionDescription": "Máte dotazy? Pomůžeme vám začít s asyncz",
+    "infoTitle": "Kontaktní informace",
+    "phoneTitle": "Telefon",
+    "emailTitle": "E-mail",
+    "addressTitle": "Adresa",
+    "fields": {
+      "name": "Jméno",
+      "namePlaceholder": "Vaše jméno",
+      "email": "E-mail",
+      "emailPlaceholder": "your.email@example.com",
+      "subject": "Předmět",
+      "subjectPlaceholder": "Jak vám můžeme pomoci?",
+      "message": "Zpráva",
+      "messagePlaceholder": "Popište nám své potřeby..."
+    },
+    "sendMessage": "Odeslat zprávu",
+    "sending": "Odesílání...",
+    "validationError": "Vyplňte prosím všechna pole",
+    "thankYou": "Děkujeme za zprávu! Ozveme se co nejdříve.",
+    "error": "Zprávu se nepodařilo odeslat. Zkuste to znovu.",
+    "goToContactPage": "Přejít na kontakty"
+  },
+  "capabilities": {
+    "sectionTitlePart1": "Jedna platforma,",
+    "sectionTitlePart2": "mnoho super schopností",
+    "sectionDescription": "Objevte kompletní sadu nástrojů, která z asyncz dělá vaše centrum plánování",
+    "smartCalendar": {
+      "title": "Chytrá správa kalendáře",
+      "description": "Zažijte novou úroveň plánování díky inteligentnímu kalendáři, přetahování událostí a flexibilním pohledům.",
+      "features": [
+        "Denní, týdenní a měsíční pohledy",
+        "Správa schůzek přetažením",
+        "Koordinace více expertů"
+      ]
+    },
+    "analytics": {
+      "title": "Pokročilé přehledy a analýzy",
+      "description": "Proměňte data v akci – komplexní analýzy odhalují trendy, optimalizují výkon a podporují růst.",
+      "features": [
+        "Metriky v reálném čase",
+        "Analýza zapojení zákazníků",
+        "Doporučení pro maximalizaci tržeb"
+      ]
+    },
+    "collaboration": {
+      "title": "Bezproblémová týmová spolupráce",
+      "description": "Spojte tým s nástroji, které zjednoduší komunikaci, sladí kalendáře a udrží všechny v obraze.",
+      "features": [
+        "Přístupová práva podle rolí",
+        "Správa více poboček",
+        "Okamžité notifikace"
+      ]
+    }
+  },
+  "testimonials": {
+    "sectionTitlePart1": "Co říkají",
+    "sectionTitlePart2": "naši zákazníci",
+    "sectionSubtitle": "Přidejte se k tisícům firem, které mění své plánování",
+    "list": [
+      {
+        "name": "Elena Gilbert",
+        "position": "Koordinátorka projektů",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b332c38c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "asyncz revolučně změnil náš pracovní tok – díky plynulému plánování a hluboké analytice vzrostla produktivita v celém týmu."
+      },
+      {
+        "name": "Michael Smith",
+        "position": "Manažer provozu",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "Analytický dashboard nám dává neuvěřitelné vhledy. Snížili jsme počet nedostavení o 40 % a výrazně zvýšili efektivitu."
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "CEO, HealthCare Plus",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "Správa více poboček byla před asyncz noční můrou. Teď je vše centralizované a koordinace týmu nikdy nebyla lepší."
+      }
+    ],
+    "ctaTitle": "Připravení změnit vaše plánování?",
+    "ctaDescription": "Více než 1000 firem již používá asyncz",
+    "ctaButton": "Začněte 28denní zkušební verzi"
+  },
+  "locationSpotlight": {
+    "tagline": "Lokální odborníci",
+    "title": "asyncz pro týmy po celém světě",
+    "description": "Udržujte pobočky sladěné s lokalizovanými rezervacemi, směrováním pomocí AI a automatizací připravenou pro jednotlivé regiony.",
+    "ctaLabel": "Zjistěte, jak asyncz podporuje globální týmy",
+    "ctaHref": "/contact",
+    "highlights": [
+      {
+        "icon": "map",
+        "title": "Plánování v souladu s legislativou",
+        "description": "Uplatňujte místní omezení, daně a pravidla poskytovatelů bez duplikace kalendářů."
+      },
+      {
+        "icon": "users",
+        "title": "Dvojjazyčná podpora v první linii",
+        "description": "Specialisté v angličtině i španělštině pomáhají recepcím zvládnout spuštění s jistotou."
+      }
+    ]
+  },
+  "notFound": {
+    "tagline": "Našli jste volný slot",
+    "title": "Tato stránka je mimo plán",
+    "subtitle": "Odkaz, který jste následovali, již neexistuje. Prozkoumejte zdroje asyncz a vraťte se zpět do rytmu.",
+    "primaryCta": "Zpět na domovskou stránku",
+    "secondaryCta": "Kontaktovat podporu",
+    "linkDescription": "Zjistěte více o {section}.",
+    "explore": "Prozkoumat"
+  },
+  "featuresPage": {
+    "pageTitle": "Funkce - asyncz | Pracovní toky plánování s AI",
+    "metaDescription": "Prozkoumejte funkce asyncz včetně orchestrace více poboček, ochrany proti černé listině, analytických dashboardů a chytrých čekacích listin.",
+    "keywords": [
+      "funkce asyncz",
+      "plánování s AI",
+      "automatizace čekací listiny",
+      "kalendář pro více poboček",
+      "analytika asyncz"
+    ],
+    "tagline": "Prohlídka produktu",
+    "heroTitle": "All-in-one orchestrace každého rezervace",
+    "heroSubtitle": "asyncz sjednocuje rezervace, směrování, připomínky a analýzy, aby váš tým dodával konzistentní službu napříč pobočkami.",
+    "primaryCta": "Porovnat plány",
+    "secondaryCta": "Kontaktovat obchod",
+    "coreTitle": "Klíčové schopnosti, které rostou s vaší sítí",
+    "coreDescription": "Od chytrých kalendářů po komunikaci v barvách značky – asyncz zjednodušuje komplexní operace bez navyšování týmu.",
+    "deepDives": [
+      {
+        "title": "Plánování kapacity napříč pobočkami",
+        "description": "Vyvažujte poptávku chytrými okny dostupnosti, pravidly prodlev a limity personálu."
+      },
+      {
+        "title": "Automatizované komunikační toky",
+        "description": "Odesílejte potvrzení, připomínky a follow-up přes WhatsApp, SMS i e-mail bez ruční práce."
+      },
+      {
+        "title": "Řízení přístupu podle rolí",
+        "description": "Dejte centrále, manažerům i recepcím správné nástroje a zachovejte maximální bezpečnost."
+      }
+    ],
+    "deepDiveTitle": "Ponořte se do klíčových workflow",
+    "deepDiveDescription": "asyncz mapuje každý krok zákaznické cesty – od objevení po opětovnou rezervaci – aby nic neuniklo.",
+    "analyticsHighlight": {
+      "title": "Operační analytika v reálném čase",
+      "description": "Sledujte využití, dopad nedostavení a tržby na sedadlo v dashboardech navržených pro servisní značky.",
+      "metrics": [
+        "Přehled výkonu podle poboček a specialistů",
+        "Důvody zrušení s doporučeními",
+        "Marketingová atribuce a trendy konverzí"
+      ]
+    },
+    "waitlistHighlight": {
+      "title": "Chytrá čekací listina vyplní každou mezeru",
+      "description": "asyncz doporučí nejlepšího klienta podle preferencí, času cesty a historie útrat, aby každý slot zůstal obsazený.",
+      "metric": "Pilotní pobočky hlásí v průměru o 27 % méně neobsazených termínů."
+    },
+    "differentiatorTitle": "Proč asyncz předčí běžné rezervační nástroje",
+    "differentiatorDescription": "Specializované workflow drží multi-pobočkové týmy v souladu a chrání je před nedostaveními i spamem.",
+    "differentiators": [
+      {
+        "title": "Ochrana proti černé listině na podnikové úrovni",
+        "description": "Zastavte opakované nedostavení díky detekci vzorců v e-mailu, telefonu i platbách."
+      },
+      {
+        "title": "Vestavěná analytika pro každou roli",
+        "description": "Dodejte každému členovi týmu potřebné informace bez nutnosti exportů do tabulek."
+      },
+      {
+        "title": "API připravené od prvního dne",
+        "description": "Synchronizujte dostupnost s vlastními aplikacemi a tržišti přes bezpečné webhooky a REST API."
+      },
+      {
+        "title": "Lokalizované zážitky",
+        "description": "Obsah, notifikace a SEO stránky v šesti jazycích pro podporu globálních zákazníků."
+      }
+    ],
+    "finalCtaTitle": "Připraveni orchestrvat každou rezervaci s asyncz?",
+    "finalCtaDescription": "Náš tým navrhne vaše pobočky, automatizace a analytiku do týdne.",
+    "finalPrimaryCta": "Rezervovat strategickou konzultaci",
+    "finalSecondaryCta": "Přečíst si příběhy zákazníků"
+  },
+  "contactPage": {
+    "pageTitle": "Kontaktujte asyncz | Objednejte si strategickou konzultaci",
+    "metaDescription": "Spojte se s asyncz kvůli demo, cenám nebo podpoře. Zavolejte +1 (415) 555-0134, napište na info@asyncz.com nebo navštivte naši kancelář v San Franciscu.",
+    "keywords": [
+      "kontakt asyncz",
+      "podpora asyncz",
+      "telefon asyncz",
+      "email asyncz"
+    ],
+    "tagline": "Vybudujte si výhodu v plánování",
+    "heroTitle": "Spojte se s týmem asyncz",
+    "heroSubtitle": "Sdílejte své cíle a připravíme plán nasazení pro vaše pobočky, tým i zákazníky.",
+    "formTitle": "Pošlete nám zprávu",
+    "formSubtitle": "Dejte nám vědět, jak můžeme pomoci, odpovíme do jednoho pracovního dne.",
+    "form": {
+      "name": "Celé jméno",
+      "namePlaceholder": "Jan Novák",
+      "email": "Pracovní e-mail",
+      "emailPlaceholder": "jan@firma.cz",
+      "company": "Společnost",
+      "companyPlaceholder": "Název organizace",
+      "phone": "Telefon (volitelné)",
+      "phonePlaceholder": "+420 777 000 000",
+      "topic": "Téma",
+      "topicPlaceholder": "Vyberte téma",
+      "topics": [
+        "Produktové demo",
+        "Dotaz na ceny",
+        "Podpora s implementací",
+        "Partnerská příležitost",
+        "Média"
+      ],
+      "message": "Jak vám můžeme pomoci?",
+      "messagePlaceholder": "Sdílejte kontext, termíny a pobočky, které chcete spustit...",
+      "securityQuestion": "Kolik je {a} + {b}? (kontrola spamu)",
+      "securityPlaceholder": "Zadejte odpověď",
+      "submit": "Odeslat zprávu",
+      "success": "Děkujeme! Ozveme se do jednoho pracovního dne.",
+      "error": "Něco se pokazilo. Zkuste to prosím znovu."
+    },
+    "infoTitle": "Navštivte naši centrálu",
+    "hoursTitle": "Hodiny podpory (Pacifický čas)",
+    "supportTitle": "Podpora a onboarding",
+    "supportDescription": "Každý plán asyncz zahrnuje řízený onboarding, audit automatizace a operativní konzultace.",
+    "supportItems": {
+      "enterprise": "Specialisté na nasazení pro multi-pobočkové týmy",
+      "email": "Vyhrazená schránka s odpovědí do 24 hodin",
+      "training": "Živé školení a certifikační programy"
+    },
+    "days": {
+      "monday": "Pondělí",
+      "tuesday": "Úterý",
+      "wednesday": "Středa",
+      "thursday": "Čtvrtek",
+      "friday": "Pátek",
+      "saturday": "Sobota",
+      "sunday": "Neděle"
+    }
+  },
+  "blog": {
+    "pageTitle": "asyncz blog | Inspirace pro plánování s AI",
+    "metaDescription": "Čtěte postřehy asyncz o plánování s AI, automatizaci procesů a analytice pro multi-pobočkové provozy.",
+    "keywords": [
+      "asyncz blog",
+      "tipy pro plánování s AI",
+      "řízení poboček",
+      "asyncz automatizace"
+    ],
+    "tagline": "Postřehy pro moderní servisní týmy",
+    "heroTitle": "Inteligentní plánování pro každý provoz",
+    "heroSubtitle": "Playbooky, rámce a benchmarky pro provozní lídry, kteří budují spolehlivé zákaznické cesty.",
+    "categories": [
+      "Produkt",
+      "Provoz",
+      "Růst"
+    ],
+    "allLabel": "Všechna témata",
+    "readMore": "Přečíst článek",
+    "emptyState": "Zatím zde nejsou články odpovídající tomuto filtru.",
+    "articleNotFoundTitle": "Článek nenalezen",
+    "articleNotFoundDescription": "Tento příběh mohl být stažen. Projděte si nejnovější příspěvky.",
+    "backToBlog": "Zpět na blog",
+    "posts": [
+      {
+        "slug": "ai-scheduling-playbook",
+        "title": "Playbook pro plánování s AI pro multi-pobočkové týmy",
+        "excerpt": "Rámce pro sladění operací, automatizace a analytiky napříč všemi pobočkami.",
+        "content": [
+          "S růstem značky se komplexita provozu rychle zvyšuje. asyncz centralizuje pravidla, aby každá pobočka postupovala podle ověřeného playbooku.",
+          "Začněte mapováním služeb, pravidel dostupnosti a výjimek. Pravidlový engine asyncz umožňuje jednorázovou konfiguraci a znovupoužití všude.",
+          "Přidejte analytiku, aby vedení vidělo využití, poptávku a úzká místa dříve, než ovlivní zákaznickou zkušenost."
+        ],
+        "category": "Produkt",
+        "author": "Redakční tým asyncz",
+        "published": "2025-09-10",
+        "readingTime": "Čtení na 6 minut",
+        "tags": [
+          "plánování s AI",
+          "playbook",
+          "multi-pobočky"
+        ]
+      },
+      {
+        "slug": "asyncz-automation-blueprint",
+        "title": "Blueprint automatizace: snižte nedostavení s asyncz",
+        "excerpt": "Krok za krokem šablony, jak udržet kalendář plný a klienty angažované.",
+        "content": [
+          "Kombinujte okna potvrzení, platební pravidla a kadence připomínek, abyste dramaticky omezili nedostavení bez další administrativy.",
+          "asyncz propojuje WhatsApp, SMS i e-mail, takže zákazníci dostanou upozornění ve svém preferovaném kanálu.",
+          "Pro vysoce hodnotné termíny nastavte eskalační scénáře a automaticky zvěte čekající klienty, když se uvolní místo."
+        ],
+        "category": "Provoz",
+        "author": "Tým péče o zákazníky asyncz",
+        "published": "2025-08-22",
+        "readingTime": "Čtení na 5 minut",
+        "tags": [
+          "automatizace",
+          "nedostavení",
+          "zákaznická zkušenost"
+        ]
+      },
+      {
+        "slug": "multi-branch-analytics-guide",
+        "title": "Průvodce analytikou pro provozovatele více poboček",
+        "excerpt": "Dashboardy a metriky, které klienti asyncz sledují pro vyšší využití a tržby.",
+        "content": [
+          "Kromě základních čísel zvýrazňuje asyncz trendy konverze, retence a opakovaných rezervací, které předpovídají tržby.",
+          "Porovnejte pobočky podle využití, efektivity personálu a výkonu kanálů, abyste nastavili priority školení.",
+          "Využijte tyto poznatky v marketingových a náborových plánech, abyste oslovili správné zákazníky ve správný čas."
+        ],
+        "category": "Růst",
+        "author": "Datový tým asyncz",
+        "published": "2025-08-05",
+        "readingTime": "Čtení na 7 minut",
+        "tags": [
+          "analytika",
+          "růst",
+          "dashboard"
+        ]
+      }
+    ]
+  }
+}

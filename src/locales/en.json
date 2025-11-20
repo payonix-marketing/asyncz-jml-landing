@@ -1,0 +1,2091 @@
+{
+  "common": {
+    "asyncz": "asyncz",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "all": "All",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "navigation": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "features": "Features",
+    "aboutUs": "About Us",
+    "howItWorks": "How It Works",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "language": "Language",
+    "signIn": "Start now",
+    "blog": "Blog"
+  },
+  "home": {
+    "pageTitle": "Asyncz: AI-Powered Appointment Scheduling Software",
+    "metaDescription": "AI-powered customer appointment manager. Simplify scheduling, reduce no-shows, and automate bookings for teams and professionals."
+  },
+  "hero": {
+    "title": "Claim Your Lifetime Pro Access",
+    "titleHighlight": "While We're Still New!",
+    "description": "AI-powered asyncz is a next-gen scheduling platform. As an early user, you can get our full Pro package for life totally free. Empower your team and business to maximize productivity without limits.",
+    "startFreeTrial": "Claim Lifetime Pro Now",
+    "exploreFeatures": "Explore Features",
+    "learnAboutUs": "Learn About Us →"
+  },
+  "trustedBy": {
+    "title": "Trusted by",
+    "count": " ",
+    "subtitle": "Forward-Thinking Teams"
+  },
+  "pricing": {
+    "title": "Choose Your Perfect Plan",
+    "description": "🚀 Early Bird Special: We're new and don't have pricing yet! Claim your free lifetime Pro account now - limited time offer for early adopters.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "savePercent": "(Save ~17%)",
+    "mostPopular": "Most Popular",
+    "getStarted": "Get Started",
+    "startFreeTrial": "Start Free Trial",
+    "contactSales": "Contact Sales",
+    "bookDemo": "Book a Demo",
+    "viewFullPricing": "View Full Pricing",
+    "needHelpChoosing": "Need Help Choosing?",
+    "demoDescription": "Schedule a personalized demo to see asyncz in action and find the perfect plan for your business needs.",
+    "studentPlan": "Student Plan",
+    "studentDescription": "Pro features for free! asyncz supports students with complimentary access to professional scheduling tools.",
+    "contactToGetStarted": "Contact Us to Get Started",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "description": "Perfect for individuals"
+      },
+      "starter": {
+        "name": "Starter",
+        "description": "For small teams"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "For growing businesses"
+      },
+      "enterprise": {
+        "name": "Premium",
+        "description": "For large organizations"
+      }
+    }
+  },
+  "features": {
+    "title": "Why Choose",
+    "titleHighlight": "asyncz",
+    "subtitle": "Discover the powerful features that make asyncz the ultimate scheduling solution for modern teams",
+    "exploreAllFeatures": "Explore All Features",
+    "smartCalendar": {
+      "title": "Smart Calendar Management",
+      "description": "Advanced calendar views with day, week, and month perspectives. Manage multiple experts and branches seamlessly."
+    },
+    "multiBranch": {
+      "title": "Multi-Branch Management",
+      "description": "Effortlessly manage multiple branches, assign experts, and organize schedules across all locations."
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Comprehensive dashboard with insights, reports, and data-driven analytics to optimize your business operations."
+    },
+    "blacklistProtection": {
+      "title": "Smart Blacklist Protection",
+      "description": "Automatically block problematic customers based on email or phone number patterns to maintain service quality."
+    },
+    "customBranding": {
+      "title": "Custom Branding",
+      "description": "Personalize email notifications with your own logo and branding for a professional customer experience."
+    },
+    "domainIntegration": {
+      "title": "Domain Integration",
+      "description": "Integrate appointment booking directly into your custom domain for seamless brand consistency."
+    }
+  },
+  "footer": {
+    "logoAlt": "asyncz Logo",
+    "companyDescription": "Empowering businesses with intelligent scheduling solutions that maximize productivity and streamline operations.",
+    "sections": [
+      {
+        "title": "Products",
+        "links": [
+          {
+            "name": "How It Works",
+            "href": "/how-it-works"
+          },
+          {
+            "name": "Features",
+            "action": "scrollToFeatures"
+          },
+          {
+            "name": "Pricing",
+            "href": "/pricing"
+          },
+          {
+            "name": "Try for Free",
+            "href": "https://app.asyncz.com/"
+          },
+          {
+            "name": "API Documentation",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "name": "About Us",
+            "href": "/about-us"
+          },
+          {
+            "name": "Testimonials",
+            "action": "scrollToTestimonials"
+          },
+          {
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "name": "Contact",
+            "action": "scrollToContact"
+          }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          {
+            "name": "Help Center",
+            "href": "/help-center"
+          },
+          {
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "name": "Privacy Policy",
+            "href": "/privacy-policy"
+          },
+          {
+            "name": "Terms of Service",
+            "href": "/terms-conditions"
+          },
+          {
+            "name": "Cookie Policy",
+            "href": "/cookie-policy"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "Facebook",
+        "href": "https://www.facebook.com/asynczcom",
+        "label": "Facebook"
+      },
+      {
+        "icon": "Instagram",
+        "href": "https://www.instagram.com/asynczcom",
+        "label": "X"
+      },
+      {
+        "icon": "Linkedin",
+        "href": "https://www.linkedin.com/company/asynczcom/",
+        "label": "LinkedIn"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 asyncz by",
+      "deviofy": {
+        "name": "Deviofy",
+        "href": "https://deviofy.com"
+      },
+      "allRightsReserved": ". All rights reserved."
+    },
+    "bottomLinks": {
+      "privacyPolicy": {
+        "name": "Privacy Policy",
+        "href": "/privacy-policy"
+      },
+      "termsOfService": {
+        "name": "Terms of Service",
+        "href": "/terms-conditions"
+      },
+      "cookiePolicy": {
+        "name": "Cookie Policy",
+        "href": "/cookie-policy"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": "Get in Touch",
+    "sectionDescription": "Have questions? We're here to help you get started with asyncz",
+    "infoTitle": "Contact Information",
+    "phoneTitle": "Phone",
+    "emailTitle": "Email",
+    "addressTitle": "Address",
+    "fields": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your.email@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can we help?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us more about your needs..."
+    },
+    "sendMessage": "Send Message",
+    "sending": "Sending...",
+    "validationError": "Please fill in all fields",
+    "thankYou": "Thank you for your message! We'll get back to you soon.",
+    "error": "Sorry, there was an error sending your message. Please try again.",
+    "goToContactPage": "View contact page"
+  },
+  "capabilities": {
+    "sectionTitlePart1": "One Platform,",
+    "sectionTitlePart2": "Many Superpowers",
+    "sectionDescription": "Discover the comprehensive suite of tools that make asyncz your scheduling command center",
+    "smartCalendar": {
+      "title": "Smart Calendar Management",
+      "description": "Experience next-level calendar functionality with intelligent scheduling, drag-and-drop appointments, and multi-view perspectives that adapt to your workflow.",
+      "features": [
+        "Day, Week, and Month views",
+        "Drag-and-drop appointment management",
+        "Multi-expert schedule coordination"
+      ]
+    },
+    "analytics": {
+      "title": "Advanced Analytics & Insights",
+      "description": "Transform your business data into actionable insights with comprehensive analytics that reveal patterns, optimize performance, and drive growth.",
+      "features": [
+        "Real-time performance metrics",
+        "Customer engagement analytics",
+        "Revenue optimization insights"
+      ]
+    },
+    "collaboration": {
+      "title": "Seamless Team Collaboration",
+      "description": "Unite your team with powerful collaboration tools that streamline communication, coordinate schedules, and ensure everyone stays synchronized.",
+      "features": [
+        "Role-based access control",
+        "Multi-branch management",
+        "Real-time notifications"
+      ]
+    }
+  },
+  "testimonials": {
+    "sectionTitlePart1": "What Our",
+    "sectionTitlePart2": "Customers Say",
+    "sectionSubtitle": "Join thousands of satisfied businesses transforming their scheduling",
+    "list": [
+      {
+        "name": "Elena Gilbert",
+        "position": "Project Coordinator",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b332c38c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "asyncz has revolutionized our team's workflow with seamless scheduling and comprehensive data analysis tools, improving productivity across the board."
+      },
+      {
+        "name": "Michael Smith",
+        "position": "Operations Manager",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "The analytics dashboard gives us incredible insights into our business. We've reduced no-shows by 40% and increased efficiency dramatically."
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "CEO, HealthCare Plus",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "Managing multiple branches was a nightmare before asyncz. Now everything is centralized and our team coordination has never been better."
+      }
+    ],
+    "ctaTitle": "Ready to Transform Your Scheduling?",
+    "ctaDescription": "Join over 1,000 businesses already using asyncz",
+    "ctaButton": "Start Your 28-Day Free Trial"
+  },
+  "about": {
+    "pageTitle": "About Us - asyncz | Our Story & Mission",
+    "metaDescription": "Learn about asyncz's mission to revolutionize scheduling and discover the Deviofy team behind the innovative platform that serves businesses worldwide.",
+    "heroTitle": "About",
+    "heroDescription": "We're revolutionizing how businesses manage time and appointments. asyncz by Deviofy combines cutting-edge technology with intuitive design to create the ultimate scheduling platform.",
+    "heroButtonFreeTrial": "Start Your Free Trial",
+    "heroButtonContactSales": "Contact Sales",
+    "stats": [
+      {
+        "value": "50+",
+        "label": "Active Users"
+      },
+      {
+        "value": "600+",
+        "label": "Appointments Scheduled"
+      },
+      {
+        "value": "3+",
+        "label": "Countries Served"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime"
+      }
+    ],
+    "ourStoryTitle": "Our Story",
+    "ourStory1": "In 2022, our founders at Deviofy noticed a common problem across industries: businesses were struggling with fragmented scheduling tools that didn't work together. Healthcare providers juggled multiple systems, consultants lost bookings due to poor interfaces, and event planners spent hours coordinating schedules manually.",
+    "ourStory2": "We envisioned a single platform that could handle any scheduling need - from simple appointments to complex group events with voting mechanisms. asyncz was born from this vision, combining the power of modern technology with the simplicity that busy professionals need.",
+    "ourStory3": "Today, asyncz serves over 50 users across 3+ countries, proving that when you build something with genuine care for user experience, people notice.",
+    "industryRecognition": "Industry Recognition",
+    "industryRecognitionDesc": "Featured in TechCrunch and Product Hunt",
+    "customerSatisfaction": "Customer Satisfaction",
+    "customerSatisfactionDesc": "4.8/5 average rating with 2,000+ reviews",
+    "enterpriseTrust": "Enterprise Trust",
+    "enterpriseTrustDesc": "",
+    "missionVisionTitle": "Mission & Vision",
+    "missionVisionSubtitle": "We're building the future of time management, one appointment at a time.",
+    "missionTitle": "Our Mission",
+    "missionDesc": "To eliminate scheduling friction and help businesses focus on what they do best. We believe that time is the most valuable resource, and our mission is to help everyone make the most of it through intelligent, intuitive scheduling solutions.",
+    "visionTitle": "Our Vision",
+    "visionDesc": "A world where scheduling is effortless, intelligent, and accessible to everyone. We envision asyncz as the global standard for appointment management, powering millions of businesses and enabling seamless coordination across all industries.",
+    "valuesTitle": "Our Values",
+    "valuesSubtitle": "These principles guide everything we do at Deviofy and shape how we build asyncz.",
+    "values": [
+      {
+        "title": "Innovation First",
+        "description": "We constantly push the boundaries of what's possible in scheduling technology, delivering cutting-edge solutions that anticipate future needs."
+      },
+      {
+        "title": "Customer Success",
+        "description": "Your success is our success. We're committed to providing exceptional support and ensuring our platform grows with your business."
+      },
+      {
+        "title": "Reliability",
+        "description": "Built on enterprise-grade infrastructure, asyncz provides the reliability and security that businesses depend on every day."
+      },
+      {
+        "title": "Global Accessibility",
+        "description": "We believe scheduling should be simple for everyone, everywhere. Our platform serves businesses across 150+ countries."
+      }
+    ],
+    "journeyTitle": "Our Journey",
+    "journeySubtitle": "From startup to global platform - here's how asyncz came to life.",
+    "milestones": [
+      {
+        "year": "2022",
+        "title": "Foundation",
+        "description": "Deviofy was founded with a vision to simplify business operations through intelligent automation."
+      },
+      {
+        "year": "2023",
+        "title": "asyncz Launch",
+        "description": "We launched asyncz as a comprehensive scheduling platform, starting with basic appointment management."
+      },
+      {
+        "year": "2023",
+        "title": "Rapid Growth",
+        "description": "Reached 10 users and expanded to include team management and multi-location support."
+      },
+      {
+        "year": "2024",
+        "title": "Enterprise Ready",
+        "description": "Introduced advanced features like group scheduling, analytics, and enterprise-grade security."
+      },
+      {
+        "year": "2024",
+        "title": "Global Expansion",
+        "description": "Now serving 50+ users across 3+ countries with 24/7 multilingual support."
+      }
+    ],
+    "companyInfoTitle": "asyncz by Deviofy",
+    "companyInfoDesc": "asyncz is proudly developed and operated by Deviofy, a technology company based in IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, United Arab Emirates, specializing in business automation and scheduling solutions that serve clients worldwide.",
+    "companyDetailsTitle": "Company Details",
+    "company": "Deviofy",
+    "product": "asyncz Scheduling Platform",
+    "founded": "2022",
+    "headquarters": "IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, United Arab Emirates",
+    "globalReach": "150+ Countries",
+    "contact": "info@asyncz.com",
+    "officeAddressTitle": "Office Address",
+    "officeAddress1": "Deviofy Technology Solutions",
+    "officeAddress2": "IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, United Arab Emirates",
+    "officeEmail": "📧 info@asyncz.com",
+    "officePhone": "📞 +49 69 1234 5678",
+    "locationTitle": "Our Location",
+    "locationDesc": "Located in the heart of IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, United Arab Emirates",
+    "ctaTitle": "Ready to Join Our Story?",
+    "ctaDesc": "Experience the scheduling platform that's revolutionizing how businesses manage time.",
+    "ctaButtonFreeTrial": "Start Free Trial",
+    "ctaButtonScheduleDemo": "Schedule Demo"
+  },
+  "cookiePolicy": {
+    "pageTitle": "Cookie Policy - asyncz | How We Use Cookies & Tracking Technologies",
+    "metaDescription": "Learn about asyncz's comprehensive Cookie Policy and how we use cookies, tracking technologies, and similar tools to enhance your scheduling platform experience.",
+    "title": "Cookie Policy",
+    "lastUpdated": "Last updated: "
+  },
+  "faq": {
+    "pageTitle": "FAQ - asyncz | Frequently Asked Questions",
+    "metaDescription": "Find answers to frequently asked questions about asyncz scheduling platform. Learn about features, pricing, integrations, and how to get started.",
+    "heroTitle": "Frequently Asked",
+    "heroTitleHighlight": "Questions",
+    "heroDescription": "Find answers to common questions about asyncz features, pricing, and getting started",
+    "categories": [
+      {
+        "category": "Getting Started",
+        "questions": [
+          {
+            "question": "What is asyncz and how does it work?",
+            "answer": "asyncz is a comprehensive scheduling platform designed to streamline appointment management for businesses of all sizes. It combines calendar management, branch coordination, expert scheduling, and analytics into one unified platform. asyncz works by providing intuitive tools for scheduling appointments, managing multiple locations, coordinating team members, and analyzing business performance."
+          },
+          {
+            "question": "How do I get started with asyncz?",
+            "answer": "Getting started is simple! Click 'Try for Free' on our homepage to access your 28-day free trial. You can explore all Premium features during the trial period. After registration, you'll be guided through the setup process where you can add your business information, create branches, add team members, and configure your services."
+          },
+          {
+            "question": "Do I need technical knowledge to use asyncz?",
+            "answer": "No technical knowledge is required! asyncz is designed with user-friendliness in mind. Our intuitive interface makes it easy for anyone to manage schedules, appointments, and business operations. We also provide comprehensive support and documentation to help you get the most out of the platform."
+          },
+          {
+            "question": "Can I migrate my existing appointments to asyncz?",
+            "answer": "Yes, we provide tools and support to help you migrate your existing appointment data to asyncz. Our customer success team can assist you with the migration process to ensure a smooth transition from your current scheduling system."
+          }
+        ]
+      },
+      {
+        "category": "Features & Functionality",
+        "questions": [
+          {
+            "question": "What calendar views are available?",
+            "answer": "asyncz offers three comprehensive calendar views: Day view for detailed daily scheduling, Week view for weekly planning and coordination, and Month view for long-term planning. All views support drag-and-drop functionality for easy appointment management."
+          },
+          {
+            "question": "How does branch management work?",
+            "answer": "Branch management allows you to organize multiple business locations from a single platform. You can assign experts to specific branches, manage branch-specific schedules, and control access permissions. Branch managers can only see and manage their assigned locations, while company managers have full access across all branches."
+          },
+          {
+            "question": "What is the blacklist protection feature?",
+            "answer": "Blacklist protection automatically blocks appointments from customers based on email addresses or phone numbers you've flagged. This feature helps prevent problematic customers from booking appointments and maintains service quality. It's available in Pro and Premium plans."
+          },
+          {
+            "question": "How does custom branding work?",
+            "answer": "Custom branding allows you to add your company logo to email notifications, appointment confirmations, and reminders. This creates a professional, consistent brand experience for your customers. Advanced branding options in Premium plans include custom domains for appointment booking."
+          },
+          {
+            "question": "What analytics and reports are available?",
+            "answer": "asyncz provides comprehensive analytics including appointment trends, expert utilization, revenue tracking, customer engagement metrics, and no-show rates. Premium plans include advanced business insights and detailed performance reports to help optimize your operations."
+          }
+        ]
+      },
+      {
+        "category": "Pricing & Plans",
+        "questions": [
+          {
+            "question": "What's included in the free plan?",
+            "answer": "The free plan includes basic calendar management for up to 3 experts, 2 procedures, 1 branch, basic analytics, chatbot support, and 5 Collabriq scheduler events per month. It's perfect for individuals and solo entrepreneurs getting started with digital scheduling."
+          },
+          {
+            "question": "What's the difference between monthly and yearly billing?",
+            "answer": "Yearly billing provides approximately 17% savings compared to monthly billing. For example, the Pro plan costs $11.99/month when billed monthly, or $119.99/year ($9.95/month) when billed annually. All yearly plans come with the same features and support."
+          },
+          {
+            "question": "How does the 28-day free trial work?",
+            "answer": "New users get full access to Premium plan features for 28 days at no cost. No credit card is required to start the trial. After the trial period, your account automatically reverts to the free plan unless you choose to upgrade to a paid plan."
+          },
+          {
+            "question": "Can I change my plan anytime?",
+            "answer": "Yes, you can upgrade or downgrade your plan at any time. Upgrades take effect immediately, while downgrades take effect at the end of your current billing cycle. We'll prorate charges for upgrades and provide credits for downgrades."
+          },
+          {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers for annual plans. All payments are processed securely through encrypted payment gateways."
+          },
+          {
+            "question": "Is there a student discount available?",
+            "answer": "Yes! We offer free Pro plan access to verified students. Contact our support team with your student credentials to apply for the student plan. This includes all Pro features at no cost during your studies."
+          }
+        ]
+      },
+      {
+        "category": "Technical & Integration",
+        "questions": [
+          {
+            "question": "Does asyncz work on mobile devices?",
+            "answer": "Yes, asyncz is fully responsive and works seamlessly on all devices including smartphones, tablets, and desktop computers. You can manage appointments, view schedules, and access all features from any device with an internet connection."
+          },
+          {
+            "question": "Can I integrate asyncz with my existing website?",
+            "answer": "Yes, Pro and Premium plans include embeddable appointment widgets that you can integrate into your existing website. Premium plans also offer custom domain integration for seamless brand consistency."
+          },
+          {
+            "question": "What integrations are available?",
+            "answer": "asyncz integrates with popular calendar applications, email systems, and business tools. Enterprise plans include API access for custom integrations, single sign-on (SSO), and advanced third-party connections."
+          },
+          {
+            "question": "Is my data secure and backed up?",
+            "answer": "Absolutely. We use enterprise-grade security measures including SSL encryption, regular security audits, and automated backups. Your data is stored in secure, compliant data centers with 99.9% uptime guarantee."
+          },
+          {
+            "question": "Can I export my data?",
+            "answer": "Yes, you can export your appointment data, customer information, and reports at any time. We provide various export formats including CSV and PDF to ensure you always have access to your business data."
+          }
+        ]
+      },
+      {
+        "category": "User Management & Permissions",
+        "questions": [
+          {
+            "question": "What user roles are available?",
+            "answer": "asyncz offers four user roles: Company Manager (full access), Branch Manager (branch-specific access), Expert (personal schedule access), and Receptionist (branch calendar access). Each role has specific permissions tailored to their responsibilities."
+          },
+          {
+            "question": "How many users can I add to my account?",
+            "answer": "User limits depend on your plan: Free plan supports basic user management, Starter plan includes multiple users, Pro plan offers advanced user management, and Premium plan provides unlimited users with detailed permission controls."
+          },
+          {
+            "question": "Can I control what each user can see and do?",
+            "answer": "Yes, asyncz provides role-based access control. You can customize permissions for each user role, ensuring team members only access information and features relevant to their responsibilities."
+          }
+        ]
+      },
+      {
+        "category": "Support & Training",
+        "questions": [
+          {
+            "question": "What support options are available?",
+            "answer": "Support varies by plan: Free and Starter plans include chatbot support, Pro plans add email support, and Premium plans provide 24/7 priority support with live chat and dedicated customer success managers."
+          },
+          {
+            "question": "Do you provide training for new users?",
+            "answer": "Yes, we offer comprehensive onboarding resources including video tutorials, documentation, and webinar training sessions. Premium customers receive personalized training sessions with their dedicated customer success manager."
+          },
+          {
+            "question": "How quickly do you respond to support requests?",
+            "answer": "Response times vary by plan: Email support typically responds within 24 hours, while Premium priority support provides responses within 2-4 hours. Emergency issues for Premium customers receive immediate attention."
+          },
+          {
+            "question": "Is there a knowledge base or documentation?",
+            "answer": "Yes, we maintain extensive documentation, video tutorials, and a searchable knowledge base covering all asyncz features. These resources are available 24/7 and regularly updated with new content."
+          }
+        ]
+      },
+      {
+        "category": "Enterprise & Custom Solutions",
+        "questions": [
+          {
+            "question": "What's included in Enterprise plans?",
+            "answer": "Enterprise plans include white-label implementation, unlimited branches/experts/procedures, custom domain integration, API access, SSO integration, dedicated account management, custom deployment options, and enhanced security compliance (GDPR, SOC 2)."
+          },
+          {
+            "question": "Do you offer on-premise deployment?",
+            "answer": "Yes, Enterprise customers can choose on-premise deployment options for enhanced security and control. This includes dedicated servers, custom security configurations, and local data storage to meet specific compliance requirements."
+          },
+          {
+            "question": "Can you develop custom features for our business?",
+            "answer": "Enterprise plans include custom development options. Our team can create specialized features, integrations, and workflows tailored to your specific business requirements. Contact our enterprise sales team to discuss your needs."
+          }
+        ]
+      }
+    ],
+    "stillHaveQuestions": {
+      "title": "Still Have Questions?",
+      "description": "Can't find what you're looking for? Our support team is here to help you.",
+      "supportOptions": [
+        {
+          "icon": "MessageCircle",
+          "title": "Live Chat",
+          "description": "Get instant help from our support team",
+          "contact": "Available for Premium customers"
+        },
+        {
+          "icon": "Mail",
+          "title": "Email Support",
+          "description": "Send us your questions anytime",
+          "contact": "info@asyncz.com"
+        },
+        {
+          "icon": "Phone",
+          "title": "Phone Support",
+          "description": "Speak directly with our team",
+          "contact": "+1 555 1234567"
+        }
+      ],
+      "contactSupportButton": "Contact Support",
+      "startFreeTrialButton": "Start Free Trial"
+    }
+  },
+  "helpCenter": {
+    "pageTitle": "Help Center - asyncz | Support Documentation",
+    "metaDescription": "Find help and support documentation for asyncz. Browse guides, tutorials, and resources to get the most out of your scheduling platform.",
+    "heroTitle": "Help",
+    "heroTitleHighlight": "Center",
+    "heroDescription": "Find answers, tutorials, and guides to help you get the most out of asyncz",
+    "searchPlaceholder": "Search for help articles, guides, and tutorials...",
+    "quickActions": {
+      "title": "Quick Actions",
+      "actions": [
+        {
+          "title": "Contact Support",
+          "description": "Get direct help from our support team",
+          "icon": "MessageCircle",
+          "action": "mailto:info@asyncz.com",
+          "type": "email"
+        },
+        {
+          "title": "Video Tutorials",
+          "description": "Watch step-by-step video guides",
+          "icon": "Video",
+          "action": "/video-tutorials",
+          "type": "link"
+        },
+        {
+          "title": "Mobile App",
+          "description": "Mobile app coming soon",
+          "icon": "Download",
+          "action": "#",
+          "type": "link"
+        },
+        {
+          "title": "System Status",
+          "description": "Check service availability and updates",
+          "icon": "Shield",
+          "action": "#",
+          "type": "link"
+        }
+      ]
+    },
+    "popularArticles": {
+      "title": "Popular Articles",
+      "readArticle": "Read article"
+    },
+    "browseByCategory": {
+      "title": "Browse by Category",
+      "categories": [
+        {
+          "id": "all",
+          "name": "All Topics",
+          "icon": "Book"
+        },
+        {
+          "id": "getting-started",
+          "name": "Getting Started",
+          "icon": "Users"
+        },
+        {
+          "id": "account",
+          "name": "Account & Settings",
+          "icon": "Settings"
+        },
+        {
+          "id": "billing",
+          "name": "Billing & Plans",
+          "icon": "CreditCard"
+        },
+        {
+          "id": "security",
+          "name": "Security & Privacy",
+          "icon": "Shield"
+        },
+        {
+          "id": "integrations",
+          "name": "Integrations",
+          "icon": "ExternalLink"
+        }
+      ],
+      "popularLabel": "Popular",
+      "noArticlesFound": "No articles found matching your search.",
+      "clearFilters": "Clear filters"
+    },
+    "articles": [
+      {
+        "category": "getting-started",
+        "title": "Quick Start Guide: Setting Up Your First Schedule",
+        "description": "Learn how to create your account, add team members, and schedule your first appointment.",
+        "type": "guide",
+        "readTime": "5 min read",
+        "popular": true
+      },
+      {
+        "category": "getting-started",
+        "title": "Adding and Managing Team Members",
+        "description": "Step-by-step guide to inviting experts, assigning roles, and managing permissions.",
+        "type": "tutorial",
+        "readTime": "3 min read",
+        "popular": true
+      },
+      {
+        "category": "getting-started",
+        "title": "Setting Up Your Business Information",
+        "description": "Configure your business details, branches, and services for optimal scheduling.",
+        "type": "guide",
+        "readTime": "4 min read",
+        "popular": false
+      },
+      {
+        "category": "account",
+        "title": "Managing Your Profile and Preferences",
+        "description": "Customize your account settings, notification preferences, and personal information.",
+        "type": "guide",
+        "readTime": "3 min read",
+        "popular": false
+      },
+      {
+        "category": "account",
+        "title": "Two-Factor Authentication Setup",
+        "description": "Secure your account with two-factor authentication for enhanced protection.",
+        "type": "tutorial",
+        "readTime": "2 min read",
+        "popular": true
+      },
+      {
+        "category": "account",
+        "title": "Changing Your Password and Security Settings",
+        "description": "Update your login credentials and configure security options.",
+        "type": "guide",
+        "readTime": "2 min read",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "Understanding asyncz Pricing Plans",
+        "description": "Detailed breakdown of features included in each subscription tier.",
+        "type": "guide",
+        "readTime": "6 min read",
+        "popular": true
+      },
+      {
+        "category": "billing",
+        "title": "Upgrading or Downgrading Your Plan",
+        "description": "How to change your subscription and what happens to your data.",
+        "type": "tutorial",
+        "readTime": "3 min read",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "Payment Methods and Billing Cycles",
+        "description": "Managing payment information, invoices, and billing schedules.",
+        "type": "guide",
+        "readTime": "4 min read",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "Free Trial and Student Discounts",
+        "description": "Information about trial periods, student plans, and special offers.",
+        "type": "guide",
+        "readTime": "3 min read",
+        "popular": true
+      },
+      {
+        "category": "security",
+        "title": "Data Privacy and GDPR Compliance",
+        "description": "How asyncz protects your data and complies with privacy regulations.",
+        "type": "guide",
+        "readTime": "5 min read",
+        "popular": false
+      },
+      {
+        "category": "security",
+        "title": "Backup and Data Export",
+        "description": "Learn how to export your data and understand our backup procedures.",
+        "type": "tutorial",
+        "readTime": "4 min read",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "Calendar Integration Guide",
+        "description": "Connect asyncz with Google Calendar, Outlook, and other calendar applications.",
+        "type": "tutorial",
+        "readTime": "7 min read",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "Website Widget Installation",
+        "description": "Embed asyncz booking widgets into your website for seamless integration.",
+        "type": "tutorial",
+        "readTime": "5 min read",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "API Documentation and Custom Integrations",
+        "description": "Technical guide for developers to integrate with asyncz API.",
+        "type": "technical",
+        "readTime": "15 min read",
+        "popular": false
+      }
+    ],
+    "aboutAsyncz": {
+      "title": "About asyncz",
+      "description": "asyncz is a product developed and operated by Deviofy, a technology company specializing in business automation and scheduling solutions.",
+      "product": {
+        "label": "Product",
+        "value": "asyncz Scheduling Platform"
+      },
+      "developer": {
+        "label": "Developer",
+        "value": "Deviofy"
+      },
+      "location": {
+        "label": "Location",
+        "value": "IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, United Arab Emirates"
+      }
+    },
+    "contactSupport": {
+      "title": "Still Need Help?",
+      "description": "Can't find what you're looking for? Our support team is here to help you succeed.",
+      "supportOptions": [
+        {
+          "icon": "MessageCircle",
+          "iconColor": "text-green-500",
+          "title": "Live Chat",
+          "description": "Get instant help from our support team",
+          "availability": "Available for Premium customers"
+        },
+        {
+          "icon": "FileText",
+          "iconColor": "text-blue-500",
+          "title": "Submit a Ticket",
+          "description": "Send us your question and we'll respond within 24 hours",
+          "availability": "info@asyncz.com"
+        },
+        {
+          "icon": "Video",
+          "iconColor": "text-purple-500",
+          "title": "Schedule a Demo",
+          "description": "Get personalized training from our experts",
+          "availability": "Enterprise customers only"
+        }
+      ],
+      "contactSupportButton": "Contact Support",
+      "browseFaqButton": "Browse FAQ"
+    }
+  },
+  "howItWorks": {
+    "pageTitle": "How It Works - asyncz | Simple Scheduling for Every Business",
+    "metaDescription": "Discover how asyncz works for different businesses. From individual professionals to large enterprises, see how our scheduling platform transforms time management across industries.",
+    "heroTitle": "How asyncz",
+    "heroTitleHighlight": "Works for You",
+    "heroDescription": "Discover how asyncz transforms scheduling for businesses across every industry. From individual professionals to large enterprises, see how our platform adapts to your needs.",
+    "process": {
+      "title": "Simple 4-Step Process",
+      "subtitle": "Get up and running with asyncz in minutes, not hours",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Set Up Your Business",
+          "description": "Create your asyncz account and configure your business structure",
+          "details": [
+            "Add your business information and branding",
+            "Create branches for different locations",
+            "Set up services and procedures you offer",
+            "Configure your business hours and availability"
+          ],
+          "icon": "Building"
+        },
+        {
+          "step": 2,
+          "title": "Add Your Team",
+          "description": "Invite team members and assign roles with appropriate permissions",
+          "details": [
+            "Add experts and staff members to your system",
+            "Assign roles: Company Manager, Branch Manager, Expert, Receptionist",
+            "Set individual schedules and availability",
+            "Configure access permissions for each team member"
+          ],
+          "icon": "Users"
+        },
+        {
+          "step": 3,
+          "title": "Configure Customer Booking",
+          "description": "Set up how customers will book appointments with your business",
+          "details": [
+            "Customers visit your booking page or embedded widget",
+            "They select the service they need",
+            "They choose their preferred expert or location",
+            "They pick an available time slot that works for them"
+          ],
+          "icon": "Calendar"
+        },
+        {
+          "step": 4,
+          "title": "Automatic Calendar Management",
+          "description": "All appointments appear in your powerful, intuitive calendar system",
+          "details": [
+            "View appointments in day, week, or month format",
+            "Drag and drop to reschedule appointments easily",
+            "See all experts and branches in one unified view",
+            "Automatic notifications sent to all parties"
+          ],
+          "icon": "CheckCircle"
+        }
+      ]
+    },
+    "businessTypes": {
+      "title": "Perfect for Every",
+      "titleHighlight": "Type of Business",
+      "subtitle": "See how asyncz adapts to your industry's unique scheduling needs",
+      "keyBenefitsLabel": "Key Benefits",
+      "examplesLabel": "Examples",
+      "types": [
+        {
+          "icon": "User",
+          "title": "Individual Professionals",
+          "description": "Perfect for freelancers, consultants, and solo entrepreneurs who value efficient time management",
+          "benefits": [
+            "Personal calendar management",
+            "Client appointment scheduling",
+            "Time blocking for focused work",
+            "Professional client communication"
+          ],
+          "examples": "Freelance designers, personal trainers, tutors, photographers"
+        },
+        {
+          "icon": "Stethoscope",
+          "title": "Healthcare Practices",
+          "description": "Streamline patient appointments and manage multiple practitioners across locations",
+          "benefits": [
+            "Patient appointment booking",
+            "Multi-practitioner scheduling",
+            "Treatment procedure management",
+            "Automated appointment reminders"
+          ],
+          "examples": "Doctors, dentists, physiotherapists, mental health professionals"
+        },
+        {
+          "icon": "GraduationCap",
+          "title": "Educational Services",
+          "description": "Organize classes, courses, and educational consultations with ease",
+          "benefits": [
+            "Course and class scheduling",
+            "Student enrollment management",
+            "Instructor coordination",
+            "Educational resource planning"
+          ],
+          "examples": "Language schools, tutoring centers, training institutes, universities"
+        },
+        {
+          "icon": "Briefcase",
+          "title": "Legal & Professional Services",
+          "description": "Manage client consultations and case meetings with professional efficiency",
+          "benefits": [
+            "Client consultation booking",
+            "Case meeting scheduling",
+            "Professional service management",
+            "Confidential client communication"
+          ],
+          "examples": "Law firms, accounting offices, financial advisors, real estate agents"
+        },
+        {
+          "icon": "Monitor",
+          "title": "IT & Tech Consulting",
+          "description": "Coordinate technical consultations and project meetings seamlessly",
+          "benefits": [
+            "Technical consultation scheduling",
+            "Project milestone meetings",
+            "Team coordination",
+            "Client requirement sessions"
+          ],
+          "examples": "Software consultants, IT support services, web developers, system integrators"
+        },
+        {
+          "icon": "Scissors",
+          "title": "Beauty & Wellness",
+          "description": "Perfect for salons, spas, and wellness centers with multiple service providers",
+          "benefits": [
+            "Service appointment booking",
+            "Staff schedule coordination",
+            "Multiple service management",
+            "Customer preference tracking"
+          ],
+          "examples": "Hair salons, barbershops, spas, massage therapists, beauty clinics"
+        },
+        {
+          "icon": "Building",
+          "title": "Clinics & Medical Centers",
+          "description": "Comprehensive solution for medical facilities with multiple departments",
+          "benefits": [
+            "Multi-department scheduling",
+            "Specialist appointment management",
+            "Patient flow optimization",
+            "Medical procedure coordination"
+          ],
+          "examples": "Medical clinics, diagnostic centers, specialized treatment facilities"
+        },
+        {
+          "icon": "MapPin",
+          "title": "Multi-Location Businesses",
+          "description": "Manage scheduling across multiple branches and locations from one platform",
+          "benefits": [
+            "Centralized multi-branch management",
+            "Location-specific scheduling",
+            "Cross-location coordination",
+            "Unified business oversight"
+          ],
+          "examples": "Retail chains, franchise businesses, regional service providers"
+        },
+        {
+          "icon": "Calendar",
+          "title": "Event & Party Planning",
+          "description": "Perfect for organizing events where you need to coordinate with multiple people and collect their availability",
+          "benefits": [
+            "Group scheduling coordination",
+            "Participant voting collection",
+            "Event time optimization",
+            "Automated participant management"
+          ],
+          "examples": "Party planners, wedding coordinators, corporate event organizers, team meetups"
+        }
+      ]
+    },
+    "calendarFeatures": {
+      "title": "The Most",
+      "titleHighlight": "Powerful Calendar",
+      "titleEnd": "You'll Ever Use",
+      "description": "Our calendar isn't just simple it's incredibly powerful. Manage complex scheduling scenarios with ease while maintaining the simplicity your team will love.",
+      "controlTitle": "Complete Scheduling Control",
+      "features": [
+        {
+          "title": "Multi-View Calendar",
+          "description": "Switch between day, week, and month views to see your schedule exactly how you need it"
+        },
+        {
+          "title": "Drag & Drop Simplicity",
+          "description": "Easily move appointments by dragging them to new time slots - it's that simple"
+        },
+        {
+          "title": "Expert Coordination",
+          "description": "See all your team members' schedules in one place and coordinate effortlessly"
+        },
+        {
+          "title": "Branch Management",
+          "description": "Manage multiple locations from a single calendar view with branch-specific filtering"
+        },
+        {
+          "title": "Real-time Updates",
+          "description": "All changes sync instantly across all devices and team members"
+        },
+        {
+          "title": "Smart Notifications",
+          "description": "Automated reminders and updates keep everyone informed and on time"
+        }
+      ],
+      "specialFeatures": {
+        "title": "What Makes Our Calendar Special",
+        "items": [
+          {
+            "icon": "Calendar",
+            "text": "Unified view of all branches and experts"
+          },
+          {
+            "icon": "Users",
+            "text": "Role-based access for team members"
+          },
+          {
+            "icon": "Clock",
+            "text": "Real-time updates across all devices"
+          },
+          {
+            "icon": "ArrowRight",
+            "text": "Drag-and-drop appointment management"
+          }
+        ]
+      }
+    },
+    "customerJourney": {
+      "title": "Your Customer's",
+      "titleHighlight": "Booking Journey",
+      "subtitle": "See how easy it is for your customers to book appointments",
+      "steps": [
+        {
+          "step": "1",
+          "title": "Choose Service",
+          "description": "Customer selects the service or procedure they need from your offerings"
+        },
+        {
+          "step": "2",
+          "title": "Select Expert",
+          "description": "They choose their preferred expert or location based on availability"
+        },
+        {
+          "step": "3",
+          "title": "Pick Time",
+          "description": "Available time slots are displayed clearly for easy selection"
+        },
+        {
+          "step": "4",
+          "title": "Auto-Confirm",
+          "description": "Appointment appears in your calendar with automatic confirmations sent"
+        }
+      ]
+    },
+    "eventPlanning": {
+      "title": "Special Feature: Group Event Coordination",
+      "subtitle": "Perfect for party planners and event organizers who need to coordinate with multiple people",
+      "steps": [
+        {
+          "step": "1",
+          "title": "Create Event Poll",
+          "description": "Set up multiple time options for your event using the Collabriq scheduler module"
+        },
+        {
+          "step": "2",
+          "title": "Invite Participants",
+          "description": "Send invitations to all people you want to include in the event planning"
+        },
+        {
+          "step": "3",
+          "title": "Collect Votes",
+          "description": "Participants vote on their preferred times, and you can see all responses in real-time"
+        },
+        {
+          "step": "4",
+          "title": "Finalize Event",
+          "description": "Based on the voting results, easily choose the best time and organize your event"
+        }
+      ],
+      "concordFeatures": {
+        "title": "Collabriq Scheduler Features",
+        "features": [
+          "Hide participant responses (Pro+)",
+          "Hide participant names (Pro+)",
+          "Limit participants per option (Pro+)"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Scheduling?",
+      "subtitle": "Join thousands of businesses already using asyncz to streamline their operations",
+      "primaryButton": "Start Your 28-Day Free Trial",
+      "secondaryButton": "View Pricing Plans"
+    },
+    "demo": {
+      "title": "See asyncz in Action",
+      "description": "Book a personalized demo to see how asyncz can transform your scheduling workflow and learn which features will benefit your specific business type.",
+      "whatYoullLearn": {
+        "title": "What You'll Learn in Your Demo",
+        "items": [
+          {
+            "title": "Industry-Specific Setup",
+            "description": "See how asyncz adapts to your business type and workflow"
+          },
+          {
+            "title": "Feature Walkthrough",
+            "description": "Explore scheduling, team management, and analytics features"
+          },
+          {
+            "title": "Integration Options",
+            "description": "Learn about calendar sync, website widgets, and API access"
+          },
+          {
+            "title": "Migration Support",
+            "description": "Get help planning your transition from existing tools"
+          }
+        ]
+      },
+      "details": [
+        {
+          "label": "Demo Length",
+          "value": "30-45 minutes"
+        },
+        {
+          "label": "Available",
+          "value": "Monday-Friday, 9 AM - 6 PM CET"
+        },
+        {
+          "label": "Platform",
+          "value": "Zoom, Teams, or Google Meet"
+        }
+      ],
+      "bookButton": "Book Your Demo",
+      "watchButton": "Watch Tutorials"
+    }
+  },
+  "pricingDetails": {
+    "pageTitle": "Pricing Plans - asyncz | Detailed Feature Comparison",
+    "metaDescription": "Compare asyncz pricing plans in detail. Choose from Free, Starter, Pro, and Premium plans with comprehensive feature breakdowns for scheduling and business management.",
+    "heroTitle": "Detailed",
+    "heroTitleHighlight": "Pricing Comparison",
+    "heroDescription": "Compare all features across our plans to find the perfect fit for your business needs",
+    "pricingToggle": {
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "saveText": "Save ~17%"
+    },
+    "mostPopular": "Most Popular",
+    "monthText": "month",
+    "yearText": "year",
+    "targetText": "Target",
+    "trialText": "28-day free trial included",
+    "getStartedButton": "Get Started",
+    "startTrialButton": "Start Free Trial",
+    "plans": [
+      {
+        "name": "Free",
+        "description": "Perfect for individuals and solo entrepreneurs",
+        "monthlyPrice": 0,
+        "yearlyPrice": 0,
+        "target": "Individuals, Solo Entrepreneurs, Personal Use",
+        "featured": false,
+        "trial": false
+      },
+      {
+        "name": "Starter",
+        "description": "For startups and small teams",
+        "monthlyPrice": 5.99,
+        "yearlyPrice": 59.99,
+        "target": "Startups, Small Teams, New Businesses",
+        "featured": false,
+        "trial": false
+      },
+      {
+        "name": "Pro",
+        "description": "For growing businesses and consultants",
+        "monthlyPrice": 11.99,
+        "yearlyPrice": 119.99,
+        "target": "Small and Medium Businesses, Consultants, Agencies",
+        "featured": true,
+        "trial": true
+      },
+      {
+        "name": "Premium",
+        "description": "For enterprises and larger organizations",
+        "monthlyPrice": 24.99,
+        "yearlyPrice": 249.99,
+        "target": "Larger Companies, Growing Organizations",
+        "featured": false,
+        "trial": true
+      }
+    ],
+    "featureComparison": {
+      "title": "Complete Feature Comparison",
+      "featuresHeader": "Features",
+      "categories": [
+        {
+          "category": "Calendar Management",
+          "features": [
+            {
+              "name": "Calendar Views (Day/Week/Month)",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Add/Copy/Edit/Print Appointments",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Expert Schedule Management",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Branch & Expert Management",
+          "features": [
+            {
+              "name": "Number of Branches",
+              "free": "1",
+              "starter": "1",
+              "pro": "1",
+              "premium": "3"
+            },
+            {
+              "name": "Number of Experts",
+              "free": "3",
+              "starter": "4",
+              "pro": "10",
+              "premium": "Unlimited"
+            },
+            {
+              "name": "Expert Search & Filtering",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Expert Work Schedule Editing",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "User Management",
+          "features": [
+            {
+              "name": "User Roles (Manager, Expert, Receptionist)",
+              "free": "Basic",
+              "starter": "Basic",
+              "pro": "Advanced",
+              "premium": "Full Control"
+            },
+            {
+              "name": "Multiple User Management",
+              "free": false,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "User Search & Management",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Detailed User Permissions",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Procedures & Services",
+          "features": [
+            {
+              "name": "Number of Procedures",
+              "free": "2",
+              "starter": "4",
+              "pro": "7",
+              "premium": "15"
+            },
+            {
+              "name": "Procedure Management (Active/Inactive)",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Advanced Procedure Settings",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Security & Protection",
+          "features": [
+            {
+              "name": "Blacklist Protection",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Automatic Email/Phone Blocking",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Advanced Security Features",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Email & Notifications",
+          "features": [
+            {
+              "name": "Basic Email Notifications",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Custom Logo Branding",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Advanced Custom Branding",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Domain & Integration",
+          "features": [
+            {
+              "name": "Custom Domain Integration",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            },
+            {
+              "name": "White-label Implementation",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": "Enterprise Only"
+            }
+          ]
+        },
+        {
+          "category": "Analytics & Dashboard",
+          "features": [
+            {
+              "name": "Dashboard Type",
+              "free": "Basic",
+              "starter": "Basic",
+              "pro": "Advanced",
+              "premium": "Comprehensive"
+            },
+            {
+              "name": "Advanced Reports & Analytics",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Business Insights",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Client-Side Features",
+          "features": [
+            {
+              "name": "Guest Selection per Appointment",
+              "free": "Single",
+              "starter": "Single",
+              "pro": "Multiple",
+              "premium": "Multiple"
+            },
+            {
+              "name": "Appointment Widget (Embeddable)",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Custom Domain Booking",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Collabriq Scheduler Module",
+          "features": [
+            {
+              "name": "Events per Month",
+              "free": "5",
+              "starter": "Unlimited",
+              "pro": "10",
+              "premium": "Unlimited"
+            },
+            {
+              "name": "Hide Participant Responses",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Hide Participant Names",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Limit Participants per Option",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Support",
+          "features": [
+            {
+              "name": "Support Type",
+              "free": "Chatbot",
+              "starter": "Chatbot",
+              "pro": "Chatbot + Email",
+              "premium": "24/7 Priority"
+            },
+            {
+              "name": "Customer Success Manager",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            },
+            {
+              "name": "Live Chat Support",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        }
+      ]
+    },
+    "studentPlan": {
+      "title": "Student Plan",
+      "description": "Pro features for free! asyncz supports students with complimentary access to professional scheduling tools. Verification required.",
+      "button": "Apply for Student Plan"
+    },
+    "enterprisePlan": {
+      "title": "Enterprise Plan",
+      "subtitle": "Custom pricing for large enterprises and corporations",
+      "featuresTitle": "Enterprise Features Include",
+      "features": [
+        "Full white-label implementation",
+        "Unlimited branches, experts, procedures",
+        "Single sign-on (SSO) integration",
+        "API access & custom integrations"
+      ],
+      "supportTitle": "Enterprise Support",
+      "support": [
+        "Dedicated technical account manager",
+        "Custom deployment options",
+        "GDPR & SOC 2 compliance",
+        "On-premise deployment available"
+      ],
+      "button": "Contact Enterprise Sales"
+    },
+    "demo": {
+      "title": "Need Help Choosing the Right Plan?",
+      "description": "Schedule a personalized demo with our team to discover which asyncz plan fits your business needs and see our platform in action.",
+      "scheduleTitle": "Schedule Your Demo",
+      "benefits": [
+        {
+          "title": "Personalized Walkthrough",
+          "description": "See asyncz features tailored to your industry and use case"
+        },
+        {
+          "title": "Implementation Planning",
+          "description": "Get guidance on setup, migration, and team onboarding"
+        },
+        {
+          "title": "Questions & Answers",
+          "description": "Get expert answers to your specific scheduling challenges"
+        },
+        {
+          "title": "Custom Pricing",
+          "description": "Discuss volume discounts and enterprise pricing options"
+        }
+      ],
+      "details": [
+        {
+          "label": "Demo Duration",
+          "value": "30-45 minutes"
+        },
+        {
+          "label": "Available Times",
+          "value": "Monday-Friday, 9 AM - 6 PM CET"
+        },
+        {
+          "label": "Format",
+          "value": "Video call via Zoom, Teams, or Google Meet"
+        }
+      ],
+      "scheduleButton": "Schedule Demo",
+      "contactButton": "Contact Sales"
+    }
+  },
+  "privacyPolicy": {
+    "pageTitle": "Privacy Policy - asyncz | Data Protection & Privacy",
+    "metaDescription": "Read asyncz's Privacy Policy to understand how we collect, use, and protect your personal data. Learn about your rights and our commitment to data security.",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: "
+  },
+  "termsConditions": {
+    "pageTitle": "Terms and Conditions - asyncz | Service Agreement",
+    "metaDescription": "Read asyncz's Terms and Conditions to understand your rights and obligations when using our comprehensive scheduling platform services.",
+    "title": "Terms and Conditions",
+    "lastUpdated": "Last updated: "
+  },
+  "videoTutorials": {
+    "pageTitle": "Video Tutorials - asyncz | Learn with Step-by-Step Guides",
+    "metaDescription": "Master asyncz with our comprehensive video tutorial library. Learn scheduling, team management, integrations, and advanced features through step-by-step guides.",
+    "heroTitle": "Video",
+    "heroTitleHighlight": "Tutorials",
+    "heroDescription": "Master asyncz with our comprehensive video library. From basic setup to advanced features, learn everything you need to maximize your scheduling productivity.",
+    "searchPlaceholder": "Search tutorials...",
+    "stats": {
+      "videoTutorials": "Video Tutorials",
+      "hoursContentValue": "2.5+",
+      "hoursContent": "Hours Content",
+      "avgRatingValue": "4.7",
+      "avgRating": "Avg Rating"
+    },
+    "featuredTitle": "Featured Tutorials",
+    "featuredLabel": "Featured",
+    "allTutorialsTitle": "All Tutorials",
+    "filterBy": "Filter by",
+    "categoryFilter": "Category",
+    "difficultyFilter": "Difficulty",
+    "viewsText": "views",
+    "noVideosFound": "No videos found matching your criteria.",
+    "clearFilters": "Clear filters",
+    "comingSoon": {
+      "title": "More Content Coming Soon",
+      "description": "We're constantly creating new tutorials to help you master asyncz. Subscribe to our newsletter to get notified when new videos are available.",
+      "upcomingTitle": "Upcoming Tutorials",
+      "upcomingList": [
+        "API Integration Guide",
+        "Advanced Automation Workflows",
+        "Multi-location Management",
+        "Custom Booking Forms",
+        "Enterprise Security Features"
+      ]
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Apply what you've learned and start scheduling like a pro.",
+      "startTrialButton": "Start Free Trial",
+      "helpCenterButton": "Browse Help Center"
+    },
+    "categories": [
+      {
+        "id": "all",
+        "name": "All Videos",
+        "icon": "Play"
+      },
+      {
+        "id": "getting-started",
+        "name": "Getting Started",
+        "icon": "Users"
+      },
+      {
+        "id": "scheduling",
+        "name": "Scheduling",
+        "icon": "Calendar"
+      },
+      {
+        "id": "team-management",
+        "name": "Team Management",
+        "icon": "Users"
+      },
+      {
+        "id": "integrations",
+        "name": "Integrations",
+        "icon": "Globe"
+      },
+      {
+        "id": "analytics",
+        "name": "Analytics",
+        "icon": "TrendingUp"
+      },
+      {
+        "id": "security",
+        "name": "Security",
+        "icon": "Shield"
+      },
+      {
+        "id": "mobile",
+        "name": "Mobile App",
+        "icon": "Smartphone"
+      }
+    ],
+    "difficulties": [
+      {
+        "id": "all",
+        "name": "All Levels"
+      },
+      {
+        "id": "beginner",
+        "name": "Beginner"
+      },
+      {
+        "id": "intermediate",
+        "name": "Intermediate"
+      },
+      {
+        "id": "advanced",
+        "name": "Advanced"
+      }
+    ],
+    "videos": [
+      {
+        "id": 1,
+        "title": "Welcome to asyncz: Complete Setup Guide",
+        "description": "Learn how to set up your asyncz account, configure basic settings, and create your first appointment in under 10 minutes.",
+        "category": "getting-started",
+        "difficulty": "beginner",
+        "duration": "8:42",
+        "views": "12.5K",
+        "rating": 4.9,
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 2,
+        "title": "Creating Your First Schedule",
+        "description": "Step-by-step guide to creating appointments, setting availability, and managing your calendar effectively.",
+        "category": "scheduling",
+        "difficulty": "beginner",
+        "duration": "6:15",
+        "views": "8.3K",
+        "rating": 4.8,
+        "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 3,
+        "title": "Team Member Management & Permissions",
+        "description": "Learn how to invite team members, assign roles, and manage permissions across your organization.",
+        "category": "team-management",
+        "difficulty": "intermediate",
+        "duration": "12:30",
+        "views": "5.7K",
+        "rating": 4.7,
+        "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 4,
+        "title": "Google Calendar Integration Setup",
+        "description": "Complete guide to connecting asyncz with Google Calendar for seamless two-way synchronization.",
+        "category": "integrations",
+        "difficulty": "intermediate",
+        "duration": "9:20",
+        "views": "7.1K",
+        "rating": 4.6,
+        "thumbnail": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 5,
+        "title": "Advanced Scheduling Rules & Automation",
+        "description": "Master complex scheduling scenarios with buffer times, recurring appointments, and automated workflows.",
+        "category": "scheduling",
+        "difficulty": "advanced",
+        "duration": "15:45",
+        "views": "3.2K",
+        "rating": 4.9,
+        "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 6,
+        "title": "Analytics Dashboard Deep Dive",
+        "description": "Understand your booking metrics, generate reports, and optimize your scheduling performance.",
+        "category": "analytics",
+        "difficulty": "intermediate",
+        "duration": "11:18",
+        "views": "4.5K",
+        "rating": 4.5,
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 7,
+        "title": "Security Best Practices",
+        "description": "Configure two-factor authentication, manage user access, and ensure your data stays secure.",
+        "category": "security",
+        "difficulty": "intermediate",
+        "duration": "7:33",
+        "views": "2.8K",
+        "rating": 4.8,
+        "thumbnail": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 8,
+        "title": "Mobile App Overview",
+        "description": "Get ready for the asyncz mobile app with this preview of upcoming features and functionality.",
+        "category": "mobile",
+        "difficulty": "beginner",
+        "duration": "5:20",
+        "views": "6.8K",
+        "rating": 4.4,
+        "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 9,
+        "title": "Website Widget Integration",
+        "description": "Embed asyncz booking widgets into your website for seamless customer appointment booking.",
+        "category": "integrations",
+        "difficulty": "advanced",
+        "duration": "13:10",
+        "views": "3.9K",
+        "rating": 4.7,
+        "thumbnail": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      }
+    ]
+  },
+  "locationSpotlight": {
+    "tagline": "Local expertise",
+    "title": "asyncz for teams across the globe",
+    "description": "Keep branches aligned from coast to coast with localized booking experiences, AI routing, and region-ready automations.",
+    "ctaLabel": "See how asyncz supports global teams",
+    "ctaHref": "/contact",
+    "highlights": [
+      {
+        "icon": "map",
+        "title": "State-compliant scheduling",
+        "description": "Apply state and city blackout periods, service taxes, and provider rules without creating duplicate calendars."
+      },
+      {
+        "icon": "users",
+        "title": "Bilingual frontline support",
+        "description": "English and Spanish onboarding specialists keep every front desk confident and aligned."
+      }
+    ]
+  },
+  "notFound": {
+    "tagline": "You found a missing timeslot",
+    "title": "This page is off the schedule",
+    "subtitle": "The URL you followed no longer exists. Explore asyncz resources to get back on track.",
+    "primaryCta": "Return to homepage",
+    "secondaryCta": "Contact support",
+    "linkDescription": "Discover more about {section}.",
+    "explore": "Explore"
+  },
+  "featuresPage": {
+    "pageTitle": "Features - asyncz | AI Scheduling Workflows",
+    "metaDescription": "Explore asyncz features including multi-branch orchestration, blacklist protection, analytics dashboards, and AI waitlists.",
+    "keywords": [
+      "asyncz features",
+      "ai scheduling",
+      "waitlist automation",
+      "multi-branch calendar",
+      "asyncz analytics"
+    ],
+    "tagline": "Product tour",
+    "heroTitle": "All-in-one orchestration for every appointment flow",
+    "heroSubtitle": "asyncz unifies booking, routing, reminders, and insights so your teams deliver consistent service across every branch.",
+    "primaryCta": "Compare pricing plans",
+    "secondaryCta": "Talk to sales",
+    "coreTitle": "Core capabilities that scale with your branches",
+    "coreDescription": "From intelligent calendars to branded communications, asyncz was built to streamline complex operations without extra headcount.",
+    "deepDives": [
+      {
+        "title": "Multi-location capacity planning",
+        "description": "Balance demand across locations with smart availability windows, padding rules, and staffing thresholds."
+      },
+      {
+        "title": "Automated communication flows",
+        "description": "Trigger confirmations, reminders, and follow-ups through WhatsApp, SMS, and email—no manual chasing required."
+      },
+      {
+        "title": "Role-aware access controls",
+        "description": "Give HQ, branch managers, and front-desk teams the right tools without compromising security or auditability."
+      }
+    ],
+    "deepDiveTitle": "Go deeper into the workflows that matter",
+    "deepDiveDescription": "asyncz maps every step of the customer journey, from discovery to rebooking, so nothing slips through the cracks.",
+    "analyticsHighlight": {
+      "title": "Operational analytics in real time",
+      "description": "Track utilization, no-show impact, and revenue per seat with dashboards built for service brands.",
+      "metrics": [
+        "Branch and provider performance snapshots",
+        "Cancellation reasons with recovery suggestions",
+        "Marketing source attribution with conversion trends"
+      ]
+    },
+    "waitlistHighlight": {
+      "title": "AI waitlist that fills empty seats",
+      "description": "asyncz recommends the best client to invite based on preferences, travel time, and historical spend so every slot is protected.",
+      "metric": "Average 27% fewer unfilled slots across pilot branches."
+    },
+    "differentiatorTitle": "Why asyncz beats generic booking tools",
+    "differentiatorDescription": "Purpose-built workflows keep multi-location teams aligned while protecting against no-shows and spam traffic.",
+    "differentiators": [
+      {
+        "title": "Enterprise-grade blacklist protection",
+        "description": "Stop repeat no-shows with pattern detection across email, phone, and payment methods."
+      },
+      {
+        "title": "Embedded analytics for every role",
+        "description": "Surface the insights each teammate needs without sending them to spreadsheets."
+      },
+      {
+        "title": "API-ready from day one",
+        "description": "Sync availability with custom apps and partner marketplaces through secure webhooks and REST APIs."
+      },
+      {
+        "title": "Localized experiences",
+        "description": "Serve customers in six languages with localized content, notifications, and SEO-ready pages."
+      }
+    ],
+    "finalCtaTitle": "Ready to orchestrate every appointment with asyncz?",
+    "finalCtaDescription": "Our team will blueprint your branches, automations, and analytics in less than a week.",
+    "finalPrimaryCta": "Book a strategy session",
+    "finalSecondaryCta": "Read customer stories"
+  },
+  "contactPage": {
+    "pageTitle": "Contact asyncz | Schedule a strategy session",
+    "metaDescription": "Reach asyncz for demos, pricing, or support. Call +1 (415) 555-0134, email info@asyncz.com, or visit our San Francisco office.",
+    "keywords": [
+      "asyncz contact",
+      "asyncz support",
+      "asyncz phone",
+      "asyncz email"
+    ],
+    "tagline": "Let's build your scheduling advantage",
+    "heroTitle": "Connect with the asyncz team",
+    "heroSubtitle": "Share your goals and we'll tailor a rollout plan for your branches, staff, and customers.",
+    "formTitle": "Send us a message",
+    "formSubtitle": "Tell us how we can help and we’ll respond within one business day.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Alex Johnson",
+      "email": "Work email",
+      "emailPlaceholder": "alex@yourcompany.com",
+      "company": "Company",
+      "companyPlaceholder": "Your organization",
+      "phone": "Phone (optional)",
+      "phonePlaceholder": "+1 415 555 0134",
+      "topic": "Topic",
+      "topicPlaceholder": "Select a topic",
+      "topics": [
+        "Product demo",
+        "Pricing question",
+        "Onboarding support",
+        "Partnership opportunity",
+        "Press inquiry"
+      ],
+      "message": "How can we help?",
+      "messagePlaceholder": "Share context, timelines, and the branches you want to enable...",
+      "securityQuestion": "What is {a} + {b}? (spam check)",
+      "securityPlaceholder": "Enter the answer",
+      "submit": "Send message",
+      "success": "Thanks! We'll respond within one business day.",
+      "error": "Something went wrong. Please try again."
+    },
+    "infoTitle": "Visit our headquarters",
+    "hoursTitle": "Support hours (Pacific Time)",
+    "supportTitle": "Support & onboarding",
+    "supportDescription": "Every asyncz plan includes guided onboarding, automation audits, and operations coaching.",
+    "supportItems": {
+      "enterprise": "Enterprise rollout specialists for multi-location teams",
+      "email": "Dedicated inbox with <24h response times",
+      "training": "Live training sessions and certification tracks"
+    },
+    "days": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    }
+  },
+  "blog": {
+    "pageTitle": "asyncz Blog | AI Scheduling Ideas",
+    "metaDescription": "Read asyncz insights on AI scheduling, automation workflows, and multi-branch analytics.",
+    "keywords": [
+      "asyncz blog",
+      "ai scheduling tips",
+      "multi-branch operations",
+      "asyncz automation"
+    ],
+    "tagline": "Insights for modern service teams",
+    "heroTitle": "Scheduling intelligence for every branch",
+    "heroSubtitle": "Playbooks, frameworks, and benchmarks for operations leaders building reliable customer journeys.",
+    "categories": ["Product", "Operations", "Growth"],
+    "allLabel": "All topics",
+    "readMore": "Read article",
+    "emptyState": "No articles match this filter yet.",
+    "articleNotFoundTitle": "Article not found",
+    "articleNotFoundDescription": "This story may have been unpublished. Explore the latest posts instead.",
+    "backToBlog": "Back to blog",
+    "posts": [
+      {
+        "slug": "ai-scheduling-playbook",
+        "title": "AI Scheduling Playbook for Multi-Branch Teams",
+        "excerpt": "Frameworks to align operations, automations, and analytics across every location.",
+        "content": [
+          "Operational complexity scales quickly when your brand expands. asyncz centralizes rules so every branch follows the same, proven playbook.",
+          "Start by mapping your services, availability rules, and exceptions. asyncz's rule engine lets you apply them once and reuse them everywhere.",
+          "Layer analytics on top to keep leadership aware of utilization, demand, and bottlenecks before they affect the customer experience."
+        ],
+        "category": "Product",
+        "author": "Asyncz Editorial Team",
+        "published": "2025-09-10",
+        "readingTime": "6 min read",
+        "tags": ["ai scheduling", "playbook", "multi-branch"]
+      },
+      {
+        "slug": "asyncz-automation-blueprint",
+        "title": "Automation Blueprint: Reduce No-Shows with asyncz",
+        "excerpt": "Step-by-step automation templates to keep calendars full and customers accountable.",
+        "content": [
+          "Combine confirmation windows, payment rules, and reminder cadences to dramatically cut no-shows without adding admin overhead.",
+          "asyncz connects WhatsApp, SMS, and email so your customers always receive nudges on their preferred channel.",
+          "Use escalation paths for high-value appointments and automatically trigger waitlist invitations when a slot opens."
+        ],
+        "category": "Operations",
+        "author": "Asyncz Customer Success",
+        "published": "2025-08-22",
+        "readingTime": "5 min read",
+        "tags": ["automation", "no-shows", "customer experience"]
+      },
+      {
+        "slug": "multi-branch-analytics-guide",
+        "title": "Analytics Guide for Multi-Branch Operators",
+        "excerpt": "Dashboards and metrics asyncz customers track to increase utilization and revenue.",
+        "content": [
+          "Beyond basic counts, asyncz highlights the conversion, retention, and rebooking trends that predict revenue.",
+          "Benchmark each branch on utilization, staffing efficiency, and channel performance to prioritize coaching.",
+          "Feed these insights back into marketing and hiring plans so you keep winning the right customers at the right time."
+        ],
+        "category": "Growth",
+        "author": "Asyncz Data Team",
+        "published": "2025-08-05",
+        "readingTime": "7 min read",
+        "tags": ["analytics", "growth", "dashboards"]
+      }
+    ]
+  }
+}

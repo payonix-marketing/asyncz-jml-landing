@@ -1,0 +1,556 @@
+{
+  "common": {
+    "asyncz": "asyncz",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "close": "关闭",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "submit": "提交",
+    "search": "搜索",
+    "filter": "筛选",
+    "clear": "清除",
+    "all": "全部",
+    "yes": "是",
+    "no": "否"
+  },
+  "navigation": {
+    "home": "首页",
+    "pricing": "定价",
+    "features": "功能",
+    "aboutUs": "关于我们",
+    "howItWorks": "运作方式",
+    "faq": "常见问题",
+    "contact": "联系我们",
+    "language": "语言",
+    "signIn": "立即开始",
+    "blog": "博客"
+  },
+  "hero": {
+    "title": "抢先锁定终身 Pro 访问权限",
+    "titleHighlight": "趁我们还在早期阶段！",
+    "description": "基于 AI 的 asyncz 是下一代排班平台。作为早期用户，您可以终身免费获得我们的完整 Pro 套餐。帮助您的团队和业务无限提升生产力。",
+    "startFreeTrial": "立即领取终身 Pro",
+    "exploreFeatures": "查看功能",
+    "learnAboutUs": "了解我们 →"
+  },
+  "trustedBy": {
+    "title": "深受信赖",
+    "count": " ",
+    "subtitle": "前瞻性的团队"
+  },
+  "pricing": {
+    "title": "选择适合您的方案",
+    "description": "🚀 早鸟特惠：我们刚刚上线，尚未正式定价！现在领取免费的终身 Pro 帐号——限量发放给早期客户。",
+    "monthly": "月付",
+    "yearly": "年付",
+    "savePercent": "（省约 17%）",
+    "mostPopular": "最受欢迎",
+    "getStarted": "开始使用",
+    "startFreeTrial": "开启免费试用",
+    "contactSales": "联系销售",
+    "bookDemo": "预约演示",
+    "viewFullPricing": "查看全部定价",
+    "needHelpChoosing": "需要帮助选择吗？",
+    "demoDescription": "预约个性化演示，了解 asyncz 的实际效果，并找到最适合您业务的方案。",
+    "studentPlan": "学生计划",
+    "studentDescription": "Pro 功能永久免费！asyncz 为学生提供专业排班工具的免费访问。",
+    "contactToGetStarted": "联系我们即可开始",
+    "plans": {
+      "free": {
+        "name": "免费",
+        "description": "适合个人"
+      },
+      "starter": {
+        "name": "Starter",
+        "description": "适合小型团队"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "适合成长型企业"
+      },
+      "enterprise": {
+        "name": "Premium",
+        "description": "适合大型组织"
+      }
+    }
+  },
+  "features": {
+    "title": "为何选择",
+    "titleHighlight": "asyncz",
+    "subtitle": "探索 asyncz 的强大功能，让现代团队实现极致排班体验",
+    "exploreAllFeatures": "查看所有功能",
+    "smartCalendar": {
+      "title": "智能日历管理",
+      "description": "提供日、周、月多视图。轻松管理多位专家和多个门店。"
+    },
+    "multiBranch": {
+      "title": "多门店管理",
+      "description": "轻松管理所有门店，分配专家并统一安排各地日程。"
+    },
+    "analytics": {
+      "title": "高级分析",
+      "description": "通过洞察、报表和数据驱动的分析，优化业务运营。"
+    },
+    "blacklistProtection": {
+      "title": "智能黑名单防护",
+      "description": "根据邮箱或手机号模式自动拦截问题客户，保障服务质量。"
+    },
+    "customBranding": {
+      "title": "自定义品牌",
+      "description": "用您的品牌和标识个性化电子邮件通知，营造专业体验。"
+    },
+    "domainIntegration": {
+      "title": "域名集成",
+      "description": "将预约流程无缝接入您的自有域名，保持品牌一致。"
+    }
+  },
+  "footer": {
+    "logoAlt": "asyncz 标志",
+    "companyDescription": "用智能排班解决方案赋能企业，最大化生产力并简化运营。",
+    "sections": [
+      {
+        "title": "产品",
+        "links": [
+          {
+            "name": "运作方式",
+            "href": "/how-it-works"
+          },
+          {
+            "name": "功能",
+            "action": "scrollToFeatures"
+          },
+          {
+            "name": "定价",
+            "href": "/pricing"
+          },
+          {
+            "name": "免费试用",
+            "href": "https://app.asyncz.com/"
+          },
+          {
+            "name": "API 文档",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "公司",
+        "links": [
+          {
+            "name": "关于我们",
+            "href": "/about-us"
+          },
+          {
+            "name": "客户评价",
+            "action": "scrollToTestimonials"
+          },
+          {
+            "name": "常见问题",
+            "href": "/faq"
+          },
+          {
+            "name": "联系我们",
+            "action": "scrollToContact"
+          }
+        ]
+      },
+      {
+        "title": "支持",
+        "links": [
+          {
+            "name": "帮助中心",
+            "href": "/help-center"
+          },
+          {
+            "name": "常见问题",
+            "href": "/faq"
+          },
+          {
+            "name": "隐私政策",
+            "href": "/privacy-policy"
+          },
+          {
+            "name": "服务条款",
+            "href": "/terms-conditions"
+          },
+          {
+            "name": "Cookie 政策",
+            "href": "/cookie-policy"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "Facebook",
+        "href": "https://www.facebook.com/asynczcom",
+        "label": "Facebook"
+      },
+      {
+        "icon": "Instagram",
+        "href": "https://www.instagram.com/asynczcom",
+        "label": "X"
+      },
+      {
+        "icon": "Linkedin",
+        "href": "https://www.linkedin.com/company/asynczcom/",
+        "label": "LinkedIn"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 asyncz 由",
+      "deviofy": {
+        "name": "Deviofy",
+        "href": "https://deviofy.com"
+      },
+      "allRightsReserved": "。保留所有权利。"
+    },
+    "bottomLinks": {
+      "privacyPolicy": {
+        "name": "隐私政策",
+        "href": "/privacy-policy"
+      },
+      "termsOfService": {
+        "name": "服务条款",
+        "href": "/terms-conditions"
+      },
+      "cookiePolicy": {
+        "name": "Cookie 政策",
+        "href": "/cookie-policy"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": "联系我们",
+    "sectionDescription": "有问题吗？我们随时准备帮助您快速上手 asyncz",
+    "infoTitle": "联系信息",
+    "phoneTitle": "电话",
+    "emailTitle": "邮箱",
+    "addressTitle": "地址",
+    "fields": {
+      "name": "姓名",
+      "namePlaceholder": "您的姓名",
+      "email": "邮箱",
+      "emailPlaceholder": "your.email@example.com",
+      "subject": "主题",
+      "subjectPlaceholder": "我们可以如何帮助您？",
+      "message": "消息",
+      "messagePlaceholder": "告诉我们您的需求..."
+    },
+    "sendMessage": "发送消息",
+    "sending": "发送中...",
+    "validationError": "请填写所有字段",
+    "thankYou": "感谢您的留言！我们会尽快与您联系。",
+    "error": "抱歉，发送失败，请重试。",
+    "goToContactPage": "查看联系页面"
+  },
+  "capabilities": {
+    "sectionTitlePart1": "一站式平台，",
+    "sectionTitlePart2": "释放多重能力",
+    "sectionDescription": "探索 asyncz 提供的完整工具套件，让它成为您的排班指挥中心",
+    "smartCalendar": {
+      "title": "智能日历管理",
+      "description": "体验全新的日程管理：智能排班、拖拽式预约和多种视图。",
+      "features": [
+        "日、周、月多种视图",
+        "拖拽式预约管理",
+        "协调多位专家的日程"
+      ]
+    },
+    "analytics": {
+      "title": "高级洞察分析",
+      "description": "将业务数据转化为行动洞察，洞悉趋势、优化表现并驱动增长。",
+      "features": [
+        "实时绩效指标",
+        "客户参与度分析",
+        "营收优化洞察"
+      ]
+    },
+    "collaboration": {
+      "title": "团队协同无缝衔接",
+      "description": "借助强大的协作工具，简化沟通、同步日程并让所有成员步调一致。",
+      "features": [
+        "基于角色的权限控制",
+        "多门店集中管理",
+        "实时通知提醒"
+      ]
+    }
+  },
+  "testimonials": {
+    "sectionTitlePart1": "客户对",
+    "sectionTitlePart2": "asyncz 的评价",
+    "sectionSubtitle": "加入数千家正在革新排班方式的企业",
+    "list": [
+      {
+        "name": "Elena Gilbert",
+        "position": "项目协调员",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b332c38c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "asyncz 让我们的工作流彻底革新，顺畅的排班与全面的数据分析大幅提升了整个团队的效率。"
+      },
+      {
+        "name": "Michael Smith",
+        "position": "运营经理",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "分析仪表盘为我们提供了惊人的洞察。爽约率降低了 40%，效率显著提升。"
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "HealthCare Plus 首席执行官",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "在使用 asyncz 前管理多家门店是一场噩梦。现在一切都集中在一起，我们的团队协作前所未有地顺畅。"
+      }
+    ],
+    "ctaTitle": "准备好升级您的排班流程了吗？",
+    "ctaDescription": "加入超过 1,000 家使用 asyncz 的企业",
+    "ctaButton": "立即开始 28 天免费试用"
+  },
+  "locationSpotlight": {
+    "tagline": "本地化专长",
+    "title": "asyncz 赋能全球团队",
+    "description": "借助本地化预约体验、AI 路由和区域自动化，让各地门店保持一致运作。",
+    "ctaLabel": "了解 asyncz 如何支持全球团队",
+    "ctaHref": "/contact",
+    "highlights": [
+      {
+        "icon": "map",
+        "title": "符合各地法规的排班",
+        "description": "无需复制日历，即可应用城市和州的停约、税费及专家规则。"
+      },
+      {
+        "icon": "users",
+        "title": "双语前台支持",
+        "description": "英语与西班牙语专家陪伴前台上线，确保每家门店信心十足。"
+      }
+    ]
+  },
+  "notFound": {
+    "tagline": "您发现了一个空档",
+    "title": "此页面已不在日程中",
+    "subtitle": "该链接已失效。探索 asyncz 的资源，重新回到正轨。",
+    "primaryCta": "返回首页",
+    "secondaryCta": "联系支持团队",
+    "linkDescription": "进一步了解 {section}。",
+    "explore": "探索"
+  },
+  "featuresPage": {
+    "pageTitle": "功能 - asyncz | AI 排班流程",
+    "metaDescription": "了解 asyncz 的功能，包括多门店编排、黑名单防护、分析仪表盘和智能候补名单。",
+    "keywords": [
+      "asyncz 功能",
+      "ai 排班",
+      "候补名单自动化",
+      "多门店日历",
+      "asyncz 分析"
+    ],
+    "tagline": "产品导览",
+    "heroTitle": "为每个预约流程提供全方位编排",
+    "heroSubtitle": "asyncz 集成预约、路由、提醒与洞察，让您的团队在各门店提供一致的体验。",
+    "primaryCta": "对比定价方案",
+    "secondaryCta": "联系销售团队",
+    "coreTitle": "随门店扩展的核心能力",
+    "coreDescription": "从智能日历到品牌化沟通，asyncz 旨在简化复杂运营，无需额外人手。",
+    "deepDives": [
+      {
+        "title": "多门店产能规划",
+        "description": "通过智能可用时段、缓冲规则和人力阈值平衡各地需求。"
+      },
+      {
+        "title": "自动化沟通流程",
+        "description": "通过 WhatsApp、短信和电子邮件自动发送确认、提醒和回访，无需手动追踪。"
+      },
+      {
+        "title": "基于角色的访问控制",
+        "description": "让总部、门店经理和前台都能获取所需工具，同时确保安全与合规。"
+      }
+    ],
+    "deepDiveTitle": "深入关键流程",
+    "deepDiveDescription": "asyncz 覆盖客户旅程的每一步，确保从发现到复购都不遗漏。",
+    "analyticsHighlight": {
+      "title": "实时运营分析",
+      "description": "通过专为服务品牌打造的仪表盘，跟踪利用率、爽约影响和座位收入。",
+      "metrics": [
+        "门店与专家绩效快照",
+        "取消原因及补救建议",
+        "营销渠道归因与转化趋势"
+      ]
+    },
+    "waitlistHighlight": {
+      "title": "AI 候补名单填补每个空档",
+      "description": "asyncz 根据偏好、路程时间和历史消费推荐最佳客户，守护每个预约。",
+      "metric": "试点门店平均减少 27% 空档。"
+    },
+    "differentiatorTitle": "asyncz 如何领先于传统预约工具",
+    "differentiatorDescription": "面向多门店团队的专用流程，让协作更顺畅，同时防止爽约与垃圾流量。",
+    "differentiators": [
+      {
+        "title": "企业级黑名单防护",
+        "description": "通过识别邮箱、电话和支付方式的模式阻止重复爽约。"
+      },
+      {
+        "title": "面向各角色的内嵌分析",
+        "description": "无需导出表格，即可为每位成员提供所需洞察。"
+      },
+      {
+        "title": "API 即刻可用",
+        "description": "通过安全的 webhooks 与 REST API，将可用时间同步到自建应用与合作市场。"
+      },
+      {
+        "title": "本地化体验",
+        "description": "以六种语言提供本地化内容、通知和 SEO 页面。"
+      }
+    ],
+    "finalCtaTitle": "准备好用 asyncz 编排所有预约了吗？",
+    "finalCtaDescription": "我们的团队将在一周内梳理您的门店、自动化和分析方案。",
+    "finalPrimaryCta": "预约战略交流",
+    "finalSecondaryCta": "阅读客户故事"
+  },
+  "contactPage": {
+    "pageTitle": "联系 asyncz | 预约战略交流",
+    "metaDescription": "联系 asyncz 获取演示、定价或支持。致电 +1 (415) 555-0134，发送邮件至 info@asyncz.com，或来访旧金山办公室。",
+    "keywords": [
+      "asyncz 联系方式",
+      "asyncz 支持",
+      "asyncz 电话",
+      "asyncz 邮箱"
+    ],
+    "tagline": "打造您的排班优势",
+    "heroTitle": "与 asyncz 团队取得联系",
+    "heroSubtitle": "告诉我们您的目标，我们将为门店、团队和客户制定上线计划。",
+    "formTitle": "发送消息",
+    "formSubtitle": "告诉我们您的需求，我们会在一个工作日内回复。",
+    "form": {
+      "name": "姓名",
+      "namePlaceholder": "王伟",
+      "email": "工作邮箱",
+      "emailPlaceholder": "wang@company.com",
+      "company": "公司",
+      "companyPlaceholder": "您的机构名称",
+      "phone": "电话（选填）",
+      "phonePlaceholder": "+86 21 8888 0000",
+      "topic": "主题",
+      "topicPlaceholder": "请选择主题",
+      "topics": [
+        "产品演示",
+        "定价咨询",
+        "上线支持",
+        "合作机会",
+        "媒体采访"
+      ],
+      "message": "我们可以如何帮助？",
+      "messagePlaceholder": "请分享背景、时间表以及希望启用的门店...",
+      "securityQuestion": "{a} + {b} 等于多少？（防垃圾）",
+      "securityPlaceholder": "请输入答案",
+      "submit": "发送消息",
+      "success": "谢谢！我们会在一个工作日内回复。",
+      "error": "发生错误，请重试。"
+    },
+    "infoTitle": "欢迎拜访总部",
+    "hoursTitle": "支持时间（太平洋时间）",
+    "supportTitle": "支持与上线",
+    "supportDescription": "所有 asyncz 方案都包含引导式上线、自动化审查和运营辅导。",
+    "supportItems": {
+      "enterprise": "多门店团队专属上线专家",
+      "email": "专属邮箱，24 小时内回复",
+      "training": "直播培训与认证课程"
+    },
+    "days": {
+      "monday": "星期一",
+      "tuesday": "星期二",
+      "wednesday": "星期三",
+      "thursday": "星期四",
+      "friday": "星期五",
+      "saturday": "星期六",
+      "sunday": "星期日"
+    }
+  },
+  "blog": {
+    "pageTitle": "asyncz 博客 | AI 排班灵感",
+    "metaDescription": "阅读 asyncz 关于 AI 排班、自动化流程和多门店分析的洞察。",
+    "keywords": [
+      "asyncz 博客",
+      "ai 排班技巧",
+      "多门店运营",
+      "asyncz 自动化"
+    ],
+    "tagline": "服务型团队的洞察",
+    "heroTitle": "为每家门店提供排班智能",
+    "heroSubtitle": "为运营负责人准备的打法、框架和基准，构建可信赖的客户旅程。",
+    "categories": [
+      "产品",
+      "运营",
+      "增长"
+    ],
+    "allLabel": "全部主题",
+    "readMore": "阅读文章",
+    "emptyState": "暂时没有符合筛选条件的文章。",
+    "articleNotFoundTitle": "未找到文章",
+    "articleNotFoundDescription": "内容可能已下架。查看最新文章。",
+    "backToBlog": "返回博客",
+    "posts": [
+      {
+        "slug": "ai-scheduling-playbook",
+        "title": "AI 排班作战手册：多门店团队指南",
+        "excerpt": "在所有门店对齐运营、自动化与分析的最佳实践。",
+        "content": [
+          "品牌扩张时，运营复杂度会迅速上升。asyncz 集中管理规则，让每家门店都能遵循经过验证的打法。",
+          "先梳理服务、可用时段规则与例外情况。asyncz 的规则引擎支持一次配置、全局复用。",
+          "叠加分析功能，让管理层在利用率、需求和瓶颈影响客户体验之前就能洞察到。"
+        ],
+        "category": "产品",
+        "author": "asyncz 编辑团队",
+        "published": "2025-09-10",
+        "readingTime": "阅读 6 分钟",
+        "tags": [
+          "ai 排班",
+          "作战手册",
+          "多门店"
+        ]
+      },
+      {
+        "slug": "asyncz-automation-blueprint",
+        "title": "自动化蓝图：用 asyncz 降低爽约率",
+        "excerpt": "逐步模板，帮助您保持日程饱满并提升客户黏性。",
+        "content": [
+          "结合确认窗口、支付规则与提醒节奏，显著减少爽约，同时不增加额外行政负担。",
+          "asyncz 连接 WhatsApp、短信和邮箱，让客户在偏好的渠道收到提醒。",
+          "为高价值预约设置升级流程，并在空档出现时自动触发候补名单邀请。"
+        ],
+        "category": "运营",
+        "author": "asyncz 客户成功团队",
+        "published": "2025-08-22",
+        "readingTime": "阅读 5 分钟",
+        "tags": [
+          "自动化",
+          "爽约",
+          "客户体验"
+        ]
+      },
+      {
+        "slug": "multi-branch-analytics-guide",
+        "title": "多门店运营的分析指南",
+        "excerpt": "asyncz 客户用来提升利用率和收入的仪表盘与指标。",
+        "content": [
+          "除了基础数据，asyncz 重点呈现转化、留存和复购趋势，帮助预测营收。",
+          "对比各门店的利用率、人员效率和渠道表现，为培训优先级提供依据。",
+          "将这些洞察融入营销与招聘计划，持续在合适的时机吸引理想客户。"
+        ],
+        "category": "增长",
+        "author": "asyncz 数据团队",
+        "published": "2025-08-05",
+        "readingTime": "阅读 7 分钟",
+        "tags": [
+          "分析",
+          "增长",
+          "仪表盘"
+        ]
+      }
+    ]
+  }
+}

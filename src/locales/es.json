@@ -1,0 +1,2095 @@
+{
+  "common": {
+    "asyncz": "asyncz",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "clear": "Limpiar",
+    "all": "Todo",
+    "yes": "Sí",
+    "no": "No"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "pricing": "Precios",
+    "features": "Funciones",
+    "aboutUs": "Sobre Nosotros",
+    "howItWorks": "Cómo Funciona",
+    "faq": "Preguntas Frecuentes",
+    "contact": "Contacto",
+    "language": "Idioma",
+    "signIn": "Empieza ahora",
+    "blog": "Blog"
+  },
+  "home": {
+    "pageTitle": "Asyncz: Sistema de Reservas Online y App Agenda de Citas",
+    "metaDescription": "App de calendario compartido con sistema de reservas online. Agenda de citas intuitiva que reduce no-shows y automatiza reservaciones"
+  },
+  "hero": {
+    "title": "Consigue tu acceso Pro de por vida",
+    "titleHighlight": "¡Mientras seguimos siendo nuevos!",
+    "description": "Impulsado por IA, asyncz es una plataforma de programación de nueva generación. Como usuario inicial, puedes obtener nuestro paquete Pro completo — de por vida — totalmente gratis. Potencia a tu equipo y empresa para maximizar la productividad sin límites.",
+    "startFreeTrial": "Consigue el Pro de por vida ahora",
+    "exploreFeatures": "Explorar funciones",
+    "learnAboutUs": "Conoce más sobre nosotros →"
+  },
+  "trustedBy": {
+    "title": "Con la confianza de",
+    "count": " ",
+    "subtitle": "Equipos visionarios"
+  },
+  "pricing": {
+    "title": "Elige tu plan ideal",
+    "description": "Empieza gratis y escala a medida que creces. Todos los planes incluyen nuestras funciones principales de programación.",
+    "monthly": "Mensual",
+    "yearly": "Anual",
+    "savePercent": "(Ahorra ~17%)",
+    "mostPopular": "Más popular",
+    "getStarted": "Comenzar",
+    "startFreeTrial": "Prueba gratuita",
+    "contactSales": "Contactar Ventas",
+    "bookDemo": "Solicitar una Demo",
+    "viewFullPricing": "Ver todos los precios",
+    "needHelpChoosing": "¿Necesitas ayuda para elegir?",
+    "demoDescription": "Agenda una demo personalizada para ver asyncz en acción y encontrar el plan perfecto para tu negocio.",
+    "studentPlan": "Plan Estudiante",
+    "studentDescription": "¡Funciones Pro gratis! asyncz apoya a los estudiantes con acceso gratuito a herramientas profesionales de programación.",
+    "contactToGetStarted": "Contáctanos para empezar",
+    "plans": {
+      "free": {
+        "name": "Gratis",
+        "description": "Perfecto para individuos"
+      },
+      "starter": {
+        "name": "Starter",
+        "description": "Para equipos pequeños"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Para empresas en crecimiento"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Para grandes organizaciones"
+      }
+    }
+  },
+  "features": {
+    "title": "Por qué elegir",
+    "titleHighlight": "asyncz",
+    "subtitle": "Descubre las potentes funciones que hacen de asyncz la solución definitiva de programación para equipos modernos",
+    "exploreAllFeatures": "Ver todas las funciones",
+    "smartCalendar": {
+      "title": "Gestión inteligente de calendarios",
+      "description": "Vistas de calendario avanzadas por día, semana y mes. Gestiona varios expertos y sucursales sin esfuerzo."
+    },
+    "multiBranch": {
+      "title": "Gestión multi-sucursal",
+      "description": "Gestiona varias sucursales, asigna expertos y organiza los horarios en todas tus ubicaciones."
+    },
+    "analytics": {
+      "title": "Análisis avanzados",
+      "description": "Panel integral con insights, informes y analítica basada en datos para optimizar tu operación."
+    },
+    "blacklistProtection": {
+      "title": "Protección inteligente de listas negras",
+      "description": "Bloquea automáticamente a clientes problemáticos por patrones de correo o teléfono para mantener la calidad del servicio."
+    },
+    "customBranding": {
+      "title": "Marca personalizada",
+      "description": "Personaliza las notificaciones por correo con tu propio logo y marca para una experiencia profesional."
+    },
+    "domainIntegration": {
+      "title": "Integración de dominio",
+      "description": "Integra la reserva de citas directamente en tu dominio personalizado para coherencia total de marca."
+    }
+  },
+  "footer": {
+    "logoAlt": "Logo de asyncz",
+    "companyDescription": "Empoderando negocios con soluciones inteligentes de programación que maximizan la productividad y optimizan la operación.",
+    "sections": [
+      {
+        "title": "Productos",
+        "links": [
+          {
+            "name": "Cómo Funciona",
+            "href": "/how-it-works"
+          },
+          {
+            "name": "Funciones",
+            "action": "scrollToFeatures"
+          },
+          {
+            "name": "Precios",
+            "href": "/pricing"
+          },
+          {
+            "name": "Prueba Gratis",
+            "href": "https://app.asyncz.com/"
+          },
+          {
+            "name": "Documentación API",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Compañía",
+        "links": [
+          {
+            "name": "Sobre Nosotros",
+            "href": "/about-us"
+          },
+          {
+            "name": "Testimonios",
+            "action": "scrollToTestimonials"
+          },
+          {
+            "name": "Preguntas Frecuentes",
+            "href": "/faq"
+          },
+          {
+            "name": "Contacto",
+            "action": "scrollToContact"
+          },
+          {
+            "name": "Carreras",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Soporte",
+        "links": [
+          {
+            "name": "Centro de Ayuda",
+            "href": "/help-center"
+          },
+          {
+            "name": "Preguntas Frecuentes",
+            "href": "/faq"
+          },
+          {
+            "name": "Política de Privacidad",
+            "href": "/privacy-policy"
+          },
+          {
+            "name": "Términos de Servicio",
+            "href": "/terms-conditions"
+          },
+          {
+            "name": "Política de Cookies",
+            "href": "/privacy-policy"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "Facebook",
+        "href": "https://www.facebook.com/asynczcom",
+        "label": "Facebook"
+      },
+      {
+        "icon": "Instagram",
+        "href": "https://www.instagram.com/asynczcom",
+        "label": "X"
+      },
+      {
+        "icon": "Linkedin",
+        "href": "https://www.linkedin.com/company/asynczcom/",
+        "label": "LinkedIn"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 asyncz por",
+      "deviofy": {
+        "name": "Deviofy",
+        "href": "https://deviofy.com"
+      },
+      "allRightsReserved": ". Todos los derechos reservados."
+    },
+    "bottomLinks": {
+      "privacyPolicy": {
+        "name": "Política de Privacidad",
+        "href": "/privacy-policy"
+      },
+      "termsOfService": {
+        "name": "Términos de Servicio",
+        "href": "/terms-conditions"
+      },
+      "cookiePolicy": {
+        "name": "Política de Cookies",
+        "href": "/cookie-policy"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": "Ponte en contacto",
+    "sectionDescription": "¿Tienes preguntas? Estamos aquí para ayudarte a comenzar con asyncz",
+    "infoTitle": "Información de contacto",
+    "phoneTitle": "Teléfono",
+    "emailTitle": "Correo electrónico",
+    "addressTitle": "Dirección",
+    "fields": {
+      "name": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu.email@ejemplo.com",
+      "subject": "Asunto",
+      "subjectPlaceholder": "¿Cómo podemos ayudarte?",
+      "message": "Mensaje",
+      "messagePlaceholder": "Cuéntanos más sobre tus necesidades..."
+    },
+    "sendMessage": "Enviar mensaje",
+    "sending": "Enviando...",
+    "validationError": "Por favor, completa todos los campos",
+    "thankYou": "¡Gracias por tu mensaje! Nos pondremos en contacto pronto.",
+    "error": "Lo sentimos, hubo un error al enviar tu mensaje. Por favor, inténtalo de nuevo.",
+    "goToContactPage": "Ver página de contacto"
+  },
+  "capabilities": {
+    "sectionTitlePart1": "Una plataforma,",
+    "sectionTitlePart2": "Muchos superpoderes",
+    "sectionDescription": "Descubre el conjunto integral de herramientas que convierten asyncz en tu centro de control de programación.",
+    "smartCalendar": {
+      "title": "Gestión Inteligente de Calendarios",
+      "description": "Experimenta la funcionalidad de calendario de próxima generación con programación inteligente, gestión de citas por arrastrar y soltar, y vistas múltiples que se adaptan a tu flujo de trabajo.",
+      "features": [
+        "Vistas de día, semana y mes",
+        "Gestión de citas por arrastrar y soltar",
+        "Coordinación de horarios entre varios expertos"
+      ]
+    },
+    "analytics": {
+      "title": "Analítica y Perspectivas Avanzadas",
+      "description": "Transforma los datos de tu negocio en información procesable con análisis completos que revelan patrones, optimizan el rendimiento e impulsan el crecimiento.",
+      "features": [
+        "Métricas de rendimiento en tiempo real",
+        "Analítica de compromiso del cliente",
+        "Perspectivas para optimización de ingresos"
+      ]
+    },
+    "collaboration": {
+      "title": "Colaboración de Equipo Sin Fronteras",
+      "description": "Unifica tu equipo con potentes herramientas de colaboración que agilizan la comunicación, coordinan los horarios y mantienen a todos sincronizados.",
+      "features": [
+        "Control de acceso basado en roles",
+        "Gestión de múltiples sucursales",
+        "Notificaciones en tiempo real"
+      ]
+    }
+  },
+  "testimonials": {
+    "sectionTitlePart1": "Lo que dicen",
+    "sectionTitlePart2": "nuestros clientes",
+    "sectionSubtitle": "Únete a miles de empresas satisfechas que están transformando su gestión de horarios",
+    "list": [
+      {
+        "name": "Elena Gilbert",
+        "position": "Coordinadora de Proyectos",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b332c38c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "asyncz ha revolucionado el flujo de trabajo de nuestro equipo con una programación fluida y herramientas de análisis de datos completas, mejorando la productividad en todos los niveles."
+      },
+      {
+        "name": "Michael Smith",
+        "position": "Gerente de Operaciones",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "El panel de análisis nos brinda información increíble sobre nuestro negocio. Hemos reducido las ausencias en un 40% y aumentado la eficiencia de manera espectacular."
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "CEO, HealthCare Plus",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "Gestionar varias sucursales era una pesadilla antes de asyncz. Ahora todo está centralizado y la coordinación de nuestro equipo nunca ha sido mejor."
+      }
+    ],
+    "ctaTitle": "¿Listo para transformar tu gestión de horarios?",
+    "ctaDescription": "Únete a más de 1,000 empresas que ya utilizan asyncz",
+    "ctaButton": "Comienza tu prueba gratuita de 28 días"
+  },
+  "about": {
+    "pageTitle": "Sobre Nosotros - asyncz | Nuestra Historia y Misión",
+    "metaDescription": "Conoce la misión de asyncz para revolucionar la programación de citas y descubre al equipo de Deviofy detrás de la innovadora plataforma que sirve a empresas en todo el mundo.",
+    "heroTitle": "Sobre Nosotros",
+    "heroDescription": "Impulsado por IA, asyncz de Deviofy está revolucionando la forma en que las empresas gestionan el tiempo y las citas. Combina tecnología de vanguardia con un diseño intuitivo para crear la plataforma definitiva de gestión de horarios.",
+    "heroButtonFreeTrial": "Comienza tu prueba gratuita",
+    "heroButtonContactSales": "Contactar con Ventas",
+    "stats": [
+      {
+        "value": "50+",
+        "label": "Usuarios Activos"
+      },
+      {
+        "value": "600+",
+        "label": "Citas Programadas"
+      },
+      {
+        "value": "3+",
+        "label": "Países Atendidos"
+      },
+      {
+        "value": "99.9%",
+        "label": "Disponibilidad"
+      }
+    ],
+    "ourStoryTitle": "Nuestra Historia",
+    "ourStory1": "En 2022, nuestros fundadores en Deviofy detectaron un problema común en diversas industrias: las empresas luchaban con herramientas de programación fragmentadas que no funcionaban juntas. Los proveedores de salud gestionaban múltiples sistemas, los consultores perdían reservas por interfaces deficientes y los organizadores de eventos dedicaban horas a coordinar manualmente los horarios.",
+    "ourStory2": "Imaginamos una sola plataforma capaz de gestionar cualquier necesidad de programación, desde citas simples hasta eventos grupales complejos con mecanismos de votación. Así nació asyncz, combinando el poder de la tecnología moderna con la simplicidad que los profesionales ocupados necesitan.",
+    "ourStory3": "Hoy, asyncz atiende a más de 50,000 usuarios en 150+ países, demostrando que cuando se construye algo con auténtica preocupación por la experiencia del usuario, la gente lo nota.",
+    "industryRecognition": "Reconocimiento de la Industria",
+    "industryRecognitionDesc": "Destacado en TechCrunch y Product Hunt",
+    "customerSatisfaction": "Satisfacción del Cliente",
+    "customerSatisfactionDesc": "Calificación promedio de 4.8/5 con más de 2,000 opiniones",
+    "enterpriseTrust": "Confianza Empresarial",
+    "enterpriseTrustDesc": "",
+    "missionVisionTitle": "Misión y Visión",
+    "missionVisionSubtitle": "Estamos construyendo el futuro de la gestión del tiempo, una cita a la vez.",
+    "missionTitle": "Nuestra Misión",
+    "missionDesc": "Eliminar la fricción en la programación y ayudar a las empresas a centrarse en lo que mejor hacen. Creemos que el tiempo es el recurso más valioso y nuestra misión es ayudar a todos a aprovecharlo al máximo mediante soluciones inteligentes e intuitivas.",
+    "visionTitle": "Nuestra Visión",
+    "visionDesc": "Un mundo donde la programación sea sencilla, inteligente y accesible para todos. Visualizamos asyncz como el estándar global para la gestión de citas, impulsando a millones de empresas y permitiendo la coordinación perfecta en todas las industrias.",
+    "valuesTitle": "Nuestros Valores",
+    "valuesSubtitle": "Estos principios guían todo lo que hacemos en Deviofy y definen cómo construimos asyncz.",
+    "values": [
+      {
+        "title": "Innovación Primero",
+        "description": "Impulsamos constantemente los límites de lo posible en tecnología de programación, ofreciendo soluciones innovadoras que anticipan necesidades futuras."
+      },
+      {
+        "title": "Éxito del Cliente",
+        "description": "Tu éxito es nuestro éxito. Nos comprometemos a brindar soporte excepcional y a asegurar que nuestra plataforma crezca junto con tu empresa."
+      },
+      {
+        "title": "Confiabilidad",
+        "description": "Construido sobre infraestructura de nivel empresarial, asyncz proporciona la confiabilidad y seguridad en la que las empresas confían cada día."
+      },
+      {
+        "title": "Accesibilidad Global",
+        "description": "Creemos que la programación debe ser simple para todos, en todas partes. Nuestra plataforma atiende a empresas en más de 150 países."
+      }
+    ],
+    "journeyTitle": "Nuestra Trayectoria",
+    "journeySubtitle": "De startup a plataforma global: así nació asyncz.",
+    "milestones": [
+      {
+        "year": "2022",
+        "title": "Fundación",
+        "description": "Deviofy fue fundada con la visión de simplificar las operaciones empresariales mediante automatización inteligente."
+      },
+      {
+        "year": "2023",
+        "title": "Lanzamiento de asyncz",
+        "description": "Lanzamos asyncz como una plataforma integral de programación, comenzando con la gestión básica de citas."
+      },
+      {
+        "year": "2023",
+        "title": "Crecimiento Rápido",
+        "description": "Alcanzamos los 10 usuarios e incorporamos gestión de equipos y soporte multi-sucursal."
+      },
+      {
+        "year": "2024",
+        "title": "Preparado para Empresas",
+        "description": "Introdujimos funciones avanzadas como programación grupal, analítica y seguridad empresarial."
+      },
+      {
+        "year": "2024",
+        "title": "Expansión Global",
+        "description": "Actualmente servimos a más de 50 usuarios en 3+ países con soporte multilingüe 24/7."
+      }
+    ],
+    "companyInfoTitle": "asyncz de Deviofy",
+    "companyInfoDesc": "asyncz es desarrollado y gestionado con orgullo por Deviofy, una empresa tecnológica ubicada en IFZA Business Park, Edificio A1, Dubai Digital Park, Dubai Silicon Oasis, Dubái, Emiratos Árabes Unidos, especializada en automatización empresarial y soluciones de programación para clientes en todo el mundo.",
+    "companyDetailsTitle": "Detalles de la Empresa",
+    "company": "Deviofy",
+    "product": "Plataforma de Programación asyncz",
+    "founded": "2022",
+    "headquarters": "IFZA Business Park, Edificio A1, Dubai Digital Park, Dubai Silicon Oasis, Dubái, Emiratos Árabes Unidos",
+    "globalReach": "150+ países",
+    "contact": "info@asyncz.com",
+    "officeAddressTitle": "Dirección de la Oficina",
+    "officeAddress1": "Deviofy Technology Solutions",
+    "officeAddress2": "IFZA Business Park, Edificio A1, Dubai Digital Park, Dubai Silicon Oasis, Dubái, Emiratos Árabes Unidos",
+    "officeEmail": "📧 info@asyncz.com",
+    "officePhone": "📞 +49 69 1234 5678",
+    "locationTitle": "Nuestra Ubicación",
+    "locationDesc": "Ubicados en el corazón de IFZA Business Park, Edificio A1, Dubai Digital Park, Dubai Silicon Oasis, Dubái, Emiratos Árabes Unidos",
+    "ctaTitle": "¿Listo para ser parte de nuestra historia?",
+    "ctaDesc": "Experimenta la plataforma que está revolucionando la gestión del tiempo en las empresas.",
+    "ctaButtonFreeTrial": "Prueba gratuita",
+    "ctaButtonScheduleDemo": "Agendar Demo"
+  },
+  "cookiePolicy": {
+    "pageTitle": "Política de Cookies - asyncz | Cómo usamos las cookies",
+    "metaDescription": "Conozca la Política de Cookies de asyncz y cómo utilizamos cookies y tecnologías similares para mejorar su experiencia en nuestra plataforma.",
+    "title": "Política de Cookies",
+    "lastUpdated": "Última actualización: "
+  },
+  "faq": {
+    "pageTitle": "FAQ - asyncz | Preguntas Frecuentes",
+    "metaDescription": "Encuentra respuestas a las preguntas frecuentes sobre la plataforma de programación asyncz. Descubre sus funciones, precios, integraciones y cómo empezar.",
+    "heroTitle": "Preguntas",
+    "heroTitleHighlight": "Frecuentes",
+    "heroDescription": "Encuentra respuestas a preguntas comunes sobre las funciones, precios y primeros pasos en asyncz",
+    "categories": [
+      {
+        "category": "Primeros Pasos",
+        "questions": [
+          {
+            "question": "¿Qué es asyncz y cómo funciona?",
+            "answer": "asyncz es una plataforma integral de gestión de horarios diseñada para optimizar la administración de citas para empresas de todos los tamaños. Combina la gestión de calendarios, la coordinación de sucursales, la programación de expertos y análisis avanzados en una sola solución. asyncz te ofrece herramientas intuitivas para programar citas, gestionar múltiples ubicaciones, coordinar equipos y analizar el rendimiento de tu negocio."
+          },
+          {
+            "question": "¿Cómo empiezo a usar asyncz?",
+            "answer": "¡Empezar es muy sencillo! Haz clic en 'Prueba Gratis' en nuestra página de inicio para acceder a tu prueba gratuita de 28 días. Durante este periodo, puedes explorar todas las funciones Premium. Tras registrarte, te guiaremos paso a paso para añadir la información de tu empresa, crear sucursales, añadir miembros del equipo y configurar tus servicios."
+          },
+          {
+            "question": "¿Necesito conocimientos técnicos para usar asyncz?",
+            "answer": "¡No necesitas conocimientos técnicos! asyncz está pensado para ser fácil de usar. Nuestra interfaz intuitiva permite a cualquiera gestionar horarios, citas y operaciones del negocio sin complicaciones. Además, ofrecemos soporte y documentación completa para que aproveches al máximo la plataforma."
+          },
+          {
+            "question": "¿Puedo migrar mis citas existentes a asyncz?",
+            "answer": "Sí, ofrecemos herramientas y soporte para ayudarte a migrar tus datos de citas actuales a asyncz. Nuestro equipo de Customer Success puede asistirte durante el proceso para garantizar una transición fluida desde tu sistema anterior."
+          }
+        ]
+      },
+      {
+        "category": "Funciones y Características",
+        "questions": [
+          {
+            "question": "¿Qué vistas de calendario están disponibles?",
+            "answer": "asyncz ofrece tres vistas completas de calendario: vista diaria para la programación detallada, vista semanal para la planificación y coordinación, y vista mensual para la planificación a largo plazo. Todas las vistas permiten gestión de citas mediante arrastrar y soltar."
+          },
+          {
+            "question": "¿Cómo funciona la gestión de sucursales?",
+            "answer": "La gestión de sucursales te permite organizar múltiples ubicaciones de negocio desde una sola plataforma. Puedes asignar expertos a sucursales específicas, gestionar horarios por sucursal y controlar los permisos de acceso. Los gestores de sucursal solo pueden ver y gestionar sus propias ubicaciones, mientras que los gestores de empresa tienen acceso total a todas las sucursales."
+          },
+          {
+            "question": "¿Qué es la función de protección contra listas negras?",
+            "answer": "La protección contra listas negras bloquea automáticamente citas de clientes basadas en correos electrónicos o números de teléfono marcados. Esta función ayuda a prevenir reservas problemáticas y a mantener la calidad del servicio. Está disponible en los planes Pro y Premium."
+          },
+          {
+            "question": "¿Cómo funciona la personalización de marca?",
+            "answer": "La personalización de marca te permite añadir el logo de tu empresa en las notificaciones por correo electrónico, confirmaciones y recordatorios de citas. Así logras una experiencia de marca profesional y coherente para tus clientes. Los planes Premium incluyen opciones avanzadas como dominios personalizados para reservas."
+          },
+          {
+            "question": "¿Qué análisis y reportes están disponibles?",
+            "answer": "asyncz ofrece análisis completos incluyendo tendencias de citas, uso de expertos, seguimiento de ingresos, métricas de engagement de clientes y tasas de ausencias. Los planes Premium incluyen insights empresariales avanzados e informes detallados para optimizar tus operaciones."
+          }
+        ]
+      },
+      {
+        "category": "Precios y Planes",
+        "questions": [
+          {
+            "question": "¿Qué incluye el plan gratuito?",
+            "answer": "El plan gratuito incluye gestión básica de calendario para hasta 3 expertos, 2 procedimientos, 1 sucursal, análisis básicos, soporte por chatbot y 5 eventos Collabriq al mes. Es ideal para individuos y emprendedores que inician en la programación digital."
+          },
+          {
+            "question": "¿Cuál es la diferencia entre la facturación mensual y anual?",
+            "answer": "La facturación anual ofrece un ahorro aproximado del 17% en comparación con la mensual. Por ejemplo, el plan Pro cuesta $11.99/mes en modalidad mensual, o $119.99/año ($9.95/mes) si eliges anual. Todos los planes anuales incluyen las mismas funciones y soporte."
+          },
+          {
+            "question": "¿Cómo funciona la prueba gratuita de 28 días?",
+            "answer": "Los nuevos usuarios acceden a todas las funciones del plan Premium durante 28 días sin coste alguno. No se requiere tarjeta de crédito para iniciar la prueba. Al finalizar, tu cuenta pasa automáticamente al plan gratuito a menos que elijas actualizar a uno de pago."
+          },
+          {
+            "question": "¿Puedo cambiar de plan en cualquier momento?",
+            "answer": "Sí, puedes subir o bajar de plan cuando lo desees. Las mejoras de plan se aplican de inmediato, mientras que las bajadas entran en vigor al finalizar tu ciclo de facturación actual. Calculamos cargos prorrateados por mejoras y damos créditos por bajadas."
+          },
+          {
+            "question": "¿Qué métodos de pago aceptan?",
+            "answer": "Aceptamos todas las tarjetas principales (Visa, MasterCard, American Express), PayPal y transferencias bancarias para planes anuales. Todos los pagos se procesan de forma segura mediante pasarelas cifradas."
+          },
+          {
+            "question": "¿Hay descuento para estudiantes?",
+            "answer": "¡Sí! Ofrecemos acceso gratuito al plan Pro para estudiantes verificados. Contacta a nuestro equipo de soporte con tu documentación de estudiante para aplicar. Esto incluye todas las funciones Pro gratis mientras estudias."
+          }
+        ]
+      },
+      {
+        "category": "Tecnología e Integraciones",
+        "questions": [
+          {
+            "question": "¿asyncz funciona en dispositivos móviles?",
+            "answer": "Sí, asyncz es completamente responsivo y funciona perfectamente en smartphones, tablets y ordenadores. Puedes gestionar citas, ver horarios y acceder a todas las funciones desde cualquier dispositivo con conexión a internet."
+          },
+          {
+            "question": "¿Puedo integrar asyncz en mi sitio web?",
+            "answer": "Sí, los planes Pro y Premium incluyen widgets integrables que puedes añadir a tu web. Los planes Premium también permiten integración con dominios personalizados para una experiencia de marca uniforme."
+          },
+          {
+            "question": "¿Qué integraciones están disponibles?",
+            "answer": "asyncz se integra con calendarios populares, sistemas de correo electrónico y herramientas empresariales. Los planes Enterprise incluyen acceso API para integraciones personalizadas, SSO y conexiones avanzadas de terceros."
+          },
+          {
+            "question": "¿Mis datos están seguros y respaldados?",
+            "answer": "Por supuesto. Utilizamos medidas de seguridad de nivel empresarial como cifrado SSL, auditorías regulares y copias de seguridad automáticas. Tus datos se almacenan en centros de datos seguros y cumpliendo normativas, con garantía de disponibilidad del 99,9%."
+          },
+          {
+            "question": "¿Puedo exportar mis datos?",
+            "answer": "Sí, puedes exportar tus citas, información de clientes e informes en cualquier momento. Ofrecemos varios formatos de exportación incluyendo CSV y PDF para que siempre tengas acceso a tus datos."
+          }
+        ]
+      },
+      {
+        "category": "Gestión de Usuarios y Permisos",
+        "questions": [
+          {
+            "question": "¿Qué roles de usuario existen?",
+            "answer": "asyncz ofrece cuatro roles: Gestor de empresa (acceso total), Gestor de sucursal (acceso solo a su sucursal), Experto (acceso a su propio horario) y Recepcionista (acceso al calendario de sucursal). Cada rol tiene permisos adaptados a sus responsabilidades."
+          },
+          {
+            "question": "¿Cuántos usuarios puedo añadir a mi cuenta?",
+            "answer": "Los límites de usuarios dependen del plan: El plan gratuito incluye gestión básica, Starter permite múltiples usuarios, Pro ofrece gestión avanzada, y Premium permite usuarios ilimitados con control detallado de permisos."
+          },
+          {
+            "question": "¿Puedo controlar qué ve y hace cada usuario?",
+            "answer": "Sí, asyncz ofrece control de acceso basado en roles. Puedes personalizar los permisos para cada rol, asegurando que cada miembro acceda solo a la información y funciones relevantes para su trabajo."
+          }
+        ]
+      },
+      {
+        "category": "Soporte y Formación",
+        "questions": [
+          {
+            "question": "¿Qué opciones de soporte ofrecen?",
+            "answer": "El soporte varía según el plan: los planes Gratuito y Starter incluyen chatbot, Pro suma soporte por email y Premium ofrece soporte prioritario 24/7 con chat en vivo y gestor de éxito dedicado."
+          },
+          {
+            "question": "¿Ofrecen formación para nuevos usuarios?",
+            "answer": "Sí, ofrecemos recursos completos de onboarding incluyendo tutoriales en vídeo, documentación y webinars. Los clientes Premium reciben formación personalizada con su gestor dedicado."
+          },
+          {
+            "question": "¿En cuánto tiempo responden a las solicitudes de soporte?",
+            "answer": "Los tiempos de respuesta varían por plan: el soporte por email responde en 24h, el soporte prioritario Premium responde en 2-4h. Incidencias urgentes de Premium reciben atención inmediata."
+          },
+          {
+            "question": "¿Tienen base de conocimiento o documentación?",
+            "answer": "Sí, disponemos de documentación extensa, tutoriales en vídeo y una base de conocimiento buscable con toda la información sobre asyncz. Está disponible 24/7 y se actualiza regularmente."
+          }
+        ]
+      },
+      {
+        "category": "Enterprise y Soluciones Personalizadas",
+        "questions": [
+          {
+            "question": "¿Qué incluye el plan Enterprise?",
+            "answer": "Los planes Enterprise incluyen implementación white-label, sucursales/usuarios/procedimientos ilimitados, integración de dominio propio, acceso API, integración SSO, gestión de cuenta dedicada, despliegues personalizados y cumplimiento avanzado de seguridad (GDPR, SOC 2)."
+          },
+          {
+            "question": "¿Ofrecen despliegue on-premise?",
+            "answer": "Sí, los clientes Enterprise pueden optar por despliegues on-premise para mayor seguridad y control. Esto incluye servidores dedicados, configuración personalizada de seguridad y almacenamiento local según requisitos de cumplimiento."
+          },
+          {
+            "question": "¿Pueden desarrollar funciones personalizadas para mi empresa?",
+            "answer": "Sí, los planes Enterprise incluyen desarrollo personalizado. Nuestro equipo puede crear funciones, integraciones y flujos a medida para tus necesidades específicas. Contacta a nuestro equipo comercial para más información."
+          }
+        ]
+      }
+    ],
+    "stillHaveQuestions": {
+      "title": "¿Tienes más preguntas?",
+      "description": "¿No encuentras lo que buscas? Nuestro equipo de soporte está para ayudarte.",
+      "supportOptions": [
+        {
+          "icon": "MessageCircle",
+          "title": "Chat en Vivo",
+          "description": "Obtén ayuda instantánea de nuestro equipo",
+          "contact": "Disponible para clientes Premium"
+        },
+        {
+          "icon": "Mail",
+          "title": "Soporte por Correo",
+          "description": "Envíanos tus preguntas en cualquier momento",
+          "contact": "info@asyncz.com"
+        },
+        {
+          "icon": "Phone",
+          "title": "Soporte Telefónico",
+          "description": "Habla directamente con nuestro equipo",
+          "contact": "+1 555 1234567"
+        }
+      ],
+      "contactSupportButton": "Contactar Soporte",
+      "startFreeTrialButton": "Comienza Prueba Gratis"
+    }
+  },
+  "helpCenter": {
+    "pageTitle": "Centro de Ayuda - asyncz | Documentación de soporte",
+    "metaDescription": "Encuentra ayuda y documentación de soporte para asyncz. Explora guías, tutoriales y recursos para sacar el máximo partido a tu plataforma de programación.",
+    "heroTitle": "Centro de",
+    "heroTitleHighlight": "Ayuda",
+    "heroDescription": "Encuentra respuestas, tutoriales y guías para aprovechar al máximo asyncz",
+    "searchPlaceholder": "Buscar artículos, guías y tutoriales...",
+    "quickActions": {
+      "title": "Acciones rápidas",
+      "actions": [
+        {
+          "title": "Contactar Soporte",
+          "description": "Obtén ayuda directa de nuestro equipo de soporte",
+          "icon": "MessageCircle",
+          "action": "mailto:info@asyncz.com",
+          "type": "email"
+        },
+        {
+          "title": "Video Tutoriales",
+          "description": "Mira guías en vídeo paso a paso",
+          "icon": "Video",
+          "action": "/video-tutorials",
+          "type": "link"
+        },
+        {
+          "title": "App móvil",
+          "description": "La app móvil estará disponible pronto",
+          "icon": "Download",
+          "action": "#",
+          "type": "link"
+        },
+        {
+          "title": "Estado del sistema",
+          "description": "Consulta la disponibilidad y actualizaciones del servicio",
+          "icon": "Shield",
+          "action": "#",
+          "type": "link"
+        }
+      ]
+    },
+    "popularArticles": {
+      "title": "Artículos populares",
+      "readArticle": "Leer artículo"
+    },
+    "browseByCategory": {
+      "title": "Explorar por categoría",
+      "categories": [
+        {
+          "id": "all",
+          "name": "Todos los temas",
+          "icon": "Book"
+        },
+        {
+          "id": "getting-started",
+          "name": "Primeros pasos",
+          "icon": "Users"
+        },
+        {
+          "id": "account",
+          "name": "Cuenta y configuración",
+          "icon": "Settings"
+        },
+        {
+          "id": "billing",
+          "name": "Facturación y planes",
+          "icon": "CreditCard"
+        },
+        {
+          "id": "security",
+          "name": "Seguridad y privacidad",
+          "icon": "Shield"
+        },
+        {
+          "id": "integrations",
+          "name": "Integraciones",
+          "icon": "ExternalLink"
+        }
+      ],
+      "popularLabel": "Popular",
+      "noArticlesFound": "No se encontraron artículos que coincidan con tu búsqueda.",
+      "clearFilters": "Limpiar filtros"
+    },
+    "articles": [
+      {
+        "category": "getting-started",
+        "title": "Guía rápida: Configuración de tu primer horario",
+        "description": "Aprende a crear tu cuenta, agregar miembros al equipo y programar tu primera cita.",
+        "type": "guide",
+        "readTime": "5 min de lectura",
+        "popular": true
+      },
+      {
+        "category": "getting-started",
+        "title": "Añadir y gestionar miembros del equipo",
+        "description": "Guía paso a paso para invitar expertos, asignar roles y gestionar permisos.",
+        "type": "tutorial",
+        "readTime": "3 min de lectura",
+        "popular": true
+      },
+      {
+        "category": "getting-started",
+        "title": "Configura la información de tu negocio",
+        "description": "Configura los detalles de tu empresa, sucursales y servicios para una programación óptima.",
+        "type": "guide",
+        "readTime": "4 min de lectura",
+        "popular": false
+      },
+      {
+        "category": "account",
+        "title": "Gestionar tu perfil y preferencias",
+        "description": "Personaliza la configuración de tu cuenta, preferencias de notificación e información personal.",
+        "type": "guide",
+        "readTime": "3 min de lectura",
+        "popular": false
+      },
+      {
+        "category": "account",
+        "title": "Configuración de la autenticación de dos factores",
+        "description": "Protege tu cuenta con autenticación en dos pasos para una mayor seguridad.",
+        "type": "tutorial",
+        "readTime": "2 min de lectura",
+        "popular": true
+      },
+      {
+        "category": "account",
+        "title": "Cambiar tu contraseña y configuraciones de seguridad",
+        "description": "Actualiza tus credenciales de acceso y configura las opciones de seguridad.",
+        "type": "guide",
+        "readTime": "2 min de lectura",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "Entendiendo los planes de asyncz",
+        "description": "Desglose detallado de las funciones incluidas en cada nivel de suscripción.",
+        "type": "guide",
+        "readTime": "6 min de lectura",
+        "popular": true
+      },
+      {
+        "category": "billing",
+        "title": "Mejorar o reducir tu plan",
+        "description": "Cómo cambiar tu suscripción y qué sucede con tus datos.",
+        "type": "tutorial",
+        "readTime": "3 min de lectura",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "Métodos de pago y ciclos de facturación",
+        "description": "Gestión de información de pago, facturas y calendarios de facturación.",
+        "type": "guide",
+        "readTime": "4 min de lectura",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "Prueba gratuita y descuentos para estudiantes",
+        "description": "Información sobre los periodos de prueba, planes para estudiantes y ofertas especiales.",
+        "type": "guide",
+        "readTime": "3 min de lectura",
+        "popular": true
+      },
+      {
+        "category": "security",
+        "title": "Privacidad de datos y cumplimiento con GDPR",
+        "description": "Cómo asyncz protege tus datos y cumple con las normativas de privacidad.",
+        "type": "guide",
+        "readTime": "5 min de lectura",
+        "popular": false
+      },
+      {
+        "category": "security",
+        "title": "Respaldo y exportación de datos",
+        "description": "Aprende a exportar tus datos y entiende nuestros procedimientos de respaldo.",
+        "type": "tutorial",
+        "readTime": "4 min de lectura",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "Guía de integración de calendarios",
+        "description": "Conecta asyncz con Google Calendar, Outlook y otras aplicaciones de calendario.",
+        "type": "tutorial",
+        "readTime": "7 min de lectura",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "Instalación del widget en el sitio web",
+        "description": "Incorpora los widgets de reserva de asyncz en tu sitio web para una integración perfecta.",
+        "type": "tutorial",
+        "readTime": "5 min de lectura",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "Documentación API e integraciones personalizadas",
+        "description": "Guía técnica para desarrolladores para integrarse con la API de asyncz.",
+        "type": "technical",
+        "readTime": "15 min de lectura",
+        "popular": false
+      }
+    ],
+    "aboutAsyncz": {
+      "title": "Sobre asyncz",
+      "description": "asyncz es un producto desarrollado y operado por Deviofy, una empresa de tecnología especializada en automatización empresarial y soluciones de programación.",
+      "product": {
+        "label": "Producto",
+        "value": "Plataforma de programación asyncz"
+      },
+      "developer": {
+        "label": "Desarrollador",
+        "value": "Deviofy"
+      },
+      "location": {
+        "label": "Ubicación",
+        "value": "IFZA Business Park, Edificio A1, Dubai Digital Park, Dubai Silicon Oasis, Dubái, Emiratos Árabes Unidos"
+      }
+    },
+    "contactSupport": {
+      "title": "¿Aún necesitas ayuda?",
+      "description": "¿No encuentras lo que buscas? Nuestro equipo de soporte está aquí para ayudarte a tener éxito.",
+      "supportOptions": [
+        {
+          "icon": "MessageCircle",
+          "iconColor": "text-green-500",
+          "title": "Chat en vivo",
+          "description": "Recibe ayuda instantánea de nuestro equipo de soporte",
+          "availability": "Disponible para clientes Premium"
+        },
+        {
+          "icon": "FileText",
+          "iconColor": "text-blue-500",
+          "title": "Enviar un ticket",
+          "description": "Envíanos tu pregunta y responderemos en 24 horas",
+          "availability": "info@asyncz.com"
+        },
+        {
+          "icon": "Video",
+          "iconColor": "text-purple-500",
+          "title": "Agendar una demo",
+          "description": "Recibe formación personalizada de nuestros expertos",
+          "availability": "Solo para clientes Enterprise"
+        }
+      ],
+      "contactSupportButton": "Contactar soporte",
+      "browseFaqButton": "Ver Preguntas Frecuentes"
+    }
+  },
+  "howItWorks": {
+    "pageTitle": "Cómo Funciona - asyncz | Programación Simple para Cualquier Negocio",
+    "metaDescription": "Descubre cómo asyncz funciona para diferentes tipos de empresas. Desde profesionales individuales hasta grandes empresas, nuestra plataforma transforma la gestión del tiempo en cualquier industria.",
+    "heroTitle": "Cómo asyncz",
+    "heroTitleHighlight": "Funciona para Ti",
+    "heroDescription": "Descubre cómo asyncz transforma la gestión de horarios en empresas de todos los sectores. Desde profesionales individuales hasta grandes corporaciones, nuestra plataforma se adapta a tus necesidades.",
+    "process": {
+      "title": "Un Proceso Simple en 4 Pasos",
+      "subtitle": "Comienza con asyncz en minutos, no en horas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Configura tu Negocio",
+          "description": "Crea tu cuenta asyncz y configura la estructura de tu empresa",
+          "details": [
+            "Agrega la información y el branding de tu empresa",
+            "Crea sucursales para diferentes ubicaciones",
+            "Configura los servicios y procedimientos que ofreces",
+            "Define tu horario y disponibilidad"
+          ],
+          "icon": "Building"
+        },
+        {
+          "step": 2,
+          "title": "Añade tu Equipo",
+          "description": "Invita a miembros del equipo y asigna roles con los permisos adecuados",
+          "details": [
+            "Agrega expertos y personal a tu sistema",
+            "Asigna roles: Administrador de empresa, Administrador de sucursal, Experto, Recepcionista",
+            "Establece horarios y disponibilidades individuales",
+            "Configura los permisos de acceso para cada miembro"
+          ],
+          "icon": "Users"
+        },
+        {
+          "step": 3,
+          "title": "Configura las Reservas de Clientes",
+          "description": "Define cómo los clientes reservarán citas con tu negocio",
+          "details": [
+            "Los clientes visitan tu página de reservas o el widget embebido",
+            "Seleccionan el servicio que necesitan",
+            "Eligen su experto o sucursal preferida",
+            "Eligen el horario disponible que mejor les convenga"
+          ],
+          "icon": "Calendar"
+        },
+        {
+          "step": 4,
+          "title": "Gestión Automática del Calendario",
+          "description": "Todas las citas aparecen en tu sistema de calendario potente e intuitivo",
+          "details": [
+            "Visualiza citas en formato día, semana o mes",
+            "Reprograma fácilmente arrastrando y soltando las citas",
+            "Visualiza todos los expertos y sucursales en una sola vista",
+            "Notificaciones automáticas para todas las partes"
+          ],
+          "icon": "CheckCircle"
+        }
+      ]
+    },
+    "businessTypes": {
+      "title": "Perfecto para Cada",
+      "titleHighlight": "Tipo de Negocio",
+      "subtitle": "Descubre cómo asyncz se adapta a las necesidades únicas de tu sector",
+      "keyBenefitsLabel": "Beneficios Clave",
+      "examplesLabel": "Ejemplos",
+      "types": [
+        {
+          "icon": "User",
+          "title": "Profesionales Individuales",
+          "description": "Ideal para freelancers, consultores y emprendedores que valoran la gestión eficiente del tiempo",
+          "benefits": [
+            "Gestión de agenda personal",
+            "Reservas de citas con clientes",
+            "Bloques de tiempo para trabajo enfocado",
+            "Comunicación profesional con clientes"
+          ],
+          "examples": "Diseñadores freelance, entrenadores personales, tutores, fotógrafos"
+        },
+        {
+          "icon": "Stethoscope",
+          "title": "Centros de Salud",
+          "description": "Optimiza citas de pacientes y gestiona varios profesionales en distintas ubicaciones",
+          "benefits": [
+            "Reserva de citas para pacientes",
+            "Programación multi-profesional",
+            "Gestión de procedimientos médicos",
+            "Recordatorios automáticos de citas"
+          ],
+          "examples": "Doctores, dentistas, fisioterapeutas, psicólogos"
+        },
+        {
+          "icon": "GraduationCap",
+          "title": "Servicios Educativos",
+          "description": "Organiza clases, cursos y consultas educativas fácilmente",
+          "benefits": [
+            "Programación de cursos y clases",
+            "Gestión de inscripciones de estudiantes",
+            "Coordinación entre instructores",
+            "Planificación de recursos educativos"
+          ],
+          "examples": "Academias de idiomas, centros de tutorías, institutos de formación, universidades"
+        },
+        {
+          "icon": "Briefcase",
+          "title": "Servicios Jurídicos y Profesionales",
+          "description": "Gestiona consultas y reuniones de casos de forma profesional y eficiente",
+          "benefits": [
+            "Reserva de consultas de clientes",
+            "Programación de reuniones de casos",
+            "Gestión profesional de servicios",
+            "Comunicación confidencial con clientes"
+          ],
+          "examples": "Despachos de abogados, oficinas contables, asesores financieros, inmobiliarias"
+        },
+        {
+          "icon": "Monitor",
+          "title": "Consultoría IT & Tecnología",
+          "description": "Coordina reuniones técnicas y de proyectos sin complicaciones",
+          "benefits": [
+            "Reserva de consultas técnicas",
+            "Reuniones de hitos de proyecto",
+            "Coordinación de equipos",
+            "Sesiones de requisitos con clientes"
+          ],
+          "examples": "Consultores de software, soporte IT, desarrolladores web, integradores de sistemas"
+        },
+        {
+          "icon": "Scissors",
+          "title": "Belleza y Bienestar",
+          "description": "Perfecto para salones, spas y centros de bienestar con varios proveedores de servicios",
+          "benefits": [
+            "Reserva de servicios",
+            "Coordinación de horarios de staff",
+            "Gestión de múltiples servicios",
+            "Seguimiento de preferencias de clientes"
+          ],
+          "examples": "Peluquerías, barberías, spas, masajistas, clínicas de estética"
+        },
+        {
+          "icon": "Building",
+          "title": "Clínicas y Centros Médicos",
+          "description": "Solución integral para instalaciones médicas con múltiples departamentos",
+          "benefits": [
+            "Programación multi-departamental",
+            "Gestión de citas de especialistas",
+            "Optimización del flujo de pacientes",
+            "Coordinación de procedimientos médicos"
+          ],
+          "examples": "Clínicas médicas, centros de diagnóstico, centros especializados"
+        },
+        {
+          "icon": "MapPin",
+          "title": "Negocios con Múltiples Sucursales",
+          "description": "Gestiona la programación en varias sucursales desde una sola plataforma",
+          "benefits": [
+            "Gestión centralizada de sucursales",
+            "Programación por ubicación",
+            "Coordinación entre sucursales",
+            "Supervisión global del negocio"
+          ],
+          "examples": "Cadenas de retail, franquicias, proveedores regionales"
+        },
+        {
+          "icon": "Calendar",
+          "title": "Organización de Eventos y Fiestas",
+          "description": "Ideal para coordinar eventos donde debes gestionar disponibilidad de varios participantes",
+          "benefits": [
+            "Coordinación de agendas grupales",
+            "Recopilación de votos de participantes",
+            "Optimización del horario del evento",
+            "Gestión automática de participantes"
+          ],
+          "examples": "Organizadores de fiestas, bodas, eventos corporativos, reuniones de equipo"
+        }
+      ]
+    },
+    "calendarFeatures": {
+      "title": "El Calendario Más",
+      "titleHighlight": "Potente",
+      "titleEnd": "Que Jamás Usarás",
+      "description": "Nuestro calendario no solo es simple, es increíblemente potente. Gestiona escenarios complejos con facilidad y mantén la simplicidad que tu equipo necesita.",
+      "controlTitle": "Control Total de Programación",
+      "features": [
+        {
+          "title": "Vista Múltiple de Calendario",
+          "description": "Cambia entre vista diaria, semanal y mensual según lo que necesites"
+        },
+        {
+          "title": "Arrastra y Suelta Fácilmente",
+          "description": "Reprograma citas simplemente arrastrando y soltando, así de sencillo"
+        },
+        {
+          "title": "Coordinación de Expertos",
+          "description": "Visualiza todos los horarios del equipo en un solo lugar y coordina fácilmente"
+        },
+        {
+          "title": "Gestión de Sucursales",
+          "description": "Gestiona múltiples ubicaciones desde una sola vista de calendario, con filtros por sucursal"
+        },
+        {
+          "title": "Actualizaciones en Tiempo Real",
+          "description": "Todos los cambios se sincronizan al instante entre todos los dispositivos y usuarios"
+        },
+        {
+          "title": "Notificaciones Inteligentes",
+          "description": "Recordatorios y avisos automáticos mantienen a todos informados y puntuales"
+        }
+      ],
+      "specialFeatures": {
+        "title": "¿Por qué Nuestro Calendario es Especial?",
+        "items": [
+          {
+            "icon": "Calendar",
+            "text": "Vista unificada de todas las sucursales y expertos"
+          },
+          {
+            "icon": "Users",
+            "text": "Acceso basado en roles para el equipo"
+          },
+          {
+            "icon": "Clock",
+            "text": "Actualizaciones en tiempo real en todos los dispositivos"
+          },
+          {
+            "icon": "ArrowRight",
+            "text": "Gestión de citas por arrastrar y soltar"
+          }
+        ]
+      }
+    },
+    "customerJourney": {
+      "title": "El Recorrido de",
+      "titleHighlight": "Tu Cliente",
+      "subtitle": "Descubre lo fácil que es para tus clientes reservar citas",
+      "steps": [
+        {
+          "step": "1",
+          "title": "Elige Servicio",
+          "description": "El cliente selecciona el servicio o procedimiento que necesita"
+        },
+        {
+          "step": "2",
+          "title": "Selecciona Experto",
+          "description": "Elige el experto o la sucursal preferida según disponibilidad"
+        },
+        {
+          "step": "3",
+          "title": "Elige Horario",
+          "description": "Las franjas horarias disponibles se muestran claramente para una selección fácil"
+        },
+        {
+          "step": "4",
+          "title": "Confirmación Automática",
+          "description": "La cita aparece en tu calendario y se envían confirmaciones automáticas"
+        }
+      ]
+    },
+    "eventPlanning": {
+      "title": "Función Especial: Coordinación de Eventos Grupales",
+      "subtitle": "Ideal para organizadores de eventos que necesitan coordinar a varias personas",
+      "steps": [
+        {
+          "step": "1",
+          "title": "Crear Encuesta de Evento",
+          "description": "Define varias opciones horarias usando el módulo Collabriq"
+        },
+        {
+          "step": "2",
+          "title": "Invitar Participantes",
+          "description": "Envía invitaciones a todas las personas que participarán en el evento"
+        },
+        {
+          "step": "3",
+          "title": "Recopilar Votos",
+          "description": "Los participantes votan por los horarios preferidos y ves todas las respuestas en tiempo real"
+        },
+        {
+          "step": "4",
+          "title": "Finalizar Evento",
+          "description": "Elige el mejor horario según las votaciones y organiza tu evento"
+        }
+      ],
+      "concordFeatures": {
+        "title": "Características de Collabriq Scheduler",
+        "features": [
+          "Ocultar respuestas de participantes (Pro+)",
+          "Ocultar nombres de participantes (Pro+)",
+          "Limitar participantes por opción (Pro+)"
+        ]
+      }
+    },
+    "cta": {
+      "title": "¿Listo para transformar tu gestión de horarios?",
+      "subtitle": "Únete a miles de empresas que ya utilizan asyncz para optimizar sus operaciones",
+      "primaryButton": "Comienza tu prueba gratuita de 28 días",
+      "secondaryButton": "Ver planes de precios"
+    },
+    "demo": {
+      "title": "Descubre asyncz en acción",
+      "description": "Reserva una demo personalizada y descubre cómo asyncz puede transformar la gestión de tus horarios y qué funciones beneficiarán a tu empresa.",
+      "whatYoullLearn": {
+        "title": "¿Qué aprenderás en tu demo?",
+        "items": [
+          {
+            "title": "Configuración según tu sector",
+            "description": "Verás cómo asyncz se adapta a tu tipo de negocio y flujo de trabajo"
+          },
+          {
+            "title": "Recorrido por las funciones",
+            "description": "Explora la programación, gestión de equipos y análisis"
+          },
+          {
+            "title": "Opciones de integración",
+            "description": "Aprende sobre sincronización de calendarios, widgets web y acceso API"
+          },
+          {
+            "title": "Soporte de migración",
+            "description": "Obtén ayuda para migrar desde tus herramientas actuales"
+          }
+        ]
+      },
+      "details": [
+        {
+          "label": "Duración de la demo",
+          "value": "30-45 minutos"
+        },
+        {
+          "label": "Disponible",
+          "value": "Lunes a viernes, 9:00 - 18:00 CET"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Zoom, Teams o Google Meet"
+        }
+      ],
+      "bookButton": "Reservar demo",
+      "watchButton": "Ver tutoriales"
+    }
+  },
+  "pricingDetails": {
+    "pageTitle": "Planes de precios - asyncz | Comparación detallada de características",
+    "metaDescription": "Compara en detalle los planes de precios de asyncz. Elige entre Free, Starter, Pro y Premium con una comparación completa de funciones para programación y gestión empresarial.",
+    "heroTitle": "Comparación",
+    "heroTitleHighlight": "detallada de precios",
+    "heroDescription": "Compara todas las funciones de nuestros planes para encontrar la opción perfecta para tu negocio",
+    "pricingToggle": {
+      "monthly": "Mensual",
+      "yearly": "Anual",
+      "saveText": "Ahorra ~17%"
+    },
+    "mostPopular": "Más popular",
+    "monthText": "mes",
+    "yearText": "año",
+    "targetText": "Dirigido a",
+    "trialText": "Incluye prueba gratuita de 28 días",
+    "getStartedButton": "Comenzar",
+    "startTrialButton": "Prueba gratuita",
+    "plans": [
+      {
+        "name": "Gratis",
+        "description": "Perfecto para individuos y emprendedores solitarios",
+        "monthlyPrice": 0,
+        "yearlyPrice": 0,
+        "target": "Individuos, emprendedores, uso personal",
+        "featured": false,
+        "trial": false
+      },
+      {
+        "name": "Starter",
+        "description": "Para startups y equipos pequeños",
+        "monthlyPrice": 5.99,
+        "yearlyPrice": 59.99,
+        "target": "Startups, equipos pequeños, nuevos negocios",
+        "featured": false,
+        "trial": false
+      },
+      {
+        "name": "Pro",
+        "description": "Para empresas en crecimiento y consultores",
+        "monthlyPrice": 11.99,
+        "yearlyPrice": 119.99,
+        "target": "Pymes, consultores, agencias",
+        "featured": true,
+        "trial": true
+      },
+      {
+        "name": "Premium",
+        "description": "Para empresas y organizaciones grandes",
+        "monthlyPrice": 24.99,
+        "yearlyPrice": 249.99,
+        "target": "Empresas grandes, organizaciones en expansión",
+        "featured": false,
+        "trial": true
+      }
+    ],
+    "featureComparison": {
+      "title": "Comparación completa de características",
+      "featuresHeader": "Funciones",
+      "categories": [
+        {
+          "category": "Gestión de Calendario",
+          "features": [
+            {
+              "name": "Vistas de calendario (Día/Semana/Mes)",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Agregar/Copiar/Editar/Imprimir citas",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Gestión de horarios de expertos",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Gestión de sucursales y expertos",
+          "features": [
+            {
+              "name": "Número de sucursales",
+              "free": "1",
+              "starter": "1",
+              "pro": "1",
+              "premium": "3"
+            },
+            {
+              "name": "Número de expertos",
+              "free": "3",
+              "starter": "4",
+              "pro": "10",
+              "premium": "Ilimitado"
+            },
+            {
+              "name": "Búsqueda y filtrado de expertos",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Edición de horarios de expertos",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Gestión de usuarios",
+          "features": [
+            {
+              "name": "Roles de usuario (Manager, Experto, Recepcionista)",
+              "free": "Básico",
+              "starter": "Básico",
+              "pro": "Avanzado",
+              "premium": "Control total"
+            },
+            {
+              "name": "Gestión multiusuario",
+              "free": false,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Búsqueda y gestión de usuarios",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Permisos detallados de usuario",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Procedimientos y servicios",
+          "features": [
+            {
+              "name": "Número de procedimientos",
+              "free": "2",
+              "starter": "4",
+              "pro": "7",
+              "premium": "15"
+            },
+            {
+              "name": "Gestión de procedimientos (activo/inactivo)",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Configuración avanzada de procedimientos",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Seguridad y protección",
+          "features": [
+            {
+              "name": "Protección de lista negra",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Bloqueo automático de email/teléfono",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Funciones de seguridad avanzadas",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Correo y notificaciones",
+          "features": [
+            {
+              "name": "Notificaciones básicas por email",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Marca personalizada con logo",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Personalización avanzada de marca",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Dominio e integración",
+          "features": [
+            {
+              "name": "Integración con dominio personalizado",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            },
+            {
+              "name": "Implementación marca blanca",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": "Solo para Enterprise"
+            }
+          ]
+        },
+        {
+          "category": "Analítica y panel de control",
+          "features": [
+            {
+              "name": "Tipo de panel",
+              "free": "Básico",
+              "starter": "Básico",
+              "pro": "Avanzado",
+              "premium": "Integral"
+            },
+            {
+              "name": "Reportes y análisis avanzados",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Insights de negocio",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Funciones del lado del cliente",
+          "features": [
+            {
+              "name": "Selección de invitados por cita",
+              "free": "Único",
+              "starter": "Único",
+              "pro": "Múltiple",
+              "premium": "Múltiple"
+            },
+            {
+              "name": "Widget de citas (integrable)",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Reserva en dominio personalizado",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Módulo Collabriq Scheduler",
+          "features": [
+            {
+              "name": "Eventos por mes",
+              "free": "5",
+              "starter": "Ilimitado",
+              "pro": "10",
+              "premium": "Ilimitado"
+            },
+            {
+              "name": "Ocultar respuestas de participantes",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Ocultar nombres de participantes",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Límite de participantes por opción",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Soporte",
+          "features": [
+            {
+              "name": "Tipo de soporte",
+              "free": "Chatbot",
+              "starter": "Chatbot",
+              "pro": "Chatbot + Email",
+              "premium": "24/7 Prioridad"
+            },
+            {
+              "name": "Manager de éxito del cliente",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            },
+            {
+              "name": "Soporte por chat en vivo",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        }
+      ]
+    },
+    "studentPlan": {
+      "title": "Plan para estudiantes",
+      "description": "¡Funciones Pro gratis! asyncz apoya a los estudiantes con acceso gratuito a herramientas profesionales de programación. Se requiere verificación.",
+      "button": "Solicitar plan para estudiantes"
+    },
+    "enterprisePlan": {
+      "title": "Plan Enterprise",
+      "subtitle": "Precios personalizados para grandes empresas y corporativos",
+      "featuresTitle": "Características de Enterprise incluyen",
+      "features": [
+        "Implementación marca blanca total",
+        "Sucursales, expertos y procedimientos ilimitados",
+        "Integración de inicio de sesión único (SSO)",
+        "Acceso API e integraciones personalizadas"
+      ],
+      "supportTitle": "Soporte Enterprise",
+      "support": [
+        "Manager técnico de cuenta dedicado",
+        "Opciones de implementación personalizada",
+        "Cumplimiento GDPR y SOC 2",
+        "Implementación local disponible"
+      ],
+      "button": "Contactar ventas Enterprise"
+    },
+    "demo": {
+      "title": "¿Necesitas ayuda para elegir el plan correcto?",
+      "description": "Programa una demo personalizada con nuestro equipo para descubrir qué plan de asyncz se ajusta a tu negocio y ver la plataforma en acción.",
+      "scheduleTitle": "Agendar tu demo",
+      "benefits": [
+        {
+          "title": "Recorrido personalizado",
+          "description": "Conoce las funciones de asyncz adaptadas a tu industria y caso de uso"
+        },
+        {
+          "title": "Planificación de implementación",
+          "description": "Obtén orientación sobre configuración, migración y onboarding de equipos"
+        },
+        {
+          "title": "Preguntas y respuestas",
+          "description": "Respuestas de expertos a tus desafíos de programación específicos"
+        },
+        {
+          "title": "Precios personalizados",
+          "description": "Consulta descuentos por volumen y precios para empresas"
+        }
+      ],
+      "details": [
+        {
+          "label": "Duración de la demo",
+          "value": "30-45 minutos"
+        },
+        {
+          "label": "Horarios disponibles",
+          "value": "Lunes a viernes, 9:00 - 18:00 CET"
+        },
+        {
+          "label": "Formato",
+          "value": "Videollamada por Zoom, Teams o Google Meet"
+        }
+      ],
+      "scheduleButton": "Agendar demo",
+      "contactButton": "Contactar ventas"
+    }
+  },
+  "privacyPolicy": {
+    "pageTitle": "Política de Privacidad - asyncz | Protección de Datos y Privacidad",
+    "metaDescription": "Consulta la Política de Privacidad de asyncz para entender cómo recopilamos, usamos y protegemos tus datos personales. Conoce tus derechos y nuestro compromiso con la seguridad de tus datos.",
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: "
+  },
+  "termsConditions": {
+    "pageTitle": "Términos y condiciones - asyncz | Acuerdo de servicio",
+    "metaDescription": "Lee los Términos y condiciones de asyncz para conocer tus derechos y obligaciones al usar nuestros servicios de programación.",
+    "title": "Términos y condiciones",
+    "lastUpdated": "Última actualización: "
+  },
+  "videoTutorials": {
+    "pageTitle": "Tutoriales en Video - asyncz | Aprende con Guías Paso a Paso",
+    "metaDescription": "Domina asyncz con nuestra completa biblioteca de tutoriales en video. Aprende programación de citas, gestión de equipos, integraciones y funciones avanzadas mediante guías paso a paso.",
+    "heroTitle": "Tutoriales",
+    "heroTitleHighlight": "en Video",
+    "heroDescription": "Domina asyncz con nuestra biblioteca integral de videos. Desde la configuración básica hasta las funciones avanzadas, aprende todo lo que necesitas para maximizar tu productividad en la programación.",
+    "searchPlaceholder": "Buscar tutoriales...",
+    "stats": {
+      "videoTutorials": "Tutoriales en Video",
+      "hoursContentValue": "2.5+",
+      "hoursContent": "Horas de Contenido",
+      "avgRatingValue": "4.7",
+      "avgRating": "Valoración Promedio"
+    },
+    "featuredTitle": "Tutoriales Destacados",
+    "featuredLabel": "Destacado",
+    "allTutorialsTitle": "Todos los Tutoriales",
+    "filterBy": "Filtrar por",
+    "categoryFilter": "Categoría",
+    "difficultyFilter": "Dificultad",
+    "viewsText": "vistas",
+    "noVideosFound": "No se encontraron videos que coincidan con tus criterios.",
+    "clearFilters": "Limpiar filtros",
+    "comingSoon": {
+      "title": "Más Contenido Muy Pronto",
+      "description": "Estamos creando continuamente nuevos tutoriales para ayudarte a dominar asyncz. Suscríbete a nuestro boletín para recibir notificaciones cuando haya nuevos videos disponibles.",
+      "upcomingTitle": "Próximos Tutoriales",
+      "upcomingList": [
+        "Guía de Integración con API",
+        "Automatizaciones Avanzadas",
+        "Gestión Multisucursal",
+        "Formularios de Reserva Personalizados",
+        "Funciones de Seguridad Empresarial"
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar?",
+      "description": "Aplica lo que has aprendido y empieza a programar como un profesional.",
+      "startTrialButton": "Inicia Prueba Gratis",
+      "helpCenterButton": "Ver Centro de Ayuda"
+    },
+    "categories": [
+      {
+        "id": "all",
+        "name": "Todos los Videos",
+        "icon": "Play"
+      },
+      {
+        "id": "getting-started",
+        "name": "Primeros Pasos",
+        "icon": "Users"
+      },
+      {
+        "id": "scheduling",
+        "name": "Programación",
+        "icon": "Calendar"
+      },
+      {
+        "id": "team-management",
+        "name": "Gestión de Equipos",
+        "icon": "Users"
+      },
+      {
+        "id": "integrations",
+        "name": "Integraciones",
+        "icon": "Globe"
+      },
+      {
+        "id": "analytics",
+        "name": "Analítica",
+        "icon": "TrendingUp"
+      },
+      {
+        "id": "security",
+        "name": "Seguridad",
+        "icon": "Shield"
+      },
+      {
+        "id": "mobile",
+        "name": "Aplicación Móvil",
+        "icon": "Smartphone"
+      }
+    ],
+    "difficulties": [
+      {
+        "id": "all",
+        "name": "Todos los Niveles"
+      },
+      {
+        "id": "beginner",
+        "name": "Principiante"
+      },
+      {
+        "id": "intermediate",
+        "name": "Intermedio"
+      },
+      {
+        "id": "advanced",
+        "name": "Avanzado"
+      }
+    ],
+    "videos": [
+      {
+        "id": 1,
+        "title": "Bienvenido a asyncz: Guía Completa de Configuración",
+        "description": "Aprende a configurar tu cuenta asyncz, ajustar la configuración básica y crear tu primera cita en menos de 10 minutos.",
+        "category": "getting-started",
+        "difficulty": "beginner",
+        "duration": "8:42",
+        "views": "12.5K",
+        "rating": 4.9,
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 2,
+        "title": "Creando tu Primer Horario",
+        "description": "Guía paso a paso para crear citas, configurar disponibilidad y gestionar tu calendario de forma eficaz.",
+        "category": "scheduling",
+        "difficulty": "beginner",
+        "duration": "6:15",
+        "views": "8.3K",
+        "rating": 4.8,
+        "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 3,
+        "title": "Gestión de Miembros del Equipo y Permisos",
+        "description": "Aprende a invitar miembros al equipo, asignar roles y gestionar permisos en toda tu organización.",
+        "category": "team-management",
+        "difficulty": "intermediate",
+        "duration": "12:30",
+        "views": "5.7K",
+        "rating": 4.7,
+        "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 4,
+        "title": "Configuración de Integración con Google Calendar",
+        "description": "Guía completa para conectar asyncz con Google Calendar y sincronizar en ambos sentidos sin esfuerzo.",
+        "category": "integrations",
+        "difficulty": "intermediate",
+        "duration": "9:20",
+        "views": "7.1K",
+        "rating": 4.6,
+        "thumbnail": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 5,
+        "title": "Reglas Avanzadas de Programación y Automatización",
+        "description": "Domina escenarios complejos con tiempos de buffer, citas recurrentes y automatizaciones avanzadas.",
+        "category": "scheduling",
+        "difficulty": "advanced",
+        "duration": "15:45",
+        "views": "3.2K",
+        "rating": 4.9,
+        "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 6,
+        "title": "Análisis Detallado del Panel de Analítica",
+        "description": "Comprende tus métricas de reservas, genera reportes y optimiza el rendimiento de tu programación.",
+        "category": "analytics",
+        "difficulty": "intermediate",
+        "duration": "11:18",
+        "views": "4.5K",
+        "rating": 4.5,
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 7,
+        "title": "Mejores Prácticas de Seguridad",
+        "description": "Configura la autenticación en dos pasos, gestiona el acceso de usuarios y garantiza la seguridad de tus datos.",
+        "category": "security",
+        "difficulty": "intermediate",
+        "duration": "7:33",
+        "views": "2.8K",
+        "rating": 4.8,
+        "thumbnail": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 8,
+        "title": "Visión General de la App Móvil",
+        "description": "Prepárate para la aplicación móvil de asyncz con este adelanto de próximas funciones y utilidades.",
+        "category": "mobile",
+        "difficulty": "beginner",
+        "duration": "5:20",
+        "views": "6.8K",
+        "rating": 4.4,
+        "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 9,
+        "title": "Integración del Widget en tu Sitio Web",
+        "description": "Incorpora widgets de reservas de asyncz en tu sitio web para que tus clientes reserven fácilmente.",
+        "category": "integrations",
+        "difficulty": "advanced",
+        "duration": "13:10",
+        "views": "3.9K",
+        "rating": 4.7,
+        "thumbnail": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      }
+    ]
+  },
+  "locationSpotlight": {
+    "tagline": "Equipos locales",
+    "title": "asyncz para equipos en España",
+    "description": "Coordina sucursales de Madrid a Barcelona con reservas localizadas, reglas fiscales y automatizaciones adaptadas a cada provincia.",
+    "ctaLabel": "Habla con nuestro equipo en España",
+    "ctaHref": "/contact",
+    "highlights": [
+      {
+        "icon": "map",
+        "title": "Cumplimiento autonómico",
+        "description": "Gestiona festivos regionales, franjas horarias y tipos de IVA sin duplicar calendarios."
+      },
+      {
+        "icon": "users",
+        "title": "Soporte bilingüe",
+        "description": "Especialistas en español e inglés acompañan a tus recepciones durante el despliegue."
+      }
+    ]
+  },
+  "notFound": {
+    "tagline": "Has encontrado un hueco vacío",
+    "title": "Esta página no está disponible",
+    "subtitle": "El enlace que seguiste ya no existe. Explora los recursos de asyncz para continuar.",
+    "primaryCta": "Volver al inicio",
+    "secondaryCta": "Contactar soporte",
+    "linkDescription": "Descubre más sobre {section}.",
+    "explore": "Explorar"
+  },
+  "featuresPage": {
+    "pageTitle": "Funciones - asyncz | Flujos de programación con IA",
+    "metaDescription": "Descubre las funciones de asyncz: orquestación multisedes, protección contra listas negras, analítica y listas de espera inteligentes.",
+    "keywords": [
+      "funciones asyncz",
+      "agenda inteligente",
+      "automatización de listas de espera",
+      "calendario multisedes",
+      "analítica asyncz"
+    ],
+    "tagline": "Recorrido del producto",
+    "heroTitle": "Orquestación integral para cada cita",
+    "heroSubtitle": "asyncz unifica reservas, enrutamiento, recordatorios y analítica para ofrecer experiencias consistentes en todas tus sedes.",
+    "primaryCta": "Comparar planes",
+    "secondaryCta": "Hablar con ventas",
+    "coreTitle": "Capacidades clave que crecen contigo",
+    "coreDescription": "Desde calendarios inteligentes hasta comunicaciones personalizadas, asyncz simplifica operaciones complejas sin añadir carga administrativa.",
+    "deepDives": [
+      {
+        "title": "Planificación de capacidad multisedes",
+        "description": "Equilibra la demanda con ventanas de disponibilidad, reglas de desplazamiento y límites de personal."
+      },
+      {
+        "title": "Flujos de comunicación automatizados",
+        "description": "Envía confirmaciones, recordatorios y seguimientos por WhatsApp, SMS o email sin trabajo manual."
+      },
+      {
+        "title": "Accesos según rol",
+        "description": "Da a dirección, encargados y recepción las herramientas correctas manteniendo la seguridad."
+      }
+    ],
+    "deepDiveTitle": "Profundiza en los flujos que importan",
+    "deepDiveDescription": "asyncz mapea cada paso del viaje del cliente para que ningún detalle se pierda entre sedes.",
+    "analyticsHighlight": {
+      "title": "Analítica operativa en tiempo real",
+      "description": "Supervisa utilización, impacto de ausencias e ingresos por recurso con paneles diseñados para marcas de servicios.",
+      "metrics": [
+        "Instantáneas de rendimiento por sede y profesional",
+        "Motivos de cancelación con recomendaciones de recuperación",
+        "Atribución de canales y tendencias de conversión"
+      ]
+    },
+    "waitlistHighlight": {
+      "title": "Lista de espera con IA",
+      "description": "asyncz propone al cliente ideal según preferencias, tiempo de desplazamiento e historial de gasto para que cada hueco se aproveche.",
+      "metric": "27 % menos huecos sin cubrir en los pilotos de varias franquicias."
+    },
+    "differentiatorTitle": "Por qué asyncz supera a las agendas genéricas",
+    "differentiatorDescription": "Flujos específicos mantienen alineados a equipos multisedes mientras bloquean el spam y las ausencias repetidas.",
+    "differentiators": [
+      {
+        "title": "Protección avanzada contra listas negras",
+        "description": "Detecta patrones en correo, teléfono y pagos para frenar reincidencias."
+      },
+      {
+        "title": "Analítica integrada por rol",
+        "description": "Cada equipo recibe los indicadores que necesita sin hojas de cálculo."
+      },
+      {
+        "title": "API lista desde el día uno",
+        "description": "Sincroniza disponibilidad con apps propias y marketplaces mediante webhooks seguros."
+      },
+      {
+        "title": "Experiencias localizadas",
+        "description": "Contenido, notificaciones y SEO listos en seis idiomas."
+      }
+    ],
+    "finalCtaTitle": "¿Listo para orquestar todas tus citas con asyncz?",
+    "finalCtaDescription": "Diseñamos tu plan de sucursales, automatizaciones y analítica en menos de una semana.",
+    "finalPrimaryCta": "Reserva una sesión estratégica",
+    "finalSecondaryCta": "Leer casos de clientes"
+  },
+  "contactPage": {
+    "pageTitle": "Contacto asyncz | Solicita una sesión estratégica",
+    "metaDescription": "Contacta con asyncz para demos, precios o soporte. Llama al +1 (415) 555-0134, escribe a info@asyncz.com o visita nuestra oficina de San Francisco.",
+    "keywords": [
+      "contacto asyncz",
+      "soporte asyncz",
+      "teléfono asyncz",
+      "correo asyncz"
+    ],
+    "tagline": "Construyamos tu ventaja",
+    "heroTitle": "Conecta con el equipo de asyncz",
+    "heroSubtitle": "Comparte tus objetivos y prepararemos un plan de despliegue para tus sucursales y equipos.",
+    "formTitle": "Envíanos un mensaje",
+    "formSubtitle": "Te responderemos en menos de un día laborable.",
+    "form": {
+      "name": "Nombre completo",
+      "namePlaceholder": "Laura Gómez",
+      "email": "Correo corporativo",
+      "emailPlaceholder": "laura@tuempresa.com",
+      "company": "Empresa",
+      "companyPlaceholder": "Nombre de la organización",
+      "phone": "Teléfono (opcional)",
+      "phonePlaceholder": "+34 600 123 123",
+      "topic": "Tema",
+      "topicPlaceholder": "Selecciona un tema",
+      "topics": [
+        "Demostración del producto",
+        "Pregunta sobre precios",
+        "Soporte de implementación",
+        "Oportunidad de alianza",
+        "Prensa"
+      ],
+      "message": "¿Cómo podemos ayudarte?",
+      "messagePlaceholder": "Describe contexto, plazos y las sedes que quieres activar...",
+      "securityQuestion": "¿Cuánto es {a} + {b}? (control anti-spam)",
+      "securityPlaceholder": "Introduce la respuesta",
+      "submit": "Enviar mensaje",
+      "success": "¡Gracias! Te contactaremos en breve.",
+      "error": "Ha ocurrido un error. Intenta de nuevo."
+    },
+    "infoTitle": "Visita nuestra oficina",
+    "hoursTitle": "Horario de soporte (hora del Pacífico)",
+    "supportTitle": "Soporte y onboarding",
+    "supportDescription": "Todos los planes de asyncz incluyen acompañamiento, auditorías de automatización y sesiones de coaching.",
+    "supportItems": {
+      "enterprise": "Especialistas en despliegues multisedes",
+      "email": "Buzón dedicado con respuesta inferior a 24h",
+      "training": "Formaciones en directo y certificaciones"
+    },
+    "days": {
+      "monday": "Lunes",
+      "tuesday": "Martes",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "friday": "Viernes",
+      "saturday": "Sábado",
+      "sunday": "Domingo"
+    }
+  },
+  "blog": {
+    "pageTitle": "Blog asyncz | Ideas de programación inteligente",
+    "metaDescription": "Lee artículos sobre programación con IA, automatización y analítica para operadores multisedes.",
+    "keywords": [
+      "blog asyncz",
+      "programación inteligente",
+      "operaciones multisedes",
+      "automatización asyncz"
+    ],
+    "tagline": "Ideas para equipos de servicios",
+    "heroTitle": "Inteligencia de programación para cada sucursal",
+    "heroSubtitle": "Manual práctico para líderes de operaciones que quieren experiencias coherentes y predecibles.",
+    "categories": ["Producto", "Operaciones", "Crecimiento"],
+    "allLabel": "Todos los temas",
+    "readMore": "Leer artículo",
+    "emptyState": "No hay publicaciones con este filtro todavía.",
+    "articleNotFoundTitle": "Artículo no encontrado",
+    "articleNotFoundDescription": "Puede que la publicación haya sido retirada. Consulta las últimas novedades.",
+    "backToBlog": "Volver al blog",
+    "posts": [
+      {
+        "slug": "ai-scheduling-playbook",
+        "title": "Guía de programación con IA para equipos multisedes",
+        "excerpt": "Métodos para alinear operaciones, automatizaciones y analítica en todas tus ubicaciones.",
+        "content": [
+          "Cuando creces, la complejidad operativa se multiplica. asyncz centraliza las reglas para que cada sede trabaje con el mismo playbook.",
+          "Empieza definiendo servicios, reglas de disponibilidad y excepciones. Con asyncz los aplicas una vez y se reutilizan en todas las sedes.",
+          "Añade analítica para detectar utilización, demanda y cuellos de botella antes de que afecten al cliente."
+        ],
+        "category": "Producto",
+        "author": "Equipo editorial de Asyncz",
+        "published": "2025-09-10",
+        "readingTime": "Lectura de 6 minutos",
+        "tags": ["programación ia", "manual", "multisede"]
+      },
+      {
+        "slug": "asyncz-automation-blueprint",
+        "title": "Automatización para reducir ausencias con asyncz",
+        "excerpt": "Plantillas que mantienen la agenda llena y clientes responsables.",
+        "content": [
+          "Combina ventanas de confirmación, reglas de pago y recordatorios para reducir ausencias sin más carga administrativa.",
+          "asyncz integra WhatsApp, SMS y email para que cada cliente reciba avisos en su canal preferido.",
+          "Crea rutas de escalado para citas críticas y activa invitaciones de lista de espera cuando se libere un hueco."
+        ],
+        "category": "Operaciones",
+        "author": "Customer Success de Asyncz",
+        "published": "2025-08-22",
+        "readingTime": "Lectura de 5 minutos",
+        "tags": ["automatización", "ausencias", "experiencia cliente"]
+      },
+      {
+        "slug": "multi-branch-analytics-guide",
+        "title": "Analítica para operadores multisedes",
+        "excerpt": "Paneles e indicadores que los clientes de asyncz usan para crecer.",
+        "content": [
+          "Más allá de los conteos básicos, asyncz muestra tendencias de conversión, retención y rebooking que anticipan ingresos.",
+          "Compara cada sede en utilización, eficiencia de personal y rendimiento de canales para priorizar formación.",
+          "Usa estas métricas para planificar marketing y contratación ganando a los clientes correctos en el momento adecuado."
+        ],
+        "category": "Crecimiento",
+        "author": "Equipo de Datos de Asyncz",
+        "published": "2025-08-05",
+        "readingTime": "Lectura de 7 minutos",
+        "tags": ["analítica", "crecimiento", "paneles"]
+      }
+    ]
+  }
+}

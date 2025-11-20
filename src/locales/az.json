@@ -1,0 +1,2107 @@
+{
+  "common": {
+    "asyncz": "asyncz",
+    "loading": "Yüklənir...",
+    "error": "Xəta",
+    "success": "Uğurla tamamlandı",
+    "cancel": "Ləğv et",
+    "save": "Yadda saxla",
+    "delete": "Sil",
+    "edit": "Redaktə et",
+    "close": "Bağla",
+    "back": "Geri",
+    "next": "İrəli",
+    "previous": "Əvvəlki",
+    "submit": "Təsdiqlə",
+    "search": "Axtar",
+    "filter": "Filtr",
+    "clear": "Təmizlə",
+    "all": "Hamısı",
+    "yes": "Bəli",
+    "no": "Xeyr"
+  },
+  "navigation": {
+    "home": "Ana səhifə",
+    "pricing": "Qiymətlər",
+    "features": "Xüsusiyyətlər",
+    "aboutUs": "Haqqımızda",
+    "howItWorks": "Necə işləyir",
+    "faq": "Tez-tez verilən suallar",
+    "contact": "Əlaqə",
+    "language": "Dil",
+    "signIn": "İndi başla",
+    "blog": "Bloq"
+  },
+  "hero": {
+    "title": "Ömürlük Pro Girişi Əldə Et",
+    "titleHighlight": "Hələ Yeniykən!",
+    "description": "AI güclü asyncz – növbəti nəsil planlaşdırma platformasıdır. İlk istifadəçi olaraq, Pro paketimizi ömürlük və tamamilə pulsuz əldə edə bilərsiniz. Komandanız və biznesiniz üçün məhsuldarlığı məhdudiyyətsiz artırın.",
+    "startFreeTrial": "Ömürlük Pro Paketini Əldə Et",
+    "exploreFeatures": "Xüsusiyyətlərə Bax",
+    "learnAboutUs": "Haqqımızda Öyrən →"
+  },
+  "trustedBy": {
+    "title": "Etibar Edirlər",
+    "count": " ",
+    "subtitle": "Gələcəyə Baxan Komandalar"
+  },
+  "pricing": {
+    "title": "Sizə Ən Uygun Planı Seçin",
+    "description": "Pulsuz başlayın və böyüdükcə genişlənin. Bütün planlara əsas planlaşdırma xüsusiyyətləri daxildir.",
+    "monthly": "Aylıq",
+    "yearly": "İllik",
+    "savePercent": "(~17% qənaət et)",
+    "mostPopular": "Ən Məşhur",
+    "getStarted": "Başla",
+    "startFreeTrial": "Pulsuz Sınaqdan Başla",
+    "contactSales": "Satışla Əlaqə",
+    "bookDemo": "Demo Görüşü Qur",
+    "viewFullPricing": "Bütün Qiymətlərə Bax",
+    "needHelpChoosing": "Plan seçməkdə çətinlik çəkirsiniz?",
+    "demoDescription": "asyncz platformasının imkanlarını canlı görmək və biznesinizə uyğun plan seçmək üçün fərdi demo sifariş edin.",
+    "studentPlan": "Tələbə Planı",
+    "studentDescription": "Pro funksiyalar tamamilə pulsuz! asyncz tələbələrə peşəkar planlaşdırma alətlərinə ödənişsiz çıxış imkanı verir.",
+    "contactToGetStarted": "Başlamaq üçün bizimlə əlaqə saxlayın",
+    "plans": {
+      "free": {
+        "name": "Pulsuz",
+        "description": "Fərdi istifadəçilər üçün"
+      },
+      "starter": {
+        "name": "Başlanğıc",
+        "description": "Kiçik komandalar üçün"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Böyüyən bizneslər üçün"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Böyük təşkilatlar üçün"
+      }
+    }
+  },
+  "features": {
+    "title": "Niyə",
+    "titleHighlight": "asyncz?",
+    "subtitle": "asyncz-i müasir komandalar üçün ideal planlaşdırma platformasına çevirən güclü xüsusiyyətləri kəşf edin",
+    "exploreAllFeatures": "Bütün Xüsusiyyətlərə Bax",
+    "smartCalendar": {
+      "title": "Ağıllı Təqvim İdarəetməsi",
+      "description": "Gün, həftə və ay görünüşlü inkişaf etmiş təqvim. Bir neçə ekspert və filialı problemsiz idarə edin."
+    },
+    "multiBranch": {
+      "title": "Çox Filial İdarəetməsi",
+      "description": "Filiallarınızı, ekspertləri və cədvəlləri mərkəzləşdirilmiş şəkildə asanlıqla idarə edin."
+    },
+    "analytics": {
+      "title": "Ətraflı Analitika",
+      "description": "Biznesinizi optimallaşdırmaq üçün məlumat əsaslı panel, hesabat və analitika."
+    },
+    "blacklistProtection": {
+      "title": "Ağıllı Qara Siyahı Qoruması",
+      "description": "Problematik müştəriləri email və ya telefon əsasında avtomatik bloklayın, xidmət keyfiyyətini qoruyun."
+    },
+    "customBranding": {
+      "title": "Fərdi Brendləşmə",
+      "description": "Email bildirişlərini loqo və brend rənglərinizlə fərdiləşdirin, peşəkar təcrübə yaradın."
+    },
+    "domainIntegration": {
+      "title": "Domen İnteqrasiyası",
+      "description": "Rezervasiyanı birbaşa öz domeninizə inteqrasiya edin, brend davamlılığını qoruyun."
+    }
+  },
+  "footer": {
+    "logoAlt": "asyncz Loqosu",
+    "companyDescription": "Biznesləri məhsuldarlığı maksimuma çatdıran və əməliyyatları asanlaşdıran ağıllı planlaşdırma həlləri ilə gücləndiririk.",
+    "sections": [
+      {
+        "title": "Məhsullar",
+        "links": [
+          {
+            "name": "Necə İşləyir",
+            "href": "/how-it-works"
+          },
+          {
+            "name": "Xüsusiyyətlər",
+            "action": "scrollToFeatures"
+          },
+          {
+            "name": "Qiymətlər",
+            "href": "/pricing"
+          },
+          {
+            "name": "Pulsuz Yoxla",
+            "href": "https://app.asyncz.com/"
+          },
+          {
+            "name": "API Sənədləşməsi",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Şirkət",
+        "links": [
+          {
+            "name": "Haqqımızda",
+            "href": "/about-us"
+          },
+          {
+            "name": "Rəylər",
+            "action": "scrollToTestimonials"
+          },
+          {
+            "name": "Tez-tez Soruşulanlar",
+            "href": "/faq"
+          },
+          {
+            "name": "Əlaqə",
+            "action": "scrollToContact"
+          },
+          {
+            "name": "Karyera",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Dəstək",
+        "links": [
+          {
+            "name": "Yardım Mərkəzi",
+            "href": "/help-center"
+          },
+          {
+            "name": "Tez-tez Soruşulanlar",
+            "href": "/faq"
+          },
+          {
+            "name": "Gizlilik Siyasəti",
+            "href": "/privacy-policy"
+          },
+          {
+            "name": "Xidmət Şərtləri",
+            "href": "/terms-conditions"
+          },
+          {
+            "name": "Çərəz Siyasəti",
+            "href": "/privacy-policy"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "Facebook",
+        "href": "https://www.facebook.com/asynczcom",
+        "label": "Facebook"
+      },
+      {
+        "icon": "Instagram",
+        "href": "https://www.instagram.com/asynczcom",
+        "label": "X"
+      },
+      {
+        "icon": "Linkedin",
+        "href": "https://www.linkedin.com/company/asynczcom/",
+        "label": "LinkedIn"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 asyncz tərəfindən",
+      "deviofy": {
+        "name": "Deviofy",
+        "href": "https://deviofy.com"
+      },
+      "allRightsReserved": ". Bütün hüquqlar qorunur."
+    },
+    "bottomLinks": {
+      "privacyPolicy": {
+        "name": "Gizlilik Siyasəti",
+        "href": "/privacy-policy"
+      },
+      "termsOfService": {
+        "name": "Xidmət Şərtləri",
+        "href": "/terms-conditions"
+      },
+      "cookiePolicy": {
+        "name": "Çərəz Siyasəti",
+        "href": "/cookie-policy"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": "Əlaqə",
+    "sectionDescription": "Suallarınız var? asyncz ilə başlamağınız üçün buradayıq",
+    "infoTitle": "Əlaqə Məlumatı",
+    "phoneTitle": "Telefon",
+    "emailTitle": "Email",
+    "addressTitle": "Ünvan",
+    "fields": {
+      "name": "Ad",
+      "namePlaceholder": "Adınız",
+      "email": "Email",
+      "emailPlaceholder": "email@example.com",
+      "subject": "Mövzu",
+      "subjectPlaceholder": "Necə kömək edə bilərik?",
+      "message": "Mesaj",
+      "messagePlaceholder": "Ehtiyaclarınız barədə ətraflı yazın..."
+    },
+    "sendMessage": "Mesaj Göndər",
+    "sending": "Göndərilir...",
+    "validationError": "Bütün xanaları doldurun",
+    "thankYou": "Mesajınız üçün təşəkkür edirik! Tezliklə sizinlə əlaqə saxlayacağıq.",
+    "error": "Bağışlayın, mesaj göndərilərkən xəta baş verdi. Zəhmət olmasa, yenidən cəhd edin.",
+    "goToContactPage": "Əlaqə səhifəsinə baxın"
+  },
+  "capabilities": {
+    "sectionTitlePart1": "Bir Platforma,",
+    "sectionTitlePart2": "Bir Çox İmkan",
+    "sectionDescription": "asyncz-in planlaşdırma üçün tam alət dəstini kəşf edin",
+    "smartCalendar": {
+      "title": "Ağıllı Təqvim İdarəetməsi",
+      "description": "Ağıllı planlaşdırma, sürüklə-burax görüşlər və sizin iş prosesinizə uyğun multi-baxış rejimləri ilə yeni səviyyə təqvim funksionallığı.",
+      "features": [
+        "Gün, Həftə və Ay görünüşləri",
+        "Sürüklə-burax görüş idarəetməsi",
+        "Bir neçə ekspertin cədvəl koordinasiyası"
+      ]
+    },
+    "analytics": {
+      "title": "Ətraflı Analitika və İnsaytlar",
+      "description": "Real vaxt analitikası ilə biznes datalarınızı dəyərə çevirin – nümunələri görün, performansı optimallaşdırın, inkişafı sürətləndirin.",
+      "features": [
+        "Real vaxt performans metrikləri",
+        "Müştəri fəaliyyəti analitikası",
+        "Gəlir optimallaşdırma insaytları"
+      ]
+    },
+    "collaboration": {
+      "title": "Effektiv Komanda Əməkdaşlığı",
+      "description": "Komandanızı birləşdirin – güclü əməkdaşlıq alətləri, cədvəl sinxronizasiyası və rol əsaslı idarəetmə.",
+      "features": [
+        "Rol əsaslı giriş nəzarəti",
+        "Çox filial idarəetməsi",
+        "Real vaxt bildirişləri"
+      ]
+    }
+  },
+  "testimonials": {
+    "sectionTitlePart1": "Müştərilərimiz",
+    "sectionTitlePart2": "Nə Deyir?",
+    "sectionSubtitle": "Planlaşdırmanı dəyişən minlərlə biznesə qoşulun",
+    "list": [
+      {
+        "name": "Elena Gilbert",
+        "position": "Layihə Koordinatoru",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b332c38c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "asyncz komandamızın iş axınını köklü şəkildə dəyişdi – görüşlərin və dataların analizi məhsuldarlığı xeyli artırdı."
+      },
+      {
+        "name": "Michael Smith",
+        "position": "Əməliyyatlar Meneceri",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "Analitika paneli biznesimizi dərindən görməyə imkan verir. No-show halları 40% azaldı və effektivliyimiz əhəmiyyətli dərəcədə artdı."
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "CEO, HealthCare Plus",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "Çox filialı idarə etmək asyncz-dən əvvəl əsl kabus idi. İndi isə hər şey mərkəzləşdirilib, komanda koordinasiyası daha asandır."
+      }
+    ],
+    "ctaTitle": "Planlaşdırmanı Dəyişməyə Hazırsınız?",
+    "ctaDescription": "Artıq 1,000+ biznes asyncz istifadə edir",
+    "ctaButton": "28 Günlük Pulsuz Sınağa Başla"
+  },
+  "about": {
+    "pageTitle": "Haqqımızda - asyncz | Missiyamız və Komandamız",
+    "metaDescription": "asyncz-in planlaşdırmanı inqilab edən missiyası və dünyaya xidmət edən Deviofy komandasını tanıyın.",
+    "heroTitle": "Haqqımızda",
+    "heroDescription": "Biz bizneslərin zaman və görüş idarəçiliyini yenidən qururuq. asyncz by Deviofy, qabaqcıl texnologiyanı intuitiv dizaynla birləşdirərək mükəmməl planlaşdırma platforması yaradır.",
+    "heroButtonFreeTrial": "Pulsuz Sınağa Başla",
+    "heroButtonContactSales": "Satışla Əlaqə",
+    "stats": [
+      {
+        "value": "50+",
+        "label": "Aktiv istifadəçi"
+      },
+      {
+        "value": "125+",
+        "label": "Planlaşdırılmış görüş"
+      },
+      {
+        "value": "3+",
+        "label": "Xidmət olunan ölkə"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime"
+      }
+    ],
+    "ourStoryTitle": "Bizim Hekayəmiz",
+    "ourStory1": "2022-ci ildə Deviofy-nin təsisçiləri bütün sahələrdə eyni problem gördülər: bizneslər əlaqəsiz planlaşdırma alətləri ilə əziyyət çəkirdi. Səhiyyə müəssisələri fərqli sistemləri idarə edə bilmirdi, konsultasiyalar qeyri-funksional interfeyslər ucbatından müştəri itirirdi, tədbir təşkilatçıları isə saatlarla əl ilə cədvəl tənzimləyirdi.",
+    "ourStory2": "Biz hər ehtiyacı qarşılayan vahid platforma təsəvvür etdik – istər sadə görüş, istərsə də səsverməli kompleks tədbir olsun. asyncz bu vizyondan doğdu: müasir texnologiya və sadəliyin birləşməsi.",
+    "ourStory3": "Bu gün asyncz 3+ ölkədə 50-dən çox istifadəçiyə xidmət göstərir və sübut edir ki, istifadəçi təcrübəsinə diqqət həmişə fərq yaradır.",
+    "industryRecognition": "Sənaye Tərəfindən Tanınma",
+    "industryRecognitionDesc": "TechCrunch və Product Hunt-da qeyd olunub",
+    "customerSatisfaction": "Müştəri Məmnuniyyəti",
+    "customerSatisfactionDesc": "2,000+ rəydə 4.8/5 orta bal",
+    "enterpriseTrust": "İri Bizneslər Etibarı",
+    "enterpriseTrustDesc": "",
+    "missionVisionTitle": "Missiya və Vizion",
+    "missionVisionSubtitle": "Biz hər görüşdə gələcəyin vaxt idarəçiliyini qururuq.",
+    "missionTitle": "Bizim Missiyamız",
+    "missionDesc": "Planlaşdırma problemlərini aradan qaldırmaq və bizneslərin əsas işlərinə fokuslanmasına kömək etmək. Zaman ən qiymətli resursdur və biz hər kəs üçün onu daha səmərəli etmək istəyirik.",
+    "visionTitle": "Bizim Vizionumuz",
+    "visionDesc": "Planlaşdırmanın hər kəs üçün asan, ağıllı və əlçatan olduğu bir dünya. asyncz-i görüş idarəçiliyinin qlobal standartına çevirmək və bütün sahələrdə fasiləsiz koordinasiyanı təmin etmək istəyirik.",
+    "valuesTitle": "Dəyərlərimiz",
+    "valuesSubtitle": "Bu prinsiplər Deviofy-nin bütün işinə rəhbərlik edir və asyncz-in inkişafını müəyyənləşdirir.",
+    "values": [
+      {
+        "title": "İnnovasiya Birinci Yerdə",
+        "description": "Biz planlaşdırma texnologiyasında daim yenilik edirik və gələcəyə uyğun həllər təklif edirik."
+      },
+      {
+        "title": "Müştəri Uğuru",
+        "description": "Sizin uğurunuz bizim uğurumuzdur. Biz hər zaman dəstəyə və platformanın böyüməsinə önəm veririk."
+      },
+      {
+        "title": "Etibarlılıq",
+        "description": "asyncz korporativ səviyyədə infrastruktura əsaslanır və gündəlik iş üçün tələb olunan təhlükəsizlik və davamlılığı təmin edir."
+      },
+      {
+        "title": "Qlobal Əlçatanlıq",
+        "description": "Biz inanırıq ki, planlaşdırma hər kəs üçün asan olmalıdır. Platformamız 150+ ölkədə bizneslərə xidmət göstərir."
+      }
+    ],
+    "journeyTitle": "Yolumuz",
+    "journeySubtitle": "Startup-dan qlobal platformaya – asyncz-in hekayəsi.",
+    "milestones": [
+      {
+        "year": "2022",
+        "title": "Təsis",
+        "description": "Deviofy biznes proseslərini ağıllı avtomatlaşdırma ilə sadələşdirmək üçün quruldu."
+      },
+      {
+        "year": "2023",
+        "title": "asyncz İstifadəyə Verildi",
+        "description": "İlk mərhələdə əsas görüş idarəçiliyi ilə asyncz istifadəyə verildi."
+      },
+      {
+        "year": "2023",
+        "title": "Sürətli İnkişaf",
+        "description": "10 istifadəçiyə çatdı, komanda idarəçiliyi və çox filial dəstəyi əlavə olundu."
+      },
+      {
+        "year": "2024",
+        "title": "Korporativ Səviyyə",
+        "description": "Qrup planlaşdırması, analitika və yüksək səviyyəli təhlükəsizlik funksiyaları əlavə olundu."
+      },
+      {
+        "year": "2024",
+        "title": "Qlobal Genişlənmə",
+        "description": "İndi 3+ ölkədə 50+ istifadəçi və 24/7 çoxdilli dəstək xidməti."
+      }
+    ],
+    "companyInfoTitle": "asyncz by Deviofy",
+    "companyInfoDesc": "asyncz qürurla Dubay, IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, BƏƏ-də yerləşən Deviofy şirkəti tərəfindən hazırlanır və idarə olunur. Biznes avtomatlaşdırılması və planlaşdırma həlləri üzrə ixtisaslaşmışıq.",
+    "companyDetailsTitle": "Şirkət Məlumatları",
+    "company": "Deviofy",
+    "product": "asyncz Planlaşdırma Platforması",
+    "founded": "2022",
+    "headquarters": "IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubay, Birləşmiş Ərəb Əmirlikləri",
+    "globalReach": "150+ ölkə",
+    "contact": "info@asyncz.com",
+    "officeAddressTitle": "Ofis Ünvanı",
+    "officeAddress1": "Deviofy Texnoloji Həllər",
+    "officeAddress2": "IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubay, BƏƏ",
+    "officeEmail": "📧 info@asyncz.com",
+    "officePhone": "📞 +49 69 1234 5678",
+    "locationTitle": "Məkanımız",
+    "locationDesc": "Dubay Digital Park, IFZA Business Park, Building A1, Dubai Silicon Oasis, Dubay, BƏƏ-də yerləşir",
+    "ctaTitle": "Hekayəmizə Qoşulmağa Hazırsınız?",
+    "ctaDesc": "Zaman idarəçiliyində inqilab edən platformanı yaşayın.",
+    "ctaButtonFreeTrial": "Pulsuz Sınağa Başla",
+    "ctaButtonScheduleDemo": "Demo Görüşü Qur"
+  },
+  "cookiePolicy": {
+    "pageTitle": "Cookie Siyasəti - asyncz | Cookie-lərdən Necə İstifadə Edirik",
+    "metaDescription": "asyncz-in Cookie Siyasəti ilə tanış olun və platformamızda təcrübənizi yaxşılaşdırmaq üçün cookie və oxşar texnologiyalardan necə istifadə etdiyimizi öyrənin.",
+    "title": "Cookie Siyasəti",
+    "lastUpdated": "Son yenilənmə: "
+  },
+  "faq": {
+    "pageTitle": "FAQ - asyncz | Tez-tez verilən suallar",
+    "metaDescription": "asyncz planlaşdırma platforması haqqında ən çox verilən suallara cavab tapın. Xüsusiyyətlər, qiymətlər, inteqrasiyalar və başlayış prosesi barədə məlumat alın.",
+    "heroTitle": "Tez-tez Verilən",
+    "heroTitleHighlight": "Suallar",
+    "heroDescription": "asyncz-in xüsusiyyətləri, qiymətləri və başlama qaydası haqqında tez-tez verilən suallara cavab tapın",
+    "categories": [
+      {
+        "category": "Başlanğıc",
+        "questions": [
+          {
+            "question": "asyncz nədir və necə işləyir?",
+            "answer": "asyncz bütün ölçülü bizneslər üçün görüş idarəçiliyini asanlaşdıran kompleks planlaşdırma platformasıdır. O, təqvim idarəçiliyi, filial koordinasiyası, ekspert planlaşdırılması və analitikanı birləşdirir. asyncz, görüşlərin planlaşdırılması, bir neçə məkanın idarə olunması, komanda üzvlərinin koordinasiyası və biznes performansının təhlili üçün intuitiv alətlər təqdim edir."
+          },
+          {
+            "question": "asyncz ilə necə başlamaq olar?",
+            "answer": "Başlamaq çox asandır! Ana səhifəmizdəki 'Pulsuz sınaqdan keç' düyməsini klikləyin və 28 günlük pulsuz sınaq əldə edin. Sınaq dövründə bütün Premium xüsusiyyətləri yoxlaya bilərsiniz. Qeydiyyatdan sonra, biznes məlumatlarınızı əlavə etmək, filiallar yaratmaq, komanda üzvləri əlavə etmək və xidmətlərinizi konfiqurasiya etmək üçün addım-addım yönləndiriləcəksiniz."
+          },
+          {
+            "question": "asyncz istifadə etmək üçün texniki bilik lazımdır?",
+            "answer": "Xeyr, texniki bilik tələb olunmur! asyncz-in interfeysi tam istifadəçi yönümlüdür və istənilən səviyyədə istifadəçi üçün rahatdır. Həmçinin, platformadan maksimum fayda almaq üçün geniş dəstək və sənədləşmə təqdim edirik."
+          },
+          {
+            "question": "Mövcud görüşlərimi asyncz-ə köçürə bilərəm?",
+            "answer": "Bəli, asyncz-ə mövcud görüş məlumatlarınızı köçürməyə kömək edən alətlər və dəstək təqdim edirik. Müştəri uğuru komandamız köçürmə prosesində sizə dəstək olacaq və keçidin problemsiz aparılmasını təmin edəcək."
+          }
+        ]
+      },
+      {
+        "category": "Xüsusiyyətlər və Funksionallıq",
+        "questions": [
+          {
+            "question": "Hansı təqvim görünüşləri mövcuddur?",
+            "answer": "asyncz üç əsas təqvim görünüşü təqdim edir: Gündəlik ətraflı planlaşdırma üçün Gün görünüşü, həftəlik koordinasiya üçün Həftə görünüşü və uzunmüddətli planlama üçün Ay görünüşü. Bütün görünüşlərdə görüşləri asanlıqla sürüşdürüb dəyişmək mümkündür."
+          },
+          {
+            "question": "Filial idarəçiliyi necə işləyir?",
+            "answer": "Filial idarəçiliyi bir platformadan bir neçə biznes məkanını idarə etməyə imkan verir. Ekspertləri konkret filiallara təyin edə, filial spesifik cədvəlləri və giriş icazələrini idarə edə bilərsiniz. Filial menecerləri yalnız öz filiallarını, şirkət menecerləri isə bütün filialları idarə edə bilir."
+          },
+          {
+            "question": "Qara siyahı qoruması nədir?",
+            "answer": "Qara siyahı qoruması, istənməyən müştəriləri email və ya telefon nömrəsinə əsaslanaraq avtomatik bloklayır. Bu, problemli istifadəçilərin görüş yaratmasının qarşısını alır və xidmət keyfiyyətini qoruyur. Bu xüsusiyyət yalnız Pro və Premium planlarında mövcuddur."
+          },
+          {
+            "question": "Fərdi brendləşmə necə işləyir?",
+            "answer": "Fərdi brendləşmə, şirkət loqonuzu email bildirişlərinə, təsdiqlərə və xatırlatmalara əlavə etməyə imkan verir. Bu, müştəriləriniz üçün peşəkar və sabit marka təəssüratı yaradır. Premium planlarda daha inkişaf etmiş brendləşmə və fərdi domen inteqrasiyası mövcuddur."
+          },
+          {
+            "question": "Hansı analitika və hesabatlar mövcuddur?",
+            "answer": "asyncz, görüş trendləri, ekspert istifadəsi, gəlir izlənməsi, müştəri aktivliyi və gəlməyən görüşlərin statistikası kimi geniş analitika təqdim edir. Premium planlarda isə biznes üçün daha dərin analitikalar və detallı hesabatlar mövcuddur."
+          }
+        ]
+      },
+      {
+        "category": "Qiymət və Planlar",
+        "questions": [
+          {
+            "question": "Pulsuz planda nələr daxildir?",
+            "answer": "Pulsuz plan 3 ekspertdən ibarət əsas təqvim idarəçiliyi, 2 prosedur, 1 filial, əsas analitika, chatbot dəstəyi və ayda 5 Collabriq scheduler tədbiri ilə başlayır. Rəqəmsal planlaşdırmaya başlamaq istəyən fərdi və solo sahibkarlar üçün idealdır."
+          },
+          {
+            "question": "Aylıq və illik ödəniş arasında fərq nədir?",
+            "answer": "İllik ödəniş aylıqdan təxminən 17% daha sərfəlidir. Məsələn, Pro plan aylıq 11.99 avrodursa, illik ödənişdə cəmi 911.99 avro (ayda 9.95 avro) olur. Bütün illik planlarda eyni xüsusiyyətlər və dəstək təmin edilir."
+          },
+          {
+            "question": "28 günlük pulsuz sınaq necə işləyir?",
+            "answer": "Yeni istifadəçilər Premium planın bütün xüsusiyyətlərinə 28 gün ərzində tam pulsuz çıxış əldə edir. Sınağa başlamaq üçün kart məlumatı tələb olunmur. Sınaq bitdikdən sonra hesabınız avtomatik olaraq pulsuz plana keçir və istəsəniz ödənişli plana yüksələ bilərsiniz."
+          },
+          {
+            "question": "Planımı istənilən vaxt dəyişə bilərəm?",
+            "answer": "Bəli, istənilən vaxt planınızı yüksəldə və ya aşağı sala bilərsiniz. Yüksəltmələr dərhal aktiv olur, aşağı salmalar isə cari ödəniş dövrü bitdikdən sonra tətbiq edilir. Yüksəltmədə ödənişlər proqressiv hesablanır, aşağı salmada isə kredit verilir."
+          },
+          {
+            "question": "Hansı ödəniş üsulları qəbul olunur?",
+            "answer": "Bütün əsas kartlar (Visa, MasterCard, American Express), PayPal və illik planlar üçün bank köçürməsi qəbul olunur. Bütün ödənişlər təhlükəsiz və şifrələnmiş şəkildə həyata keçirilir."
+          },
+          {
+            "question": "Tələbələr üçün endirim varmı?",
+            "answer": "Bəli! Təsdiqlənmiş tələbələrə Pro plan tamamilə pulsuz təqdim edilir. Tələbə planı üçün dəstək komandamızla əlaqə saxlayıb, tələbə statusunuzu təsdiqləməyiniz kifayətdir."
+          }
+        ]
+      },
+      {
+        "category": "Texniki və İnteqrasiya",
+        "questions": [
+          {
+            "question": "asyncz mobil cihazlarda işləyirmi?",
+            "answer": "Bəli, asyncz tam adaptivdir və bütün cihazlarda — smartfon, planşet və kompüterdə problemsiz işləyir. Görüşləri idarə etmək, təqvimi izləmək və bütün funksiyalardan internet bağlantısı olan istənilən cihazda istifadə edə bilərsiniz."
+          },
+          {
+            "question": "asyncz-i mövcud vebsaytıma inteqrasiya edə bilərəm?",
+            "answer": "Bəli, Pro və Premium planlarında mövcud vebsaytınıza yerləşdirilə bilən görüş widget-ları təqdim olunur. Premium planlarda ayrıca fərdi domen inteqrasiyası mümkündür."
+          },
+          {
+            "question": "Hansı inteqrasiyalar mövcuddur?",
+            "answer": "asyncz məşhur təqvim tətbiqləri, email sistemləri və biznes alətləri ilə inteqrasiya olur. Enterprise planlarda API çıxışı, single sign-on (SSO) və inkişaf etmiş üçüncü tərəf bağlantıları mövcuddur."
+          },
+          {
+            "question": "Məlumatlarım təhlükəsiz və ehtiyatda saxlanılır?",
+            "answer": "Əlbəttə. asyncz yüksək səviyyəli təhlükəsizlik tədbirləri (SSL şifrələmə, müntəzəm audit, avtomatlaşdırılmış backup) tətbiq edir. Bütün məlumatlar 99.9% işlək olan təhlükəsiz serverlərdə saxlanılır."
+          },
+          {
+            "question": "Məlumatlarımı ixrac edə bilərəm?",
+            "answer": "Bəli, görüş, müştəri məlumatları və hesabatları istənilən vaxt ixrac edə bilərsiniz. Bir neçə format — CSV və PDF dəstəklənir ki, biznes məlumatlarınız həmişə əlinizdə olsun."
+          }
+        ]
+      },
+      {
+        "category": "İstifadəçi İdarəçiliyi və İcazələr",
+        "questions": [
+          {
+            "question": "Hansı istifadəçi rolları mövcuddur?",
+            "answer": "asyncz dörd rol təqdim edir: Şirkət meneceri (tam giriş), Filial meneceri (filial üzrə giriş), Ekspert (şəxsi cədvəl), Reseptionist (filial təqvimi). Hər rolda özünəməxsus səlahiyyətlər və imkanlar var."
+          },
+          {
+            "question": "Hesabımda neçə istifadəçi əlavə edə bilərəm?",
+            "answer": "İstifadəçi limiti seçdiyiniz plana bağlıdır: Pulsuz planda əsas istifadəçi idarəçiliyi, Başlanğıcda çoxsaylı istifadəçi, Pro-da inkişaf etmiş idarəetmə, Premium-da isə limitsiz istifadəçi və geniş icazə konfiqurasiyası mümkündür."
+          },
+          {
+            "question": "Hər istifadəçinin nə görə və edə biləcəyini idarə edə bilərəm?",
+            "answer": "Bəli, asyncz rol əsaslı giriş nəzarəti verir. Hər bir istifadəçi üçün icazələri fərdiləşdirə bilərsiniz ki, komanda üzvləri yalnız öz səlahiyyətlərinə uyğun məlumat və funksiyalara çıxış əldə etsin."
+          }
+        ]
+      },
+      {
+        "category": "Dəstək və Təlim",
+        "questions": [
+          {
+            "question": "Hansı dəstək variantları mövcuddur?",
+            "answer": "Dəstək planlara görə fərqlənir: Pulsuz və Başlanğıc planlarda chatbot, Pro-da əlavə email dəstəyi, Premium-da isə 24/7 prioritet dəstək, canlı çat və fərdi uğur meneceri var."
+          },
+          {
+            "question": "Yeni istifadəçilər üçün təlim təmin olunur?",
+            "answer": "Bəli, biz video dərslər, sənədləşmə və vebinarlar da daxil olmaqla əhatəli təlim mənbələri təqdim edirik. Premium müştərilər üçün isə fərdi təlim və dəstək mövcuddur."
+          },
+          {
+            "question": "Dəstək sorğularına nə qədər tez cavab verirsiniz?",
+            "answer": "Cavab müddəti plana görə dəyişir: Email dəstəyi adətən 24 saat ərzində cavab verir, Premium prioritet dəstək isə 2-4 saat ərzində. Təcili hallarda Premium istifadəçilər dərhal cavab alır."
+          },
+          {
+            "question": "Bilik bazası və sənədləşmə mövcuddur?",
+            "answer": "Bəli, biz geniş sənədləşmə, video dərslər və 24/7 açıq axtarış bazası təqdim edirik. Bütün yeni xüsusiyyətlər və suallar tez-tez yenilənir."
+          }
+        ]
+      },
+      {
+        "category": "Enterprise və Xüsusi Həllər",
+        "questions": [
+          {
+            "question": "Enterprise planlarında nələr daxildir?",
+            "answer": "Enterprise planlarına white-label tətbiqi, limitsiz filial/ekspert/prosedur, fərdi domen inteqrasiyası, API çıxışı, SSO, fərdi hesab meneceri, xüsusi deployment və yüksək səviyyəli təhlükəsizlik (GDPR, SOC 2) daxildir."
+          },
+          {
+            "question": "On-premise deployment təklif edirsiniz?",
+            "answer": "Bəli, Enterprise müştəriləri üçün tam idarəetmə və təhlükəsizlik məqsədilə on-premise deployment mümkündür. Bu, xüsusi server, təhlükəsizlik ayarları və yerli məlumat saxlama imkanlarını təmin edir."
+          },
+          {
+            "question": "Biznesimiz üçün xüsusi funksiyalar hazırlaya bilərsiniz?",
+            "answer": "Enterprise planlarda xüsusi funksional imkanlar da mövcuddur. Komandamız sizin üçün xüsusi xüsusiyyətlər, inteqrasiyalar və iş axınları hazırlaya bilər. Detalları müzakirə etmək üçün enterprise satış komandamızla əlaqə saxlayın."
+          }
+        ]
+      }
+    ],
+    "stillHaveQuestions": {
+      "title": "Hələ də sualınız var?",
+      "description": "Axtardığınızı tapa bilmədiniz? Dəstək komandamız kömək etməyə hazırdır.",
+      "supportOptions": [
+        {
+          "icon": "MessageCircle",
+          "title": "Canlı Çat",
+          "description": "Dəstək komandamızdan dərhal kömək alın",
+          "contact": "Yalnız Premium müştərilər üçün"
+        },
+        {
+          "icon": "Mail",
+          "title": "Email Dəstəyi",
+          "description": "İstənilən vaxt sualınızı göndərin",
+          "contact": "info@asyncz.com"
+        },
+        {
+          "icon": "Phone",
+          "title": "Telefon Dəstəyi",
+          "description": "Birbaşa komandamızla danışın",
+          "contact": "+1 555 1234567"
+        }
+      ],
+      "contactSupportButton": "Dəstəyə Yaz",
+      "startFreeTrialButton": "Pulsuz Sınağa Başla"
+    }
+  },
+  "helpCenter": {
+    "pageTitle": "Dəstək Mərkəzi - asyncz | Dəstək Sənədləri",
+    "metaDescription": "asyncz üçün dəstək və kömək sənədləri tapın. Platformadan maksimum istifadə üçün bələdçilər, dərslər və resurslara baxın.",
+    "heroTitle": "Dəstək",
+    "heroTitleHighlight": "Mərkəzi",
+    "heroDescription": "asyncz-dən maksimum yararlanmaq üçün cavablar, dərslər və bələdçilər tapın",
+    "searchPlaceholder": "Məqalələr, bələdçilər və dərslər üzrə axtar...",
+    "quickActions": {
+      "title": "Sürətli Fəaliyyətlər",
+      "actions": [
+        {
+          "title": "Dəstəyə Yaz",
+          "description": "Dəstək komandamızdan birbaşa kömək alın",
+          "icon": "MessageCircle",
+          "action": "mailto:info@asyncz.com",
+          "type": "email"
+        },
+        {
+          "title": "Video Dərslər",
+          "description": "Addım-addım video bələdçilərə baxın",
+          "icon": "Video",
+          "action": "/video-tutorials",
+          "type": "link"
+        },
+        {
+          "title": "Mobil Tətbiq",
+          "description": "Mobil tətbiq tezliklə istifadəyə veriləcək",
+          "icon": "Download",
+          "action": "#",
+          "type": "link"
+        },
+        {
+          "title": "Sistem Statusu",
+          "description": "Xidmətin mövcudluğunu və yenilikləri yoxlayın",
+          "icon": "Shield",
+          "action": "#",
+          "type": "link"
+        }
+      ]
+    },
+    "popularArticles": {
+      "title": "Populyar Məqalələr",
+      "readArticle": "Məqaləni oxu"
+    },
+    "browseByCategory": {
+      "title": "Kateqoriyalara görə bax",
+      "categories": [
+        {
+          "id": "all",
+          "name": "Bütün mövzular",
+          "icon": "Book"
+        },
+        {
+          "id": "getting-started",
+          "name": "Başlanğıc",
+          "icon": "Users"
+        },
+        {
+          "id": "account",
+          "name": "Hesab və Ayarlar",
+          "icon": "Settings"
+        },
+        {
+          "id": "billing",
+          "name": "Ödəniş və Planlar",
+          "icon": "CreditCard"
+        },
+        {
+          "id": "security",
+          "name": "Təhlükəsizlik və Məxfilik",
+          "icon": "Shield"
+        },
+        {
+          "id": "integrations",
+          "name": "İnteqrasiyalar",
+          "icon": "ExternalLink"
+        }
+      ],
+      "popularLabel": "Populyar",
+      "noArticlesFound": "Axtarışınıza uyğun məqalə tapılmadı.",
+      "clearFilters": "Filtrləri təmizlə"
+    },
+    "articles": [
+      {
+        "category": "getting-started",
+        "title": "Tez Start Bələdçisi: İlk cədvəlinizi qurun",
+        "description": "Hesabınızı yaradın, komanda üzvləri əlavə edin və ilk görüşünüzü planlaşdırın.",
+        "type": "guide",
+        "readTime": "5 dəqiqəyə oxu",
+        "popular": true
+      },
+      {
+        "category": "getting-started",
+        "title": "Komanda üzvlərinin əlavə edilməsi və idarə olunması",
+        "description": "Ekspertlərin dəvət olunması, rolların verilməsi və icazələrin idarəsi üçün addım-addım bələdçi.",
+        "type": "tutorial",
+        "readTime": "3 dəqiqəyə oxu",
+        "popular": true
+      },
+      {
+        "category": "getting-started",
+        "title": "Biznes məlumatlarının qurulması",
+        "description": "Optimal planlaşdırma üçün biznes detalları, filiallar və xidmətlərin konfiqurasiyası.",
+        "type": "guide",
+        "readTime": "4 dəqiqəyə oxu",
+        "popular": false
+      },
+      {
+        "category": "account",
+        "title": "Profil və seçimlərin idarə olunması",
+        "description": "Hesab ayarlarını, bildirişləri və şəxsi məlumatları fərdiləşdirin.",
+        "type": "guide",
+        "readTime": "3 dəqiqəyə oxu",
+        "popular": false
+      },
+      {
+        "category": "account",
+        "title": "İki faktorlu autentifikasiya qurulması",
+        "description": "Hesabınızı əlavə qoruma üçün iki faktorlu autentifikasiya ilə qoruyun.",
+        "type": "tutorial",
+        "readTime": "2 dəqiqəyə oxu",
+        "popular": true
+      },
+      {
+        "category": "account",
+        "title": "Şifrə və təhlükəsizlik ayarlarının dəyişdirilməsi",
+        "description": "Giriş məlumatlarını yeniləyin və təhlükəsizlik seçimlərini qurun.",
+        "type": "guide",
+        "readTime": "2 dəqiqəyə oxu",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "asyncz qiymət planlarının izahı",
+        "description": "Hər abunə səviyyəsində mövcud olan xüsusiyyətlərin tam izahı.",
+        "type": "guide",
+        "readTime": "6 dəqiqəyə oxu",
+        "popular": true
+      },
+      {
+        "category": "billing",
+        "title": "Planın yüksəldilməsi və ya aşağı salınması",
+        "description": "Abunəni necə dəyişmək və məlumatlara nə baş verəcəyini öyrənin.",
+        "type": "tutorial",
+        "readTime": "3 dəqiqəyə oxu",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "Ödəniş üsulları və ödəniş dövrləri",
+        "description": "Ödəniş məlumatlarının idarə olunması, fakturalar və ödəniş qrafikləri.",
+        "type": "guide",
+        "readTime": "4 dəqiqəyə oxu",
+        "popular": false
+      },
+      {
+        "category": "billing",
+        "title": "Pulsuz sınaq və tələbə endirimləri",
+        "description": "Sınaq müddətləri, tələbə planları və xüsusi təkliflər haqqında məlumat.",
+        "type": "guide",
+        "readTime": "3 dəqiqəyə oxu",
+        "popular": true
+      },
+      {
+        "category": "security",
+        "title": "Məlumatların məxfiliyi və GDPR uyğunluğu",
+        "description": "asyncz məlumatlarınızı necə qoruyur və məxfilik qaydalarına necə riayət edir.",
+        "type": "guide",
+        "readTime": "5 dəqiqəyə oxu",
+        "popular": false
+      },
+      {
+        "category": "security",
+        "title": "Backup və məlumat ixracı",
+        "description": "Məlumatlarınızı necə ixrac etmək və backup prosedurları haqqında öyrənin.",
+        "type": "tutorial",
+        "readTime": "4 dəqiqəyə oxu",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "Təqvim inteqrasiyası bələdçisi",
+        "description": "asyncz-i Google Calendar, Outlook və digər təqvimlərlə birləşdirin.",
+        "type": "tutorial",
+        "readTime": "7 dəqiqəyə oxu",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "Vebsayta widget yerləşdirilməsi",
+        "description": "asyncz görüş widget-larını vebsaytınıza inteqrasiya edin.",
+        "type": "tutorial",
+        "readTime": "5 dəqiqəyə oxu",
+        "popular": true
+      },
+      {
+        "category": "integrations",
+        "title": "API sənədləri və xüsusi inteqrasiyalar",
+        "description": "asyncz API ilə inteqrasiyanı öyrənmək üçün texniki bələdçi.",
+        "type": "technical",
+        "readTime": "15 dəqiqəyə oxu",
+        "popular": false
+      }
+    ],
+    "aboutAsyncz": {
+      "title": "asyncz haqqında",
+      "description": "asyncz — Deviofy tərəfindən hazırlanmış və idarə olunan, biznesin avtomatlaşdırılması və planlaşdırma həlləri üzrə ixtisaslaşmış texnologiya məhsuludur.",
+      "product": {
+        "label": "Məhsul",
+        "value": "asyncz Planlaşdırma Platforması"
+      },
+      "developer": {
+        "label": "Hazırlayan",
+        "value": "Deviofy"
+      },
+      "location": {
+        "label": "Ünvan",
+        "value": "IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, BƏƏ"
+      }
+    },
+    "contactSupport": {
+      "title": "Hələ də kömək lazımdır?",
+      "description": "Axtardığınızı tapa bilmirsiniz? Dəstək komandamız uğurunuz üçün buradadır.",
+      "supportOptions": [
+        {
+          "icon": "MessageCircle",
+          "iconColor": "text-green-500",
+          "title": "Canlı Çat",
+          "description": "Dəstək komandamızdan dərhal kömək alın",
+          "availability": "Yalnız Premium müştərilər üçün"
+        },
+        {
+          "icon": "FileText",
+          "iconColor": "text-blue-500",
+          "title": "Sorğu Göndər",
+          "description": "Sualınızı göndərin, 24 saat ərzində cavab alacaqsınız",
+          "availability": "info@asyncz.com"
+        },
+        {
+          "icon": "Video",
+          "iconColor": "text-purple-500",
+          "title": "Demo Planlaşdır",
+          "description": "Ekspertlərimizdən fərdi təlim alın",
+          "availability": "Yalnız Enterprise müştərilər üçün"
+        }
+      ],
+      "contactSupportButton": "Dəstəyə Yaz",
+      "browseFaqButton": "FAQ-a Bax"
+    }
+  },
+  "howItWorks": {
+    "pageTitle": "Necə İşləyir - asyncz | Hər Bir Biznes üçün Sadə Planlaşdırma",
+    "metaDescription": "asyncz-in fərqli bizneslər üçün necə işlədiyini kəşf edin. Fərdi peşəkarlardan iri müəssisələrə qədər platformamızın vaxt idarəçiliyini necə dəyişdirdiyini görün.",
+    "heroTitle": "asyncz necə",
+    "heroTitleHighlight": "Sizin üçün İşləyir",
+    "heroDescription": "asyncz-in hər sənayedə biznes üçün planlaşdırmanı necə dəyişdirdiyini kəşf edin. Fərdi peşəkarlardan iri müəssisələrə qədər platformamız sizin ehtiyaclarınıza uyğunlaşır.",
+    "process": {
+      "title": "Sadə 4 Addımlıq Proses",
+      "subtitle": "asyncz ilə bir neçə dəqiqəyə başlayın, saatlar deyil",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Biznesinizi Qurun",
+          "description": "asyncz hesabı yaradın və biznes strukturu qurun",
+          "details": [
+            "Biznes məlumatlarını və brendinizi əlavə edin",
+            "Müxtəlif məkanlar üçün filiallar yaradın",
+            "Təklif etdiyiniz xidmət və prosedurları qurun",
+            "İş saatlarınızı və mövcudluğunuzu konfiqurasiya edin"
+          ],
+          "icon": "Building"
+        },
+        {
+          "step": 2,
+          "title": "Komandanızı Əlavə Edin",
+          "description": "Komanda üzvlərini dəvət edin və uyğun səlahiyyətləri təyin edin",
+          "details": [
+            "Ekspert və personalı sistemə əlavə edin",
+            "Rolları təyin edin: Şirkət Meneceri, Filial Meneceri, Ekspert, Reseptionist",
+            "Fərdi cədvəlləri və mövcudluğu təyin edin",
+            "Hər üzv üçün giriş icazələrini qurun"
+          ],
+          "icon": "Users"
+        },
+        {
+          "step": 3,
+          "title": "Müştəri Qəbulu Qurun",
+          "description": "Müştərilərin necə görüş bron edəcəyini təyin edin",
+          "details": [
+            "Müştərilər bron səhifənizə və ya yerləşdirilmiş widget-ə daxil olurlar",
+            "Onlar lazım olan xidməti seçirlər",
+            "Seçdikləri eksperti və ya məkanı seçirlər",
+            "Uyğun olan vaxtı asanlıqla seçirlər"
+          ],
+          "icon": "Calendar"
+        },
+        {
+          "step": 4,
+          "title": "Avtomatik Təqvim İdarəçiliyi",
+          "description": "Bütün görüşlər güclü və intuitiv təqviminizdə görünür",
+          "details": [
+            "Görüşləri gün, həftə və ya ay görünüşündə izləyin",
+            "Drag & drop ilə görüşləri asanlıqla dəyişin",
+            "Bütün ekspert və filialları vahid baxışda görün",
+            "Bütün tərəflərə avtomatik bildiriş göndərilir"
+          ],
+          "icon": "CheckCircle"
+        }
+      ]
+    },
+    "businessTypes": {
+      "title": "Hər Bir",
+      "titleHighlight": "Biznes Tipi üçün İdeal",
+      "subtitle": "asyncz-in sənayenizin planlaşdırma ehtiyaclarına necə uyğunlaşdığını görün",
+      "keyBenefitsLabel": "Əsas Üstünlüklər",
+      "examplesLabel": "Nümunələr",
+      "types": [
+        {
+          "icon": "User",
+          "title": "Fərdi Peşəkarlar",
+          "description": "Səmərəli vaxt idarəçiliyini dəyərləndirən freelancer, konsultant və solo sahibkarlar üçün idealdır",
+          "benefits": [
+            "Şəxsi təqvim idarəçiliyi",
+            "Müştəri görüşlərinin planlaşdırılması",
+            "Fokuslu iş üçün vaxt bloklama",
+            "Peşəkar müştəri ünsiyyəti"
+          ],
+          "examples": "Freelance dizaynerlər, şəxsi məşqçilər, repetitorlar, fotoqraflar"
+        },
+        {
+          "icon": "Stethoscope",
+          "title": "Səhiyyə Praktikaları",
+          "description": "Pasiyent görüşlərini optimallaşdırmaq və bir neçə praktikantı idarə etmək üçün",
+          "benefits": [
+            "Pasiyent görüşlərinin bronu",
+            "Çox praktikantlı cədvəl",
+            "Müalicə prosedurlarının idarəçiliyi",
+            "Avtomatik görüş xatırlatmaları"
+          ],
+          "examples": "Həkimlər, stomatoloqlar, fizioterapevtlər, psixoloqlar"
+        },
+        {
+          "icon": "GraduationCap",
+          "title": "Təhsil Xidmətləri",
+          "description": "Dərs, kurs və məsləhət görüşlərini asanlıqla təşkil edin",
+          "benefits": [
+            "Dərs və kurs planlaşdırması",
+            "Tələbə qeydiyyatının idarəçiliyi",
+            "Müəllim koordinasiyası",
+            "Tədris resurslarının planlaşdırılması"
+          ],
+          "examples": "Dil məktəbləri, tədris mərkəzləri, təlim institutları, universitetlər"
+        },
+        {
+          "icon": "Briefcase",
+          "title": "Hüquqi və Peşəkar Xidmətlər",
+          "description": "Müştəri görüşləri və iş görüşlərini peşəkar şəkildə idarə edin",
+          "benefits": [
+            "Müştəri məsləhət görüşlərinin bronu",
+            "İş görüşlərinin planlaşdırılması",
+            "Peşəkar xidmət idarəçiliyi",
+            "Konfidensial müştəri ünsiyyəti"
+          ],
+          "examples": "Hüquq büroları, mühasibat ofisləri, maliyyə məsləhətçiləri, əmlak agentləri"
+        },
+        {
+          "icon": "Monitor",
+          "title": "İT və Texniki Konsaltinq",
+          "description": "Texniki məsləhət və layihə görüşlərini problemsiz koordinasiya edin",
+          "benefits": [
+            "Texniki məsləhət planlaşdırması",
+            "Layihə mərhələ görüşləri",
+            "Komanda koordinasiyası",
+            "Müştəri tələblərinin toplanması"
+          ],
+          "examples": "Proqram təminatı konsultantları, İT dəstək xidmətləri, veb proqramçılar, sistem inteqratorları"
+        },
+        {
+          "icon": "Scissors",
+          "title": "Gözəllik və Sağlamlıq",
+          "description": "Bir neçə xidmət göstərən personalı olan salon və spa-lar üçün ideal",
+          "benefits": [
+            "Xidmət görüşlərinin bronu",
+            "Personal cədvəlinin koordinasiyası",
+            "Çoxsaylı xidmətlərin idarəçiliyi",
+            "Müştəri seçimlərinin izlənməsi"
+          ],
+          "examples": "Saç salonları, bərbərlər, spa, massajistlər, gözəllik klinikaları"
+        },
+        {
+          "icon": "Building",
+          "title": "Klinikalar və Tibbi Mərkəzlər",
+          "description": "Çox şöbəli tibb müəssisələri üçün kompleks həll",
+          "benefits": [
+            "Çox şöbəli cədvəl idarəçiliyi",
+            "İxtisaslaşmış görüş idarəçiliyi",
+            "Pasiyent axınının optimallaşdırılması",
+            "Tibbi prosedur koordinasiyası"
+          ],
+          "examples": "Tibbi klinikalar, diaqnostik mərkəzlər, ixtisaslaşmış müalicə müəssisələri"
+        },
+        {
+          "icon": "MapPin",
+          "title": "Çox Məkanlı Bizneslər",
+          "description": "Bir neçə filial və məkanı bir platformadan idarə edin",
+          "benefits": [
+            "Mərkəzləşdirilmiş multi-filial idarəçiliyi",
+            "Məkan-spesifik cədvəl",
+            "Filiallar arası koordinasiya",
+            "Birləşmiş biznes idarəçiliyi"
+          ],
+          "examples": "Pərakəndə şəbəkələr, françayzlar, regional xidmət təminatçıları"
+        },
+        {
+          "icon": "Calendar",
+          "title": "Tədbir və Partilər üçün Planlaşdırma",
+          "description": "Çox adamın iştirak etdiyi tədbirlərin təşkilində əvəzolunmazdır",
+          "benefits": [
+            "Qrup cədvəl koordinasiyası",
+            "İştirakçıların səsverməsinin toplanması",
+            "Tədbir vaxtının optimallaşdırılması",
+            "Avtomatlaşdırılmış iştirakçı idarəçiliyi"
+          ],
+          "examples": "Tədbir təşkilatçıları, toy planlaşdırıcıları, korporativ tədbir təşkilatçıları, komanda görüşləri"
+        }
+      ]
+    },
+    "calendarFeatures": {
+      "title": "Ən",
+      "titleHighlight": "Güclü Təqvim",
+      "titleEnd": "İstifadə Edəcəksiniz",
+      "description": "Təqvimimiz sadə deyil — o, həqiqətən güclüdür. Mürəkkəb planlaşdırma ssenarilərini asanlıqla idarə edin və komandanız üçün rahatlıqdan həzz alın.",
+      "controlTitle": "Tam Planlaşdırma Nəzarəti",
+      "features": [
+        {
+          "title": "Çox Baxışlı Təqvim",
+          "description": "Cədvəli istədiyiniz kimi gün, həftə və ay baxışlarında dəyişin"
+        },
+        {
+          "title": "Drag & Drop Rahatlığı",
+          "description": "Görüşləri asanlıqla yeni vaxta sürüşdürün — çox rahatdır"
+        },
+        {
+          "title": "Ekspert Koordinasiyası",
+          "description": "Bütün komanda üzvlərinin cədvəllərini bir yerdə görün və asanlıqla koordinasiya edin"
+        },
+        {
+          "title": "Filial İdarəçiliyi",
+          "description": "Bütün filialları bir təqvim baxışından filial filtri ilə idarə edin"
+        },
+        {
+          "title": "Real-vaxt Yenilənmələri",
+          "description": "Bütün dəyişikliklər bütün cihaz və üzvlərdə dərhal sinxronlaşdırılır"
+        },
+        {
+          "title": "Ağıllı Bildirişlər",
+          "description": "Avtomatlaşdırılmış xatırlatmalar və yeniləmələr hər kəsi məlumatlı saxlayır"
+        }
+      ],
+      "specialFeatures": {
+        "title": "Təqvimi Xüsusi Edən Nədir?",
+        "items": [
+          {
+            "icon": "Calendar",
+            "text": "Bütün filial və ekspertlərin vahid görünüşü"
+          },
+          {
+            "icon": "Users",
+            "text": "Komanda üzvləri üçün rol əsaslı giriş"
+          },
+          {
+            "icon": "Clock",
+            "text": "Bütün cihazlarda real vaxt yenilənmə"
+          },
+          {
+            "icon": "ArrowRight",
+            "text": "Drag-and-drop ilə görüş idarəçiliyi"
+          }
+        ]
+      }
+    },
+    "customerJourney": {
+      "title": "Müştərinin",
+      "titleHighlight": "Bronlama Yolu",
+      "subtitle": "Müştərilər üçün görüş bron etməyin nə qədər asan olduğunu görün",
+      "steps": [
+        {
+          "step": "1",
+          "title": "Xidmət Seçimi",
+          "description": "Müştəri təkliflərinizdən lazım olan xidməti və ya proseduru seçir"
+        },
+        {
+          "step": "2",
+          "title": "Ekspert Seçimi",
+          "description": "Mövcudluğa əsasən sevimli ekspert və ya məkanı seçir"
+        },
+        {
+          "step": "3",
+          "title": "Vaxt Seçimi",
+          "description": "Uyğun olan vaxt intervalları aydın şəkildə göstərilir və asanlıqla seçilir"
+        },
+        {
+          "step": "4",
+          "title": "Avtomatik Təsdiq",
+          "description": "Görüş təqviminizdə görünür və avtomatik təsdiq göndərilir"
+        }
+      ]
+    },
+    "eventPlanning": {
+      "title": "Xüsusi Funksiya: Qrup Tədbir Koordinasiyası",
+      "subtitle": "Çoxsaylı iştirakçının olduğu tədbir və partiləri asan idarə etmək üçün əla seçim",
+      "steps": [
+        {
+          "step": "1",
+          "title": "Tədbir Səsverməsi Yaradın",
+          "description": "Collabriq scheduler modulu ilə tədbiriniz üçün bir neçə vaxt variantı qurun"
+        },
+        {
+          "step": "2",
+          "title": "İştirakçıları Dəvət Edin",
+          "description": "Tədbirdə iştirak edəcək bütün şəxslərə dəvət göndərin"
+        },
+        {
+          "step": "3",
+          "title": "Səsləri Toplayın",
+          "description": "İştirakçılar öz seçimini edir, nəticələri real vaxtda izləyə bilərsiniz"
+        },
+        {
+          "step": "4",
+          "title": "Tədbiri Yekunlaşdırın",
+          "description": "Səsvermə nəticəsinə əsasən ən uyğun vaxtı seçib tədbirinizi asanlıqla təşkil edin"
+        }
+      ],
+      "concordFeatures": {
+        "title": "Collabriq Scheduler Xüsusiyyətləri",
+        "features": [
+          "İştirakçı cavablarını gizlətmək (Pro+)",
+          "İştirakçı adlarını gizlətmək (Pro+)",
+          "Hər variant üçün iştirakçı limitini təyin etmək (Pro+)"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Planlaşdırmanızı Dəyişməyə Hazırsınız?",
+      "subtitle": "Minlərlə biznes artıq asyncz ilə əməliyyatlarını avtomatlaşdırır",
+      "primaryButton": "28 Günlük Pulsuz Sınağa Başla",
+      "secondaryButton": "Qiymət Planlarına Bax"
+    },
+    "demo": {
+      "title": "asyncz-i Canlı Görün",
+      "description": "Şəxsi demo bronlayın və asyncz-in planlaşdırmanı necə dəyişdirdiyini, hansı xüsusiyyətlərin sizin biznes üçün uyğun olduğunu öyrənin.",
+      "whatYoullLearn": {
+        "title": "Demo Sessiyanızda Nə Öyrənəcəksiniz?",
+        "items": [
+          {
+            "title": "Sənaye-spesifik Qurulum",
+            "description": "asyncz-in biznes növünüzə və iş axınına necə uyğunlaşdığını görün"
+          },
+          {
+            "title": "Xüsusiyyətlərin Göstərişi",
+            "description": "Planlaşdırma, komanda idarəçiliyi və analitika funksiyalarını araşdırın"
+          },
+          {
+            "title": "İnteqrasiya İmkanları",
+            "description": "Təqvim sinxronizasiyası, sayt widget-ları və API çıxışı barədə məlumat alın"
+          },
+          {
+            "title": "Köçürmə Dəstəyi",
+            "description": "Cari alətlərdən keçid üçün dəstək əldə edin"
+          }
+        ]
+      },
+      "details": [
+        {
+          "label": "Demo müddəti",
+          "value": "30-45 dəqiqə"
+        },
+        {
+          "label": "Mövcuddur",
+          "value": "Bazar ertəsi - Cümə, 09:00 - 18:00 (CET)"
+        },
+        {
+          "label": "Platforma",
+          "value": "Zoom, Teams və ya Google Meet"
+        }
+      ],
+      "bookButton": "Demo Bronla",
+      "watchButton": "Video Dərslərə Bax"
+    }
+  },
+  "pricingDetails": {
+    "pageTitle": "Qiymət Planları - asyncz | Ətraflı Xüsusiyyət Müqayisəsi",
+    "metaDescription": "asyncz qiymət planlarını ətraflı müqayisə edin. Scheduling və biznes idarəçiliyi üçün Free, Starter, Pro və Premium planlarından uyğun olanı seçin.",
+    "heroTitle": "Ətraflı",
+    "heroTitleHighlight": "Qiymət Müqayisəsi",
+    "heroDescription": "Bütün planlarımız üzrə xüsusiyyətləri müqayisə edin və biznesiniz üçün ən idealını seçin",
+    "pricingToggle": {
+      "monthly": "Aylıq",
+      "yearly": "İllik",
+      "saveText": "Təxminən 17% qənaət"
+    },
+    "mostPopular": "Ən Populyar",
+    "monthText": "ay",
+    "yearText": "il",
+    "targetText": "Hədəf",
+    "trialText": "28 günlük pulsuz sınaq daxildir",
+    "getStartedButton": "Başla",
+    "startTrialButton": "Pulsuz Sınağa Başla",
+    "plans": [
+      {
+        "name": "Pulsuz",
+        "description": "Fərdi şəxslər və solo sahibkarlar üçün idealdır",
+        "monthlyPrice": 0,
+        "yearlyPrice": 0,
+        "target": "Fərdi istifadə, solo sahibkarlar, şəxsi istifadə",
+        "featured": false,
+        "trial": false
+      },
+      {
+        "name": "Starter",
+        "description": "Startaplar və kiçik komandalar üçün",
+        "monthlyPrice": 5.99,
+        "yearlyPrice": 59.99,
+        "target": "Startaplar, kiçik komandalar, yeni bizneslər",
+        "featured": false,
+        "trial": false
+      },
+      {
+        "name": "Pro",
+        "description": "Böyüyən biznes və konsultantlar üçün",
+        "monthlyPrice": 11.99,
+        "yearlyPrice": 119.99,
+        "target": "Kiçik və orta bizneslər, agentliklər, konsultantlar",
+        "featured": true,
+        "trial": true
+      },
+      {
+        "name": "Premium",
+        "description": "İri müəssisə və böyük təşkilatlar üçün",
+        "monthlyPrice": 24.99,
+        "yearlyPrice": 249.99,
+        "target": "Böyük şirkətlər, böyüyən təşkilatlar",
+        "featured": false,
+        "trial": true
+      }
+    ],
+    "featureComparison": {
+      "title": "Tam Xüsusiyyət Müqayisəsi",
+      "featuresHeader": "Xüsusiyyətlər",
+      "categories": [
+        {
+          "category": "Təqvim İdarəçiliyi",
+          "features": [
+            {
+              "name": "Təqvim Baxışları (Gün/Həftə/Ay)",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Görüş əlavə/Copy/Edit/Çap",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Ekspert Cədvəli İdarəçiliyi",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Filial və Ekspert İdarəçiliyi",
+          "features": [
+            {
+              "name": "Filial sayı",
+              "free": "1",
+              "starter": "1",
+              "pro": "1",
+              "premium": "3"
+            },
+            {
+              "name": "Ekspert sayı",
+              "free": "3",
+              "starter": "4",
+              "pro": "10",
+              "premium": "Limitsiz"
+            },
+            {
+              "name": "Ekspert Axtarışı və Filtrasiya",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Ekspert İş Cədvəlini Redaktə",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "İstifadəçi İdarəçiliyi",
+          "features": [
+            {
+              "name": "İstifadəçi rolları (Menecer, Ekspert, Reseptionist)",
+              "free": "Sadə",
+              "starter": "Sadə",
+              "pro": "İrəli",
+              "premium": "Tam Nəzarət"
+            },
+            {
+              "name": "Çoxistifadəçi idarəçiliyi",
+              "free": false,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "İstifadəçi Axtarışı və İdarəçiliyi",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Detallı istifadəçi icazələri",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Prosedurlar və Xidmətlər",
+          "features": [
+            {
+              "name": "Prosedur sayı",
+              "free": "2",
+              "starter": "4",
+              "pro": "7",
+              "premium": "15"
+            },
+            {
+              "name": "Prosedur idarəçiliyi (Aktiv/Passiv)",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "İrəli Prosedur Ayarları",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Təhlükəsizlik və Qoruma",
+          "features": [
+            {
+              "name": "Qara siyahı qoruması",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Avtomatik Email/Telefon Bloklanması",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "İrəli təhlükəsizlik xüsusiyyətləri",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Email və Bildirişlər",
+          "features": [
+            {
+              "name": "Əsas email bildirişləri",
+              "free": true,
+              "starter": true,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Loqo ilə fərdi brendinq",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Əlavə fərdi brendinq",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Domen və İnteqrasiya",
+          "features": [
+            {
+              "name": "Fərdi domen inteqrasiyası",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            },
+            {
+              "name": "White-label tətbiqi",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": "Yalnız Enterprise"
+            }
+          ]
+        },
+        {
+          "category": "Analitika və Dashboard",
+          "features": [
+            {
+              "name": "Dashboard tipi",
+              "free": "Əsas",
+              "starter": "Əsas",
+              "pro": "İrəli",
+              "premium": "Tam"
+            },
+            {
+              "name": "Əlavə Hesabat və Analitika",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Biznes insight-ları",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Müştəri tərəfli funksiyalar",
+          "features": [
+            {
+              "name": "Hər görüş üçün qonaq seçimi",
+              "free": "Tək",
+              "starter": "Tək",
+              "pro": "Çox",
+              "premium": "Çox"
+            },
+            {
+              "name": "Embed olunabilən görüş widget-i",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Fərdi domenlə bronlama",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Collabriq Scheduler Modulu",
+          "features": [
+            {
+              "name": "Aylıq tədbir sayı",
+              "free": "5",
+              "starter": "Limitsiz",
+              "pro": "10",
+              "premium": "Limitsiz"
+            },
+            {
+              "name": "İştirakçı cavablarının gizlədilməsi",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "İştirakçı adlarının gizlədilməsi",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            },
+            {
+              "name": "Hər seçim üçün iştirakçı limiti",
+              "free": false,
+              "starter": false,
+              "pro": true,
+              "premium": true
+            }
+          ]
+        },
+        {
+          "category": "Dəstək",
+          "features": [
+            {
+              "name": "Dəstək növü",
+              "free": "Chatbot",
+              "starter": "Chatbot",
+              "pro": "Chatbot + Email",
+              "premium": "24/7 Prioritet"
+            },
+            {
+              "name": "Müştəri Meneceri",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            },
+            {
+              "name": "Canlı chat dəstəyi",
+              "free": false,
+              "starter": false,
+              "pro": false,
+              "premium": true
+            }
+          ]
+        }
+      ]
+    },
+    "studentPlan": {
+      "title": "Tələbə Planı",
+      "description": "Pro xüsusiyyətləri pulsuz! asyncz tələbələr üçün peşəkar scheduling alətlərinə ödənişsiz çıxış verir. Doğrulama tələb olunur.",
+      "button": "Tələbə Planına Müraciət Et"
+    },
+    "enterprisePlan": {
+      "title": "Enterprise Plan",
+      "subtitle": "İri müəssisə və korporasiyalar üçün fərdi qiymət",
+      "featuresTitle": "Enterprise Xüsusiyyətləri",
+      "features": [
+        "Tam white-label tətbiqi",
+        "Limitsiz filial, ekspert, prosedur",
+        "Single sign-on (SSO) inteqrasiyası",
+        "API çıxışı və fərdi inteqrasiyalar"
+      ],
+      "supportTitle": "Enterprise Dəstəyi",
+      "support": [
+        "Ayrılmış texniki hesab meneceri",
+        "Fərdi tətbiq variantları",
+        "GDPR & SOC 2 uyğunluğu",
+        "On-premise tətbiq mövcuddur"
+      ],
+      "button": "Enterprise Satış ilə Əlaqə"
+    },
+    "demo": {
+      "title": "Doğru Planı Seçməkdə Çətinlik Çəkirsiniz?",
+      "description": "Komandamızla şəxsi demo planlaşdırın və asyncz-in hansı planının biznesinizə uyğun olduğunu canlı görün.",
+      "scheduleTitle": "Demonu Planlaşdır",
+      "benefits": [
+        {
+          "title": "Fərdiləşdirilmiş Gəzinti",
+          "description": "asyncz xüsusiyyətlərini sənayeniz və istifadə tərzinizə uyğun görün"
+        },
+        {
+          "title": "Tətbiq Planlaşdırması",
+          "description": "Qurulum, köçürmə və komanda onboarding üçün dəstək alın"
+        },
+        {
+          "title": "Suallar və Cavablar",
+          "description": "Planlaşdırma problemlərinizə ekspert cavabları"
+        },
+        {
+          "title": "Fərdi Qiymət",
+          "description": "Həcm endirimləri və enterprise üçün fərdi qiymətləndirmə"
+        }
+      ],
+      "details": [
+        {
+          "label": "Demo müddəti",
+          "value": "30-45 dəqiqə"
+        },
+        {
+          "label": "Mövcud vaxtlar",
+          "value": "Bazar ertəsi - Cümə, 09:00 - 18:00 (CET)"
+        },
+        {
+          "label": "Format",
+          "value": "Zoom, Teams və ya Google Meet vasitəsilə video zəng"
+        }
+      ],
+      "scheduleButton": "Demo Planlaşdır",
+      "contactButton": "Satış ilə Əlaqə"
+    }
+  },
+  "privacyPolicy": {
+    "pageTitle": "Məxfilik Siyasəti - asyncz | Məlumatların Qorunması və Məxfilik",
+    "metaDescription": "asyncz-in Məxfilik Siyasəti ilə şəxsi məlumatlarınızın necə toplanıb, istifadə olunduğunu və qorunduğunu öyrənin. Hüquqlarınızı və məlumat təhlükəsizliyinə olan sadiqliyimizi oxuyun.",
+    "title": "Məxfilik Siyasəti",
+    "lastUpdated": "Son yenilənmə: "
+  },
+  "termsConditions": {
+    "pageTitle": "Şərtlər və Qaydalar - asyncz | Xidmət Razılaşması",
+    "metaDescription": "asyncz-in Şərtlər və Qaydalarını oxuyun və platformadan istifadə zamanı hüquq və öhdəliklərinizi öyrənin.",
+    "title": "Şərtlər və Qaydalar",
+    "lastUpdated": "Son yenilənmə: "
+  },
+  "videoTutorials": {
+    "pageTitle": "Video Dərsliklər - asyncz | Addım-addım Təlimatlarla Öyrənin",
+    "metaDescription": "asyncz platformasını hərtərəfli video dərslik kitabxanası ilə mənimsəyin. Cədvəl qurulması, komanda idarəetməsi, inteqrasiyalar və qabaqcıl funksiyaları addım-addım öyrənin.",
+    "heroTitle": "Video",
+    "heroTitleHighlight": "Dərsliklər",
+    "heroDescription": "asyncz platformasını əhatəli video kitabxana ilə mənimsəyin. Əsas quruluşdan tutmuş qabaqcıl imkanlara qədər – planlaşdırmanı maksimum səviyyədə səmərəli edin.",
+    "searchPlaceholder": "Dərsliklərdə axtarın...",
+    "stats": {
+      "videoTutorials": "Video Dərsliklər",
+      "hoursContentValue": "2.5+",
+      "hoursContent": "Saatlıq Məzmun",
+      "avgRatingValue": "4.7",
+      "avgRating": "Orta Reytinq"
+    },
+    "featuredTitle": "Seçilmiş Dərsliklər",
+    "featuredLabel": "Seçilmiş",
+    "allTutorialsTitle": "Bütün Dərsliklər",
+    "filterBy": "Filtr et",
+    "categoryFilter": "Kateqoriya",
+    "difficultyFilter": "Çətinlik",
+    "viewsText": "baxış",
+    "noVideosFound": "Axtarışınıza uyğun video tapılmadı.",
+    "clearFilters": "Filtrləri təmizlə",
+    "comingSoon": {
+      "title": "Tezliklə Daha Çox Məzmun",
+      "description": "asyncz platformasında peşəkar olmaq üçün daim yeni dərsliklər yaradırıq. Yeniliklər barədə bildiriş almaq üçün bülletenimizə abunə olun.",
+      "upcomingTitle": "Gələcək Dərsliklər",
+      "upcomingList": [
+        "API İnteqrasiyası üzrə Təlimat",
+        "Qabaqcıl Avtomatlaşdırma İş Axınları",
+        "Çoxsaylı Məkanların İdarə Olunması",
+        "Fərdi Qeydiyyat Forması",
+        "Korporativ Təhlükəsizlik Xüsusiyyətləri"
+      ]
+    },
+    "cta": {
+      "title": "Başlamağa Hazırsınız?",
+      "description": "Öyrəndiklərinizi tətbiq edin və peşəkar kimi planlaşdırmaya başlayın.",
+      "startTrialButton": "Pulsuz Sınağa Başla",
+      "helpCenterButton": "Yardım Mərkəzinə Bax"
+    },
+    "categories": [
+      {
+        "id": "all",
+        "name": "Bütün Videolar",
+        "icon": "Play"
+      },
+      {
+        "id": "getting-started",
+        "name": "Başlanğıc",
+        "icon": "Users"
+      },
+      {
+        "id": "scheduling",
+        "name": "Planlaşdırma",
+        "icon": "Calendar"
+      },
+      {
+        "id": "team-management",
+        "name": "Komanda İdarəetməsi",
+        "icon": "Users"
+      },
+      {
+        "id": "integrations",
+        "name": "İnteqrasiyalar",
+        "icon": "Globe"
+      },
+      {
+        "id": "analytics",
+        "name": "Analitika",
+        "icon": "TrendingUp"
+      },
+      {
+        "id": "security",
+        "name": "Təhlükəsizlik",
+        "icon": "Shield"
+      },
+      {
+        "id": "mobile",
+        "name": "Mobil Tətbiq",
+        "icon": "Smartphone"
+      }
+    ],
+    "difficulties": [
+      {
+        "id": "all",
+        "name": "Bütün Səviyyələr"
+      },
+      {
+        "id": "beginner",
+        "name": "Yeni Başlayanlar"
+      },
+      {
+        "id": "intermediate",
+        "name": "Orta"
+      },
+      {
+        "id": "advanced",
+        "name": "Qabaqcıl"
+      }
+    ],
+    "videos": [
+      {
+        "id": 1,
+        "title": "asyncz-ə Xoş Gəlmisiniz: Tam Quruluş Təlimatı",
+        "description": "asyncz hesabınızı necə qurmaq, əsas ayarları tənzimləmək və 10 dəqiqədən az müddətdə ilk görüşünüzü yaratmaq barədə öyrənin.",
+        "category": "getting-started",
+        "difficulty": "beginner",
+        "duration": "8:42",
+        "views": "12.5K",
+        "rating": 4.9,
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 2,
+        "title": "İlk Cədvəlinizi Yaradın",
+        "description": "Görüşlərin yaradılması, əlçatanlığın tənzimlənməsi və təqviminizin effektiv idarə olunması üçün addım-addım təlimat.",
+        "category": "scheduling",
+        "difficulty": "beginner",
+        "duration": "6:15",
+        "views": "8.3K",
+        "rating": 4.8,
+        "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 3,
+        "title": "Komanda Üzvlərinin İdarəedilməsi və İcazələr",
+        "description": "Komanda üzvlərini dəvət etmək, rolları təyin etmək və bütün təşkilat üzrə icazələri necə idarə etmək barədə öyrənin.",
+        "category": "team-management",
+        "difficulty": "intermediate",
+        "duration": "12:30",
+        "views": "5.7K",
+        "rating": 4.7,
+        "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 4,
+        "title": "Google Calendar İnteqrasiyasının Qurulması",
+        "description": "asyncz-i Google Calendar ilə iki tərəfli sinxronizasiya üçün necə birləşdirmək barədə tam təlimat.",
+        "category": "integrations",
+        "difficulty": "intermediate",
+        "duration": "9:20",
+        "views": "7.1K",
+        "rating": 4.6,
+        "thumbnail": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": true
+      },
+      {
+        "id": 5,
+        "title": "Qabaqcıl Planlaşdırma Qaydaları və Avtomatlaşdırma",
+        "description": "Tampon vaxtlar, təkrarlanan görüşlər və avtomatik iş axınları ilə kompleks planlaşdırma ssenarilərini mənimsəyin.",
+        "category": "scheduling",
+        "difficulty": "advanced",
+        "duration": "15:45",
+        "views": "3.2K",
+        "rating": 4.9,
+        "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 6,
+        "title": "Analitika Panelinə Dərin Baxış",
+        "description": "Görüş statistikalarınızı analiz edin, hesabatlar yaradın və planlaşdırma performansınızı optimallaşdırın.",
+        "category": "analytics",
+        "difficulty": "intermediate",
+        "duration": "11:18",
+        "views": "4.5K",
+        "rating": 4.5,
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 7,
+        "title": "Təhlükəsizlik üzrə Ən Yaxşı Təcrübələr",
+        "description": "İki faktorlu autentifikasiyanı qurun, istifadəçi icazələrini idarə edin və məlumatlarınızı qoruyun.",
+        "category": "security",
+        "difficulty": "intermediate",
+        "duration": "7:33",
+        "views": "2.8K",
+        "rating": 4.8,
+        "thumbnail": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 8,
+        "title": "Mobil Tətbiqə Baxış",
+        "description": "asyncz mobil tətbiqinin yaxın zamanda gələcək funksiyalarına baxış.",
+        "category": "mobile",
+        "difficulty": "beginner",
+        "duration": "5:20",
+        "views": "6.8K",
+        "rating": 4.4,
+        "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      },
+      {
+        "id": 9,
+        "title": "Vebsayt Widget İnteqrasiyası",
+        "description": "Müştəri görüşlərinin asan qeydiyyatı üçün asyncz booking widget-larını vebsaytınıza əlavə edin.",
+        "category": "integrations",
+        "difficulty": "advanced",
+        "duration": "13:10",
+        "views": "3.9K",
+        "rating": 4.7,
+        "thumbnail": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=450",
+        "featured": false
+      }
+    ]
+  },
+  "locationSpotlight": {
+    "tagline": "Yerli ekspertiza",
+    "title": "asyncz Azərbaycan komandaları üçün",
+    "description": "Bakıda və Gəncədə filiallarınızı lokal rezervasiya təcrübələri, vergi qaydaları və regiona hazır avtomatlaşdırmalarla sinxron saxlayın.",
+    "ctaLabel": "Azərbaycan komandamızla tanış olun",
+    "ctaHref": "/contact",
+    "highlights": [
+      {
+        "icon": "map",
+        "title": "Regional tələblərə uyğunluq",
+        "description": "Hər bölgənin bayramlarını, xidmət qaydalarını və vergi dərəcələrini təkrarlanmayan təqvimlərlə idarə edin."
+      },
+      {
+        "icon": "users",
+        "title": "İkidilli dəstək",
+        "description": "Onboarding mütəxəssislərimiz resepsiya komandanızı bütün proses boyu müşayiət edir."
+      }
+    ]
+  },
+  "notFound": {
+    "tagline": "Boş vaxt yuvası tapdınız",
+    "title": "Bu səhifə cədvəldə yoxdur",
+    "subtitle": "Keçid artıq mövcud deyil. Asyncz resurslarını araşdırın və planınıza qayıdın.",
+    "primaryCta": "Əsas səhifəyə qayıt",
+    "secondaryCta": "Dəstək ilə əlaqə",
+    "linkDescription": "{section} haqqında daha çox öyrənin.",
+    "explore": "Araşdırın"
+  },
+  "featuresPage": {
+    "pageTitle": "Funksiyalar - asyncz | AI ilə planlaşdırma axınları",
+    "metaDescription": "asyncz funksiyalarını kəşf edin: çox filiallı orkestrasiya, qara siyahı qoruması, analitika panelləri və AI gözləmə siyahıları.",
+    "keywords": [
+      "asyncz funksiyalar",
+      "ai planlaşdırma",
+      "gözləmə siyahısı avtomatlaşdırması",
+      "çox filiallı təqvim",
+      "asyncz analitika"
+    ],
+    "tagline": "Məhsul turu",
+    "heroTitle": "Hər görüş axını üçün vahid idarəetmə",
+    "heroSubtitle": "asyncz bronlaşdırmanı, marşrutlaşdırmanı, xatırlatmaları və analitikanı birləşdirir ki, bütün filiallar eyni səviyyədə xidmət göstərsin.",
+    "primaryCta": "Tarifləri müqayisə edin",
+    "secondaryCta": "Satışla danışın",
+    "coreTitle": "Filiallarınızla böyüyən əsas imkanlar",
+    "coreDescription": "Ağıllı təqvimlərdən brend kommunikasiya kanallarına qədər asyncz əlavə resurs tələb etmədən mürəkkəb əməliyyatları sadələşdirir.",
+    "deepDives": [
+      {
+        "title": "Çox filiallı güc planlaması",
+        "description": "Tələbi əlçatanlıq pəncərələri, tampon qaydalar və heyət limitləri ilə tarazlayın."
+      },
+      {
+        "title": "Avtomatlaşdırılmış kommunikasiya axınları",
+        "description": "Təsdiqləri, xatırlatmaları və izləmələri WhatsApp, SMS və e-poçt vasitəsilə avtomatik göndərin."
+      },
+      {
+        "title": "Rol əsaslı girişlər",
+        "description": "Baş ofis, filial menecerləri və resepsiya komandalarına təhlükəsizlikdən ödün vermədən lazım olan alətləri verin."
+      }
+    ],
+    "deepDiveTitle": "Ən vacib iş axınlarına daha dərindən baxın",
+    "deepDiveDescription": "asyncz müştəri səyahətinin hər addımını xəritələyir ki, heç nə diqqətdən yayınmasın.",
+    "analyticsHighlight": {
+      "title": "Real vaxt əməliyyat analitikası",
+      "description": "Xidmət markaları üçün hazırlanmış panellərlə istifadəni, no-show təsirini və resurs başına gəliri izləyin.",
+      "metrics": [
+        "Filial və əməkdaş performansının sürətli görünüşü",
+        "Ləğv səbəbləri və bərpa təklifləri",
+        "Marketinq kanalı üzrə konversiya tendensiyaları"
+      ]
+    },
+    "waitlistHighlight": {
+      "title": "AI gözləmə siyahısı boş yerləri doldurur",
+      "description": "asyncz seçimlərə, məsafəyə və xərcləmə tarixçəsinə əsaslanaraq dəvət ediləcək ən uyğun müştərini təklif edir.",
+      "metric": "Pilot filiallarda boş slotların orta hesabla 27% azalması."
+    },
+    "differentiatorTitle": "asyncz niyə standart rezervasiya alətlərindən üstündür",
+    "differentiatorDescription": "Sektora uyğun iş axınları çox filiallı komandaları sinxron saxlayır və spam trafiki ilə təkrarçı no-showları bloklayır.",
+    "differentiators": [
+      {
+        "title": "Enterprise səviyyəli qara siyahı qoruması",
+        "description": "Email, telefon və ödəniş nümunələrini təhlil edərək riskli rezervasiyaları dayandırın."
+      },
+      {
+        "title": "Hər rol üçün daxili analitika",
+        "description": "Komandalar ehtiyac duyduqları göstəriciləri cədvəllər arasında itirmədən görür."
+      },
+      {
+        "title": "İlk gündən API hazır",
+        "description": "Öz tətbiqlərinizi və partnyor platformalarını təhlükəsiz webhook və REST API-lərlə sinxronlaşdırın."
+      },
+      {
+        "title": "Lokallaşdırılmış təcrübələr",
+        "description": "Altı dildə məzmun, bildiriş və SEO optimallaşdırılmış səhifələr təqdim edin."
+      }
+    ],
+    "finalCtaTitle": "Hər görüşü asyncz ilə idarə etməyə hazırsınız?",
+    "finalCtaDescription": "Komandamız filiallarınızı, avtomatlaşdırmalarınızı və analitikanızı bir həftədən az müddətdə xəritələndirir.",
+    "finalPrimaryCta": "Strategiya sessiyası sifariş edin",
+    "finalSecondaryCta": "Müştəri hekayələrini oxuyun"
+  },
+  "contactPage": {
+    "pageTitle": "asyncz ilə əlaqə | Strategiya sessiyası təyin edin",
+    "metaDescription": "Demo, qiymət və ya dəstək üçün asyncz ilə əlaqə saxlayın. +1 (415) 555-0134 nömrəsinə zəng edin, info@asyncz.com ünvanına yazın və ya San-Fransiskodakı ofisimizi ziyarət edin.",
+    "keywords": [
+      "asyncz əlaqə",
+      "asyncz dəstək",
+      "asyncz telefon",
+      "asyncz email"
+    ],
+    "tagline": "Planlaşdırma üstünlüyünüzü birlikdə quraq",
+    "heroTitle": "asyncz komandası ilə əlaqə saxlayın",
+    "heroSubtitle": "Hədəflərinizi bölüşün, filiallar, komandalar və müştərilər üçün uyğun plan hazırlayaq.",
+    "formTitle": "Bizə mesaj göndərin",
+    "formSubtitle": "Necə kömək edə biləcəyimizi deyin, bir iş günü ərzində cavab verəcəyik.",
+    "form": {
+      "name": "Tam ad",
+      "namePlaceholder": "Nigar Məmmədova",
+      "email": "İş e-poçtu",
+      "emailPlaceholder": "nigar@sirketiniz.az",
+      "company": "Şirkət",
+      "companyPlaceholder": "Təşkilatınızın adı",
+      "phone": "Telefon (istəyə bağlı)",
+      "phonePlaceholder": "+994 50 123 45 67",
+      "topic": "Mövzu",
+      "topicPlaceholder": "Mövzu seçin",
+      "topics": [
+        "Məhsul demosu",
+        "Qiymət sualı",
+        "Onboarding dəstəyi",
+        "Partnyorluq imkanı",
+        "Mətbuat"
+      ],
+      "message": "Necə kömək edə bilərik?",
+      "messagePlaceholder": "Məzmunu, vaxt qrafikini və aktivləşdirmək istədiyiniz filialları paylaşın...",
+      "securityQuestion": "{a} + {b} nə qədərdir? (spam qoruması)",
+      "securityPlaceholder": "Cavabı daxil edin",
+      "submit": "Mesaj göndərin",
+      "success": "Təşəkkürlər! Bir iş günü ərzində geri dönəcəyik.",
+      "error": "Xəta baş verdi. Zəhmət olmasa yenidən cəhd edin."
+    },
+    "infoTitle": "Baş ofisimizə gəlin",
+    "hoursTitle": "Dəstək saatları (Sakit okean vaxtı)",
+    "supportTitle": "Dəstək və onboarding",
+    "supportDescription": "Hər asyncz planı yönləndirilən onboarding, avtomatlaşdırma yoxlamaları və əməliyyat kouçinqini əhatə edir.",
+    "supportItems": {
+      "enterprise": "Çox filiallı komandalar üçün tətbiq mütəxəssisləri",
+      "email": "24 saatdan az cavab müddətli xüsusi e-poçt",
+      "training": "Canlı təlimlər və sertifikat proqramları"
+    },
+    "days": {
+      "monday": "Bazar ertəsi",
+      "tuesday": "Çərşənbə axşamı",
+      "wednesday": "Çərşənbə",
+      "thursday": "Cümə axşamı",
+      "friday": "Cümə",
+      "saturday": "Şənbə",
+      "sunday": "Bazar"
+    }
+  },
+  "blog": {
+    "pageTitle": "asyncz Bloqu | AI planlaşdırma fikirləri",
+    "metaDescription": "AI planlaşdırması, avtomatlaşdırma axınları və çox filiallı analitika haqqında asyncz məqalələrini oxuyun.",
+    "keywords": [
+      "asyncz bloq",
+      "ai planlaşdırma",
+      "çox filiallı əməliyyat",
+      "asyncz avtomatlaşdırma"
+    ],
+    "tagline": "Müasir xidmət komandaları üçün məzmun",
+    "heroTitle": "Hər filial üçün planlaşdırma intellekti",
+    "heroSubtitle": "Etibarlı müştəri səyahətləri qurmaq istəyən əməliyyat liderləri üçün təlimatlar, çərçivələr və göstəricilər.",
+    "categories": [
+      "Məhsul",
+      "Əməliyyat",
+      "Böyümə"
+    ],
+    "allLabel": "Bütün mövzular",
+    "readMore": "Məqaləni oxu",
+    "emptyState": "Bu filtrə uyğun məqalə hələ yoxdur.",
+    "articleNotFoundTitle": "Məqalə tapılmadı",
+    "articleNotFoundDescription": "Bu yazı silinmiş ola bilər. Ən son materiallara baxın.",
+    "backToBlog": "Bloqa qayıdın",
+    "posts": [
+      {
+        "slug": "ai-scheduling-playbook",
+        "title": "Çox filiallı komandalar üçün AI planlaşdırma rəhbəri",
+        "excerpt": "Operasiyaları, avtomatlaşdırmanı və analitikanı hər yerdə uyğunlaşdırmaq üçün çərçivələr.",
+        "content": [
+          "Şəbəkəniz böyüdükcə əməliyyat mürəkkəbliyi artır. asyncz qaydaları mərkəzləşdirir ki, hər filial eyni playbook ilə işləsin.",
+          "Xidmətləri, əlçatanlıq qaydalarını və istisnaları xəritələndirin; asyncz onları bir dəfə tətbiq edib bütün filiallara ötürür.",
+          "İstifadə, tələbat və dar boğazları erkən görmək üçün analitikanı əlavə edin ki, müştəri təcrübəsi zərər görməsin."
+        ],
+        "category": "Məhsul",
+        "author": "Asyncz redaksiya komandası",
+        "published": "2025-09-10",
+        "readingTime": "6 dəqiqəlik oxu",
+        "tags": [
+          "ai planlaşdırma",
+          "oyun kitabçası",
+          "çox filial"
+        ]
+      },
+      {
+        "slug": "asyncz-automation-blueprint",
+        "title": "Avtomatlaşdırma planı: asyncz ilə no-show-ları azaldın",
+        "excerpt": "Təqvimləri doldurmaq və müştəriləri məsuliyyətli saxlamaq üçün addım-addım şablonlar.",
+        "content": [
+          "Təsdiq pəncərələrini, ödəniş qaydalarını və xatırlatma ritmlərini birləşdirərək no-show riskini minimuma endirin.",
+          "asyncz müştərilərin üstünlük verdiyi kanallar vasitəsilə WhatsApp, SMS və email mesajları göndərir.",
+          "Ən dəyərli görüşlər üçün eskalasiya yolları qurun və boşalan yerlər üçün gözləmə siyahısı dəvətlərini avtomatlaşdırın."
+        ],
+        "category": "Əməliyyat",
+        "author": "Asyncz Müştəri Uğuru",
+        "published": "2025-08-22",
+        "readingTime": "5 dəqiqəlik oxu",
+        "tags": [
+          "avtomatlaşdırma",
+          "no-show",
+          "müştəri təcrübəsi"
+        ]
+      },
+      {
+        "slug": "multi-branch-analytics-guide",
+        "title": "Çox filiallı operatorlar üçün analitika bələdçisi",
+        "excerpt": "asyncz müştəriləri istifadəni və gəlirliliyi artırmaq üçün hansı panel və göstəriciləri izləyir.",
+        "content": [
+          "Sadə sayımlardan kənara çıxaraq asyncz dönüşüm, saxlanma və yenidən rezervasiya trendlərini önə çıxarır.",
+          "Hər filialı istifadə, heyət səmərəliliyi və kanal performansı üzrə müqayisə edin.",
+          "Doğru müştəriləri doğru zamanda cəlb etmək üçün bu insights-ları marketinq və işə qəbul planlarınıza tətbiq edin."
+        ],
+        "category": "Böyümə",
+        "author": "Asyncz Data komandası",
+        "published": "2025-08-05",
+        "readingTime": "7 dəqiqəlik oxu",
+        "tags": [
+          "analitika",
+          "böyümə",
+          "panel"
+        ]
+      }
+    ]
+  }
+}

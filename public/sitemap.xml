@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://asyncz.com/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asyncz.com/en"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- How It Works -->
+  <url>
+    <loc>https://asyncz.com/en/how-it-works</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/how-it-works"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Features -->
+  <url>
+    <loc>https://asyncz.com/en/features</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/features"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/features"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/features"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/features"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/features"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/features"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/features"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/features"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/features"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/features"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/features"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/features"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/features"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/features"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Pricing -->
+  <url>
+    <loc>https://asyncz.com/en/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/pricing"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/pricing"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/pricing"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/pricing"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/pricing"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/pricing"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/pricing"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://asyncz.com/en/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/blog"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/blog"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/blog"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/blog"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/blog"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/blog"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/blog"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/blog"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/blog"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/blog"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/blog"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- About Us -->
+  <url>
+    <loc>https://asyncz.com/en/about-us</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/about-us"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/about-us"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/about-us"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/about-us"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/about-us"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/about-us"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/about-us"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/about-us"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/about-us"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/about-us"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/about-us"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/about-us"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/about-us"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/about-us"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- FAQ -->
+  <url>
+    <loc>https://asyncz.com/en/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/faq"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/faq"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/faq"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/faq"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/faq"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/faq"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/faq"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/faq"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/faq"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/faq"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/faq"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/faq"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://asyncz.com/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/contact"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/contact"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/contact"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Help Center -->
+  <url>
+    <loc>https://asyncz.com/en/help-center</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/help-center"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/help-center"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/help-center"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/help-center"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/help-center"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/help-center"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/help-center"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/help-center"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/help-center"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/help-center"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/help-center"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/help-center"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/help-center"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/help-center"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Video Tutorials -->
+  <url>
+    <loc>https://asyncz.com/en/video-tutorials</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/video-tutorials"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/video-tutorials"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog Post: AI Scheduling Playbook -->
+  <url>
+    <loc>https://asyncz.com/en/blog/ai-scheduling-playbook</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/blog/ai-scheduling-playbook"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/blog/ai-scheduling-playbook"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog Post: Asyncz Automation Blueprint -->
+  <url>
+    <loc>https://asyncz.com/en/blog/asyncz-automation-blueprint</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/blog/asyncz-automation-blueprint"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/blog/asyncz-automation-blueprint"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog Post: Multi-branch Analytics Guide -->
+  <url>
+    <loc>https://asyncz.com/en/blog/multi-branch-analytics-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/blog/multi-branch-analytics-guide"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/blog/multi-branch-analytics-guide"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://asyncz.com/en/privacy-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/privacy-policy"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Terms & Conditions -->
+  <url>
+    <loc>https://asyncz.com/en/terms-conditions</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/terms-conditions"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/terms-conditions"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Cookie Policy -->
+  <url>
+    <loc>https://asyncz.com/en/cookie-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asyncz.com/en/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://asyncz.com/az/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://asyncz.com/tr/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://asyncz.com/de/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asyncz.com/fr/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://asyncz.com/es/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://asyncz.com/pt/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://asyncz.com/ru/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://asyncz.com/uk/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://asyncz.com/zh/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://asyncz.com/ja/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://asyncz.com/ko/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asyncz.com/ar/cookie-policy"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://asyncz.com/cs/cookie-policy"/>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

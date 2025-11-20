@@ -1,0 +1,556 @@
+{
+  "common": {
+    "asyncz": "asyncz",
+    "loading": "로딩 중...",
+    "error": "오류",
+    "success": "성공",
+    "cancel": "취소",
+    "save": "저장",
+    "delete": "삭제",
+    "edit": "편집",
+    "close": "닫기",
+    "back": "뒤로",
+    "next": "다음",
+    "previous": "이전",
+    "submit": "제출",
+    "search": "검색",
+    "filter": "필터",
+    "clear": "초기화",
+    "all": "전체",
+    "yes": "예",
+    "no": "아니요"
+  },
+  "navigation": {
+    "home": "홈",
+    "pricing": "요금제",
+    "features": "기능",
+    "aboutUs": "회사 소개",
+    "howItWorks": "사용 방법",
+    "faq": "FAQ",
+    "contact": "문의하기",
+    "language": "언어",
+    "signIn": "지금 시작하기",
+    "blog": "블로그"
+  },
+  "hero": {
+    "title": "지금 Pro 평생 이용권을 확보하세요",
+    "titleHighlight": "우리가 새로울 때가 기회입니다!",
+    "description": "AI 기반 asyncz는 차세대 스케줄링 플랫폼입니다. 초기 사용자로 합류하면 Pro 패키지를 평생 무료로 이용할 수 있습니다. 팀과 비즈니스의 생산성을 제한 없이 끌어올리세요.",
+    "startFreeTrial": "평생 Pro 지금 받기",
+    "exploreFeatures": "기능 살펴보기",
+    "learnAboutUs": "asyncz 알아보기 →"
+  },
+  "trustedBy": {
+    "title": "신뢰받는 파트너",
+    "count": " ",
+    "subtitle": "미래지향적인 팀"
+  },
+  "pricing": {
+    "title": "나에게 맞는 요금제를 선택하세요",
+    "description": "🚀 얼리버드 혜택: 우리는 이제 막 출시되어 공식 요금이 없습니다! 지금 평생 무료 Pro 계정을 확보하세요. 선착순 한정 혜택입니다.",
+    "monthly": "월간",
+    "yearly": "연간",
+    "savePercent": "(약 17% 할인)",
+    "mostPopular": "가장 인기",
+    "getStarted": "시작하기",
+    "startFreeTrial": "무료 체험 시작",
+    "contactSales": "영업팀 문의",
+    "bookDemo": "데모 예약",
+    "viewFullPricing": "전체 요금 보기",
+    "needHelpChoosing": "선택이 어려우신가요?",
+    "demoDescription": "asyncz를 직접 확인하고 비즈니스에 맞는 요금제를 찾을 수 있도록 맞춤 데모를 예약하세요.",
+    "studentPlan": "학생 플랜",
+    "studentDescription": "Pro 기능을 무료로 제공! asyncz는 학생에게 전문적인 스케줄링 도구를 지원합니다.",
+    "contactToGetStarted": "시작하려면 문의하세요",
+    "plans": {
+      "free": {
+        "name": "무료",
+        "description": "개인에게 적합"
+      },
+      "starter": {
+        "name": "스타터",
+        "description": "소규모 팀용"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "성장하는 기업용"
+      },
+      "enterprise": {
+        "name": "프리미엄",
+        "description": "대규모 조직용"
+      }
+    }
+  },
+  "features": {
+    "title": "asyncz를 선택해야 하는 이유",
+    "titleHighlight": "asyncz",
+    "subtitle": "현대적인 팀을 위한 asyncz의 강력한 기능을 확인하세요",
+    "exploreAllFeatures": "모든 기능 보기",
+    "smartCalendar": {
+      "title": "스마트 캘린더 관리",
+      "description": "일·주·월 보기로 다양한 전문가와 지점을 손쉽게 관리하세요."
+    },
+    "multiBranch": {
+      "title": "다지점 관리",
+      "description": "여러 지점을 손쉽게 운영하고 전문가를 배정해 모든 스케줄을 조율하세요."
+    },
+    "analytics": {
+      "title": "고급 분석",
+      "description": "인사이트와 리포트를 제공하는 대시보드로 운영을 최적화하세요."
+    },
+    "blacklistProtection": {
+      "title": "스마트 블랙리스트 보호",
+      "description": "이메일과 전화 패턴을 기반으로 문제 고객을 자동 차단해 서비스 품질을 지킵니다."
+    },
+    "customBranding": {
+      "title": "맞춤형 브랜딩",
+      "description": "이메일 알림을 브랜드 로고와 색상으로 꾸며 전문적인 경험을 제공합니다."
+    },
+    "domainIntegration": {
+      "title": "도메인 통합",
+      "description": "예약 흐름을 자체 도메인에 바로 연결해 브랜드 일관성을 유지하세요."
+    }
+  },
+  "footer": {
+    "logoAlt": "asyncz 로고",
+    "companyDescription": "지능형 스케줄링 솔루션으로 생산성을 높이고 운영을 단순화합니다.",
+    "sections": [
+      {
+        "title": "제품",
+        "links": [
+          {
+            "name": "사용 방법",
+            "href": "/how-it-works"
+          },
+          {
+            "name": "기능",
+            "action": "scrollToFeatures"
+          },
+          {
+            "name": "요금제",
+            "href": "/pricing"
+          },
+          {
+            "name": "무료로 체험하기",
+            "href": "https://app.asyncz.com/"
+          },
+          {
+            "name": "API 문서",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "회사",
+        "links": [
+          {
+            "name": "회사 소개",
+            "href": "/about-us"
+          },
+          {
+            "name": "고객 후기",
+            "action": "scrollToTestimonials"
+          },
+          {
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "name": "문의하기",
+            "action": "scrollToContact"
+          }
+        ]
+      },
+      {
+        "title": "지원",
+        "links": [
+          {
+            "name": "헬프센터",
+            "href": "/help-center"
+          },
+          {
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "name": "개인정보처리방침",
+            "href": "/privacy-policy"
+          },
+          {
+            "name": "이용약관",
+            "href": "/terms-conditions"
+          },
+          {
+            "name": "쿠키 정책",
+            "href": "/cookie-policy"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "Facebook",
+        "href": "https://www.facebook.com/asynczcom",
+        "label": "Facebook"
+      },
+      {
+        "icon": "Instagram",
+        "href": "https://www.instagram.com/asynczcom",
+        "label": "X"
+      },
+      {
+        "icon": "Linkedin",
+        "href": "https://www.linkedin.com/company/asynczcom/",
+        "label": "LinkedIn"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 asyncz by",
+      "deviofy": {
+        "name": "Deviofy",
+        "href": "https://deviofy.com"
+      },
+      "allRightsReserved": " 모든 권리 보유."
+    },
+    "bottomLinks": {
+      "privacyPolicy": {
+        "name": "개인정보처리방침",
+        "href": "/privacy-policy"
+      },
+      "termsOfService": {
+        "name": "이용약관",
+        "href": "/terms-conditions"
+      },
+      "cookiePolicy": {
+        "name": "쿠키 정책",
+        "href": "/cookie-policy"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": "문의하기",
+    "sectionDescription": "질문이 있으신가요? asyncz 시작을 도와드리겠습니다",
+    "infoTitle": "연락처 정보",
+    "phoneTitle": "전화",
+    "emailTitle": "이메일",
+    "addressTitle": "주소",
+    "fields": {
+      "name": "이름",
+      "namePlaceholder": "홍길동",
+      "email": "이메일",
+      "emailPlaceholder": "your.email@example.com",
+      "subject": "제목",
+      "subjectPlaceholder": "어떻게 도와드릴까요?",
+      "message": "메시지",
+      "messagePlaceholder": "필요한 내용을 자세히 알려주세요..."
+    },
+    "sendMessage": "메시지 보내기",
+    "sending": "보내는 중...",
+    "validationError": "모든 항목을 입력하세요",
+    "thankYou": "메시지를 보내주셔서 감사합니다! 곧 연락드리겠습니다.",
+    "error": "메시지를 보내지 못했습니다. 다시 시도해 주세요.",
+    "goToContactPage": "문의 페이지로 이동"
+  },
+  "capabilities": {
+    "sectionTitlePart1": "하나의 플랫폼으로",
+    "sectionTitlePart2": "무한한 역량을",
+    "sectionDescription": "asyncz를 스케줄링 컨트롤 센터로 만들어 주는 종합 도구 모음을 확인하세요",
+    "smartCalendar": {
+      "title": "스마트 캘린더 관리",
+      "description": "지능형 스케줄링, 드래그 앤 드롭 예약, 다양한 뷰로 새로운 캘린더 경험을 제공",
+      "features": [
+        "일·주·월 보기 제공",
+        "드래그 앤 드롭으로 예약 관리",
+        "여러 전문가 일정 동시 조율"
+      ]
+    },
+    "analytics": {
+      "title": "고급 인사이트",
+      "description": "데이터를 실행 가능한 인사이트로 전환하여 트렌드를 파악하고 성과를 최적화하며 성장을 촉진합니다.",
+      "features": [
+        "실시간 성과 지표",
+        "고객 참여 분석",
+        "매출 최적화 인사이트"
+      ]
+    },
+    "collaboration": {
+      "title": "원활한 팀 협업",
+      "description": "강력한 협업 도구로 소통을 간소화하고, 일정을 조율하며, 모든 구성원을 동일한 흐름에 맞춰 유지합니다.",
+      "features": [
+        "역할 기반 접근 제어",
+        "다지점 통합 관리",
+        "실시간 알림"
+      ]
+    }
+  },
+  "testimonials": {
+    "sectionTitlePart1": "고객이 말하는",
+    "sectionTitlePart2": "asyncz",
+    "sectionSubtitle": "asyncz로 스케줄링을 혁신하는 수천 개 기업과 함께하세요",
+    "list": [
+      {
+        "name": "Elena Gilbert",
+        "position": "프로젝트 코디네이터",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b332c38c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "asyncz 덕분에 팀의 업무 흐름이 완전히 달라졌습니다. 매끄러운 스케줄링과 폭넓은 데이터 분석으로 생산성이 크게 향상되었습니다."
+      },
+      {
+        "name": "Michael Smith",
+        "position": "운영 관리자",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "대시보드에서 얻는 인사이트가 놀랍습니다. 노쇼를 40% 줄이고 효율성을 크게 높였습니다."
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "HealthCare Plus CEO",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&h=100",
+        "comment": "asyncz 이전에는 여러 지점을 관리하기가 악몽이었습니다. 지금은 모든 것이 중앙에서 관리되고, 협업이 그 어느 때보다 원활합니다."
+      }
+    ],
+    "ctaTitle": "스케줄링을 혁신할 준비가 되셨나요?",
+    "ctaDescription": "이미 1,000개 이상의 기업이 asyncz를 사용 중입니다",
+    "ctaButton": "28일 무료 체험 시작"
+  },
+  "locationSpotlight": {
+    "tagline": "현지 전문성",
+    "title": "asyncz는 전 세계 팀을 지원합니다",
+    "description": "현지화된 예약 경험, AI 라우팅, 지역별 자동화로 지점 간 일관성을 유지하세요.",
+    "ctaLabel": "asyncz가 글로벌 팀을 지원하는 방법 보기",
+    "ctaHref": "/contact",
+    "highlights": [
+      {
+        "icon": "map",
+        "title": "지역 규정을 준수하는 스케줄링",
+        "description": "캘린더를 복제하지 않고도 도시·주별 휴무, 세금, 전문가 규칙을 적용합니다."
+      },
+      {
+        "icon": "users",
+        "title": "이중 언어 프런트 지원",
+        "description": "영어와 스페인어 온보딩 전문가가 모든 프런트 데스크를 자신감 있게 지원합니다."
+      }
+    ]
+  },
+  "notFound": {
+    "tagline": "빈 시간대를 발견했습니다",
+    "title": "이 페이지는 스케줄에서 제외되었습니다",
+    "subtitle": "해당 링크는 더 이상 존재하지 않습니다. asyncz 리소스를 살펴보고 다음 단계를 찾으세요.",
+    "primaryCta": "홈으로 돌아가기",
+    "secondaryCta": "지원팀에 문의",
+    "linkDescription": "{section}에 대해 더 알아보기",
+    "explore": "살펴보기"
+  },
+  "featuresPage": {
+    "pageTitle": "기능 - asyncz | AI 스케줄링 워크플로",
+    "metaDescription": "asyncz의 기능을 확인하세요. 다지점 오케스트레이션, 블랙리스트 보호, 분석 대시보드, AI 대기자 관리 등을 제공합니다.",
+    "keywords": [
+      "asyncz 기능",
+      "AI 스케줄링",
+      "대기자 자동화",
+      "다지점 캘린더",
+      "asyncz 분석"
+    ],
+    "tagline": "제품 둘러보기",
+    "heroTitle": "모든 예약 흐름을 하나로 오케스트레이션",
+    "heroSubtitle": "asyncz는 예약, 라우팅, 알림, 인사이트를 통합하여 모든 지점에서 일관된 서비스를 제공합니다.",
+    "primaryCta": "요금제 비교",
+    "secondaryCta": "영업팀과 상담",
+    "coreTitle": "지점 성장과 함께 확장되는 핵심 기능",
+    "coreDescription": "스마트 캘린더부터 브랜드 커뮤니케이션까지, asyncz는 복잡한 운영을 추가 인력 없이도 간소화합니다.",
+    "deepDives": [
+      {
+        "title": "다지점 수요 계획",
+        "description": "스마트 가용 시간대, 버퍼 규칙, 인력 한도로 지점별 수요를 균형 있게 조정합니다."
+      },
+      {
+        "title": "자동화된 커뮤니케이션",
+        "description": "WhatsApp, SMS, 이메일로 확인·리마인더·후속 메시지를 자동 발송해 수동 업무를 없앱니다."
+      },
+      {
+        "title": "역할 기반 접근 제어",
+        "description": "본사, 지점장, 프런트 팀에게 필요한 도구를 제공하면서 보안을 유지합니다."
+      }
+    ],
+    "deepDiveTitle": "핵심 워크플로 깊이 보기",
+    "deepDiveDescription": "asyncz는 고객 여정의 모든 단계를 맵핑해 초기 접점부터 재방문까지 놓치지 않습니다.",
+    "analyticsHighlight": {
+      "title": "실시간 운영 분석",
+      "description": "서비스 브랜드에 최적화된 대시보드로 이용률, 노쇼 영향, 좌석당 매출을 추적하세요.",
+      "metrics": [
+        "지점·전문가별 성과 스냅샷",
+        "취소 사유와 회복 전략",
+        "마케팅 채널 기여도와 전환 추세"
+      ]
+    },
+    "waitlistHighlight": {
+      "title": "빈자리를 채우는 AI 대기자",
+      "description": "선호도, 이동 시간, 소비 이력을 분석해 최적의 고객을 추천하여 모든 슬롯을 보호합니다.",
+      "metric": "파일럿 지점에서 평균 27%의 빈 슬롯 감소."
+    },
+    "differentiatorTitle": "asyncz가 일반 예약 도구와 다른 점",
+    "differentiatorDescription": "다지점 팀을 위한 맞춤 워크플로로 협업을 유지하고 노쇼와 스팸을 방지합니다.",
+    "differentiators": [
+      {
+        "title": "엔터프라이즈 수준의 블랙리스트 보호",
+        "description": "이메일, 전화, 결제 패턴을 감지해 반복 노쇼를 차단합니다."
+      },
+      {
+        "title": "역할별 내장형 분석",
+        "description": "스프레드시트 없이도 각 구성원이 필요한 인사이트를 제공합니다."
+      },
+      {
+        "title": "첫날부터 활용 가능한 API",
+        "description": "보안 웹훅과 REST API로 자체 앱과 파트너 마켓플레이스에 가용 시간을 동기화하세요."
+      },
+      {
+        "title": "현지화된 경험",
+        "description": "6개 언어로 콘텐츠, 알림, SEO 페이지를 제공하여 지역 고객을 지원합니다."
+      }
+    ],
+    "finalCtaTitle": "asyncz로 모든 예약을 오케스트레이션할 준비가 되셨나요?",
+    "finalCtaDescription": "우리 팀이 일주일 이내에 지점, 자동화, 분석 설계를 완료해 드립니다.",
+    "finalPrimaryCta": "전략 세션 예약",
+    "finalSecondaryCta": "고객 사례 보기"
+  },
+  "contactPage": {
+    "pageTitle": "asyncz 문의 | 전략 세션 예약",
+    "metaDescription": "asyncz 데모, 요금, 지원 문의는 +1 (415) 555-0134로 전화하거나 info@asyncz.com으로 이메일을 보내세요. 또는 샌프란시스코 본사를 방문하실 수 있습니다.",
+    "keywords": [
+      "asyncz 문의",
+      "asyncz 지원",
+      "asyncz 전화",
+      "asyncz 이메일"
+    ],
+    "tagline": "스케줄링 경쟁력을 설계하세요",
+    "heroTitle": "asyncz 팀과 연결하기",
+    "heroSubtitle": "목표를 공유해 주시면 지점, 인력, 고객을 위한 도입 계획을 설계해 드립니다.",
+    "formTitle": "메시지 보내기",
+    "formSubtitle": "필요 사항을 알려 주시면 영업일 기준 1일 이내에 답변드립니다.",
+    "form": {
+      "name": "이름",
+      "namePlaceholder": "김민수",
+      "email": "업무용 이메일",
+      "emailPlaceholder": "minsu@company.com",
+      "company": "회사",
+      "companyPlaceholder": "조직명",
+      "phone": "전화번호 (선택)",
+      "phonePlaceholder": "+82 2 1234 5678",
+      "topic": "주제",
+      "topicPlaceholder": "주제를 선택하세요",
+      "topics": [
+        "제품 데모",
+        "요금 문의",
+        "온보딩 지원",
+        "파트너십 제안",
+        "언론 문의"
+      ],
+      "message": "어떻게 도와드릴까요?",
+      "messagePlaceholder": "배경, 일정, 활성화하려는 지점을 공유해 주세요...",
+      "securityQuestion": "{a} + {b}는 얼마인가요? (스팸 방지)",
+      "securityPlaceholder": "답변 입력",
+      "submit": "메시지 보내기",
+      "success": "감사합니다! 영업일 기준 1일 이내에 답변드리겠습니다.",
+      "error": "문제가 발생했습니다. 다시 시도해 주세요."
+    },
+    "infoTitle": "본사 방문 안내",
+    "hoursTitle": "지원 시간 (태평양 표준시)",
+    "supportTitle": "지원 및 온보딩",
+    "supportDescription": "모든 asyncz 플랜에는 가이드 온보딩, 자동화 점검, 운영 코칭이 포함되어 있습니다.",
+    "supportItems": {
+      "enterprise": "다지점 팀을 위한 롤아웃 전문가",
+      "email": "24시간 이내 응답 보장 전용 이메일",
+      "training": "라이브 교육 및 인증 프로그램"
+    },
+    "days": {
+      "monday": "월요일",
+      "tuesday": "화요일",
+      "wednesday": "수요일",
+      "thursday": "목요일",
+      "friday": "금요일",
+      "saturday": "토요일",
+      "sunday": "일요일"
+    }
+  },
+  "blog": {
+    "pageTitle": "asyncz 블로그 | AI 스케줄링 인사이트",
+    "metaDescription": "AI 스케줄링, 자동화 워크플로, 다지점 분석에 대한 asyncz의 인사이트를 만나보세요.",
+    "keywords": [
+      "asyncz 블로그",
+      "AI 스케줄링 팁",
+      "다지점 운영",
+      "asyncz 자동화"
+    ],
+    "tagline": "현대 서비스 팀을 위한 인사이트",
+    "heroTitle": "모든 지점을 위한 스케줄링 인텔리전스",
+    "heroSubtitle": "신뢰할 수 있는 고객 여정을 구축하는 운영 리더를 위한 플레이북, 프레임워크, 벤치마크.",
+    "categories": [
+      "제품",
+      "운영",
+      "성장"
+    ],
+    "allLabel": "전체 보기",
+    "readMore": "기사 읽기",
+    "emptyState": "해당 조건의 기사가 아직 없습니다.",
+    "articleNotFoundTitle": "기사를 찾을 수 없습니다",
+    "articleNotFoundDescription": "게시물이 삭제되었을 수 있습니다. 최신 글을 확인하세요.",
+    "backToBlog": "블로그로 돌아가기",
+    "posts": [
+      {
+        "slug": "ai-scheduling-playbook",
+        "title": "AI 스케줄링 플레이북: 다지점 팀 전략",
+        "excerpt": "모든 지점에서 운영, 자동화, 분석을 맞추는 프레임워크.",
+        "content": [
+          "브랜드가 확장될수록 운영 복잡성이 빠르게 증가합니다. asyncz는 규칙을 중앙에서 관리해 모든 지점이 검증된 플레이북을 따르도록 돕습니다.",
+          "서비스, 가용성 규칙, 예외 사항을 먼저 정의하세요. asyncz 규칙 엔진은 한 번 설정으로 전 지점에 적용됩니다.",
+          "분석 계층을 추가해 고객 경험에 영향을 주기 전에 이용률, 수요, 병목을 경영진이 파악할 수 있도록 합니다."
+        ],
+        "category": "제품",
+        "author": "asyncz 콘텐츠 팀",
+        "published": "2025-09-10",
+        "readingTime": "읽는 시간 6분",
+        "tags": [
+          "AI 스케줄링",
+          "플레이북",
+          "다지점"
+        ]
+      },
+      {
+        "slug": "asyncz-automation-blueprint",
+        "title": "자동화 블루프린트: asyncz로 노쇼 줄이기",
+        "excerpt": "일정을 가득 채우고 고객을 유지하는 단계별 템플릿.",
+        "content": [
+          "확인 시간, 결제 규칙, 알림 주기를 결합하면 추가 업무 없이도 노쇼를 크게 줄일 수 있습니다.",
+          "asyncz는 WhatsApp, SMS, 이메일을 연결해 고객이 선호하는 채널로 알림을 전달합니다.",
+          "높은 가치의 예약에는 단계별 에스컬레이션을 적용하고, 빈 슬롯이 생기면 대기자에게 자동으로 초대를 보냅니다."
+        ],
+        "category": "운영",
+        "author": "asyncz 고객 성공팀",
+        "published": "2025-08-22",
+        "readingTime": "읽는 시간 5분",
+        "tags": [
+          "자동화",
+          "노쇼",
+          "고객 경험"
+        ]
+      },
+      {
+        "slug": "multi-branch-analytics-guide",
+        "title": "다지점 운영자를 위한 분석 가이드",
+        "excerpt": "asyncz 고객이 이용률과 매출을 높이기 위해 활용하는 대시보드와 지표.",
+        "content": [
+          "기본 지표를 넘어 asyncz는 전환율, 유지율, 재예약 트렌드를 강조해 매출을 예측합니다.",
+          "지점별 이용률, 인력 효율, 채널 성과를 비교해 교육 우선순위를 정하세요.",
+          "이 통찰을 마케팅과 채용 계획에 반영해 적시에 이상적인 고객을 확보하세요."
+        ],
+        "category": "성장",
+        "author": "asyncz 데이터 팀",
+        "published": "2025-08-05",
+        "readingTime": "읽는 시간 7분",
+        "tags": [
+          "분석",
+          "성장",
+          "대시보드"
+        ]
+      }
+    ]
+  }
+}

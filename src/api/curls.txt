@@ -1,0 +1,17 @@
+curl --location 'localhost:5000/api/bookings/confirm_payment' \
+--header 'Cookie: _ga=GA1.1.870351535.1745425702; Idea-2be35625=95ae5618-68a4-473c-a2ad-544eae951d2c; access_token_cookie=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc0ODYwMDI3MiwianRpIjoiMDNiNjY5ZmYtZDQyMC00ODFlLTgyYzQtOWM2MDEwYzFiODU2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjUiLCJuYmYiOjE3NDg2MDAyNzIsImNzcmYiOiI1NzI1NTg3My02ZGJiLTQ5MjMtYTAzMi1jODRmYWZiNWEzOWQiLCJleHAiOjE3NDg2MDM4NzJ9.cHw426iJBcWh1hLp0Q_4is3DiIEnz2EV8u4mtR7DdSI; csrf_access_token=57255873-6dbb-4923-a032-c84fafb5a39d; session=eyJ1c2VyX2lkIjo1fQ.aDmF0A.xNllOiKazcwt4vSbb-nCNPxCvrw; _ga_2STZM3FZGW=GS2.1.s1748599738$o23$g1$t1748600277$j48$l0$h0' \
+--header 'x-csrf-token: 57255873-6dbb-4923-a032-c84fafb5a39d' \
+--header 'Content-Type: application/json' \
+--data '{
+    "booking_id": "20",
+    "user_id": "5"
+}'
+
+curl --location 'localhost:5000/api/bookings/payment_failed' \
+--header 'Cookie: _ga=GA1.1.870351535.1745425702; Idea-2be35625=95ae5618-68a4-473c-a2ad-544eae951d2c; access_token_cookie=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc0ODYwMDI3MiwianRpIjoiMDNiNjY5ZmYtZDQyMC00ODFlLTgyYzQtOWM2MDEwYzFiODU2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjUiLCJuYmYiOjE3NDg2MDAyNzIsImNzcmYiOiI1NzI1NTg3My02ZGJiLTQ5MjMtYTAzMi1jODRmYWZiNWEzOWQiLCJleHAiOjE3NDg2MDM4NzJ9.cHw426iJBcWh1hLp0Q_4is3DiIEnz2EV8u4mtR7DdSI; csrf_access_token=57255873-6dbb-4923-a032-c84fafb5a39d; session=eyJ1c2VyX2lkIjo1fQ.aDmF0A.xNllOiKazcwt4vSbb-nCNPxCvrw; _ga_2STZM3FZGW=GS2.1.s1748599738$o23$g1$t1748600277$j48$l0$h0' \
+--header 'x-csrf-token: 57255873-6dbb-4923-a032-c84fafb5a39d' \
+--header 'Content-Type: application/json' \
+--data '{
+    "booking_id": "20",
+    "user_id": "5"
+}'
