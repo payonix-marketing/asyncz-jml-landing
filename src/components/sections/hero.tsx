@@ -9,15 +9,18 @@ export function Hero() {
   const { t, language } = useLanguage();
   const aboutUsPath = getLocalizedPath(language, "/about-us");
   const featuresPath = getLocalizedPath(language, "/features");
+  
   const textParallax = useParallax(0.3);
-  const imageParallax = useParallax(0.5);
   const bgParallax = useParallax(0.1);
-  const scaleParallax = useParallaxScale(1, 0.0002);
-  const scrollToSection = (sectionId: string) => {
-    const element = document.getElementById(sectionId);
-    if (element) {
-      element.scrollIntoView({ behavior: "smooth" });
-    }
+  
+  // Hooks for the combined parallax effect on the image
+  const { transform: imageTransform, elementRef: imageTranslateRef } = useParallax(0.5);
+  const { scale: imageScale, elementRef: imageScaleRef } = useParallaxScale(1, 0.0002);
+
+  // Callback ref to assign the same DOM node to both parallax hooks
+  const imageRef = (node: HTMLDivElement | null) => {
+    (imageTranslateRef as React.MutableRefObject<HTMLDivElement | null>).current = node;
+    (imageScaleRef as React.MutableRefObject<HTMLDivElement | null>).current = node;
   };
 
   return (
@@ -69,6 +72,8 @@ export function Hero() {
                       }}
                       width="40"
                       height="408"
+                      loading="lazy"
+                      decoding="async"
                   />
                 {t('hero.titleHighlight')}
               </span>
@@ -108,9 +113,9 @@ export function Hero() {
               <div
                   className="animate-float parallax-image"
                   style={{
-                      transform: `${imageParallax.transform} scale(${scaleParallax.scale})`
+                      transform: `${imageTransform} scale(${imageScale})`
                   }}
-                  ref={imageParallax.elementRef}
+                  ref={imageRef}
               >
                   <YouTubeEmbed 
                     videoId="oi-RQ1oNvuo" 
