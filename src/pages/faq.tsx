@@ -30,9 +30,7 @@ export default function FAQ() {
         "asyncz support",
         "asyncz knowledge base"
       ],
-      structuredData: [organizationSchema, generateFaqSchema(categories)].filter(
-        (item): item is StructuredData => item !== null
-      ),
+      structuredData: [organizationSchema, generateFaqSchema(categories)].filter(Boolean) as StructuredData[],
     }),
     [t, categories]
   );

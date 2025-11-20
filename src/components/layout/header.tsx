@@ -42,7 +42,7 @@ export function Header() {
             {/* Logo */}
             <div className="flex items-center space-x-2 flex-shrink-0">
               <Link to={buildPath("/")} className="flex items-center space-x-2">
-                <img src={logo} alt="asyncz logo" className="w-[8rem]" style={{ marginBottom: '12px' }} loading="lazy" />
+                <img src={logo} alt="asyncz logo" className="w-[8rem]" style={{ marginBottom: '12px' }} />
                 <span className="font-serif text-2xl font-bold text-primary dark:text-primary"></span>
               </Link>
             </div>

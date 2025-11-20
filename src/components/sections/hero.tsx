@@ -57,7 +57,6 @@ export function Hero() {
                   <img
                       src={ai}
                       alt="asyncz AI scheduling illustration"
-                      loading="lazy"
                       className="absolute"
                       style={{
                         top: 0,
@@ -137,6 +136,7 @@ export function Hero() {
                   ref={imageParallax.elementRef}
               >
                   <iframe
+                      loading="lazy"
                       className="rounded-2xl shadow-2xl w-full h-64 sm:h-80 md:h-96"
                       src="https://www.youtube.com/embed/oi-RQ1oNvuo"
                       title="How asyncz works - Demo 2025: Next-Gen AI Scheduling for Modern Businesses"
