@@ -62,16 +62,21 @@
     </script>
     <!-- Google Identity Services -->
     <script src="https://accounts.google.com/gsi/client" async defer></script>
+    
+    <!-- Zoho SalesIQ -->
     <script>
       window.$zoho = window.$zoho || {};
       $zoho.salesiq = $zoho.salesiq || { ready: function () {} };
     </script>
     <script
       id="zsiqscript"
-      data-src="https://salesiq.zohopublic.com/widget?wc=siqafdead65e35008e03490f3412bce59539f1edea69263f5d59f8a22554084604c6a5a55c8fcf72ae10c5dded535d296fa"
+      src="https://salesiq.zohopublic.com/widget?wc=siqafdead65e35008e03490f3412bce59539f1edea69263f5d59f8a22554084604c6a5a55c8fcf72ae10c5dded535d296fa"
       defer
     ></script>
-    <script src="https://cdn.pagesense.io/js/899996274/13fb97eb39cf404ca8ad3122eab8cd9d.js"></script>
+    
+    <!-- PageSense (temporarily commented out for debugging) -->
+    <!-- <script src="https://cdn.pagesense.io/js/899996274/13fb97eb39cf404ca8ad3122eab8cd9d.js"></script> -->
+
     <!-- Google Tag Manager (noscript) -->
     <noscript
       ><iframe
@@ -82,26 +87,5 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
-
-    <!-- NEW SCRIPT to delay loading the Zoho widget -->
-    <script>
-      function loadZohoSalesIQ() {
-        const zohoScript = document.getElementById("zsiqscript");
-        // Only load the script if it hasn't been loaded already
-        if (zohoScript && !zohoScript.src) {
-          zohoScript.src = zohoScript.dataset.src;
-          // Remove the event listeners after the script is loaded
-          window.removeEventListener("scroll", loadZohoSalesIQ);
-          window.removeEventListener("mousemove", loadZohoSalesIQ);
-          window.removeEventListener("touchstart", loadZohoSalesIQ);
-          console.log("Zoho SalesIQ script loaded on user interaction.");
-        }
-      }
-
-      // Add event listeners for the first user interaction
-      window.addEventListener("scroll", loadZohoSalesIQ, { once: true });
-      window.addEventListener("mousemove", loadZohoSalesIQ, { once: true });
-      window.addEventListener("touchstart", loadZohoSalesIQ, { once: true });
-    </script>
   </body>
 </html>
