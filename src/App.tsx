@@ -21,6 +21,7 @@ import FeaturesPage from "src/pages/features";
 import ContactPage from "src/pages/contact";
 import BlogPage from "src/pages/blog";
 import BlogArticlePage from "src/pages/blog-article";
+import AlternativePage from "src/pages/alternative";
 import { useEffect } from "react";
 import { createAnalyticsLog } from "./api/api";
 import Clarity from "@microsoft/clarity";
@@ -39,6 +40,7 @@ function Router() {
       <Route path="/:lang/contact" component={ContactPage} />
       <Route path="/:lang/blog" component={BlogPage} />
       <Route path="/:lang/blog/:slug" component={BlogArticlePage} />
+      <Route path="/:lang/alternative/:competitor" component={AlternativePage} />
       <Route path="/:lang/privacy-policy" component={PrivacyPolicy} />
       <Route path="/:lang/terms-conditions" component={TermsConditions} />
       <Route path="/:lang/cookie-policy" component={CookiePolicy} />

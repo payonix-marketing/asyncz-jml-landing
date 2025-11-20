@@ -825,52 +825,7 @@
         "readTime": "15 min read",
         "popular": false
       }
-    ],
-    "aboutAsyncz": {
-      "title": "About asyncz",
-      "description": "asyncz is a product developed and operated by Deviofy, a technology company specializing in business automation and scheduling solutions.",
-      "product": {
-        "label": "Product",
-        "value": "asyncz Scheduling Platform"
-      },
-      "developer": {
-        "label": "Developer",
-        "value": "Deviofy"
-      },
-      "location": {
-        "label": "Location",
-        "value": "IFZA Business Park, Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, United Arab Emirates"
-      }
-    },
-    "contactSupport": {
-      "title": "Still Need Help?",
-      "description": "Can't find what you're looking for? Our support team is here to help you succeed.",
-      "supportOptions": [
-        {
-          "icon": "MessageCircle",
-          "iconColor": "text-green-500",
-          "title": "Live Chat",
-          "description": "Get instant help from our support team",
-          "availability": "Available for Premium customers"
-        },
-        {
-          "icon": "FileText",
-          "iconColor": "text-blue-500",
-          "title": "Submit a Ticket",
-          "description": "Send us your question and we'll respond within 24 hours",
-          "availability": "info@asyncz.com"
-        },
-        {
-          "icon": "Video",
-          "iconColor": "text-purple-500",
-          "title": "Schedule a Demo",
-          "description": "Get personalized training from our experts",
-          "availability": "Enterprise customers only"
-        }
-      ],
-      "contactSupportButton": "Contact Support",
-      "browseFaqButton": "Browse FAQ"
-    }
+    ]
   },
   "howItWorks": {
     "pageTitle": "How It Works - asyncz | Simple Scheduling for Every Business",
@@ -2087,5 +2042,107 @@
         "tags": ["analytics", "growth", "dashboards"]
       }
     ]
+  },
+  "alternatives": {
+    "calendly": {
+      "name": "Calendly",
+      "seo": {
+        "title": "A Better Calendly Alternative for Teams | asyncz",
+        "description": "Tired of Calendly's limitations for team scheduling? Discover why asyncz is the superior alternative for multi-branch management, advanced analytics, and true team collaboration.",
+        "keywords": ["calendly alternative", "scheduling software for teams", "asyncz vs calendly"]
+      },
+      "hero": {
+        "title": "Looking for a {competitor} Alternative Built for Teams?",
+        "subtitle": "While {competitor} is great for individuals, asyncz is designed from the ground up for multi-branch teams that need powerful coordination, analytics, and automation.",
+        "cta": "See Why Teams Switch to asyncz"
+      },
+      "painPointsTitle": "Tired of Juggling {competitor} for Your Team?",
+      "painPoints": [
+        {
+          "title": "Complex Team Pricing",
+          "description": "Calendly's per-user pricing gets expensive fast as your team grows, making it costly to scale."
+        },
+        {
+          "title": "No Multi-Branch View",
+          "description": "Managing schedules across different locations or departments requires messy workarounds and separate accounts."
+        },
+        {
+          "title": "Limited Analytics",
+          "description": "Basic reporting makes it difficult to track team performance, resource utilization, and business KPIs."
+        }
+      ],
+      "comparison": {
+        "title": "asyncz vs. {competitor}: A Clear Choice for Teams",
+        "features": [
+          { "name": "Individual Scheduling", "competitor": true, "asyncz": true },
+          { "name": "Group Events", "competitor": true, "asyncz": true },
+          { "name": "Per-User Pricing", "competitor": true, "asyncz": false },
+          { "name": "Multi-Branch Management", "competitor": false, "asyncz": true },
+          { "name": "Advanced Team Analytics", "competitor": false, "asyncz": true },
+          { "name": "Blacklist Protection", "competitor": false, "asyncz": true },
+          { "name": "Custom Domain Integration", "competitor": false, "asyncz": true }
+        ]
+      },
+      "testimonial": {
+        "quote": "We were managing five separate Calendly accounts for our clinics, and it was a mess. asyncz gave us a single dashboard to oversee everything. The switch was a no-brainer.",
+        "author": "Maria Rodriguez",
+        "role": "Operations Lead, former {competitor} user"
+      },
+      "finalCta": {
+        "title": "Ready for a Scheduling Tool That Grows With You?",
+        "subtitle": "Stop fighting with tools built for individuals. Give your team the power of asyncz.",
+        "cta": "Start Your Free Trial"
+      }
+    },
+    "asyncz": {
+      "name": "Other Tools",
+      "seo": {
+        "title": "asyncz Alternatives & Competitors | asyncz",
+        "description": "Considering an alternative to asyncz? See how we compare against other scheduling tools like Calendly, Booksy, and more on features, pricing, and team capabilities.",
+        "keywords": ["asyncz alternative", "asyncz competitors", "scheduling software comparison"]
+      },
+      "hero": {
+        "title": "Exploring {competitor} Alternatives?",
+        "subtitle": "We're confident that asyncz is the best scheduling platform for teams, but we believe in transparency. Here’s how we stack up against the competition.",
+        "cta": "Compare Our Features"
+      },
+      "painPointsTitle": "Why Teams Choose asyncz Over {competitor}",
+      "painPoints": [
+        {
+          "title": "Unified Platform",
+          "description": "Other tools often focus on one thing. asyncz combines multi-branch, team analytics, and advanced automation in one place."
+        },
+        {
+          "title": "Built for Scale",
+          "description": "Our pricing and features are designed to grow with your business, not penalize you for adding team members."
+        },
+        {
+          "title": "Deep Customization",
+          "description": "From custom branding to domain integration, asyncz adapts to your brand, not the other way around."
+        }
+      ],
+      "comparison": {
+        "title": "asyncz vs. {competitor}: An Honest Look",
+        "features": [
+            { "name": "Individual Scheduling", "competitor": true, "asyncz": true },
+            { "name": "Group Events", "competitor": true, "asyncz": true },
+            { "name": "Multi-Branch Management", "competitor": false, "asyncz": true },
+            { "name": "Advanced Team Analytics", "competitor": false, "asyncz": true },
+            { "name": "Blacklist Protection", "competitor": false, "asyncz": true },
+            { "name": "Custom Domain Integration", "competitor": false, "asyncz": true },
+            { "name": "AI-Powered Waitlists", "competitor": false, "asyncz": true }
+        ]
+      },
+      "testimonial": {
+        "quote": "We evaluated several tools, but only asyncz had the multi-location and analytics features we needed to manage our growing franchise. It’s more than just a booking link; it’s an operations platform.",
+        "author": "David Chen",
+        "role": "CTO at a multi-location service business"
+      },
+      "finalCta": {
+        "title": "Still Have Questions? We're Here to Help.",
+        "subtitle": "See for yourself why asyncz is the trusted choice for forward-thinking teams.",
+        "cta": "Talk to an Expert"
+      }
+    }
   }
 }
