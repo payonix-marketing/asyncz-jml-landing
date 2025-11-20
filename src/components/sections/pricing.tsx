@@ -140,7 +140,7 @@ export function Pricing() {
               Contact:{" "}
               <a
                   href="mailto:info@asyncz.com?subject=Early Bird Special - Free Lifetime Pro Account&body=Hi,%0D%0A%0D%0AI would like to claim my free lifetime Pro account as an early adopter.%0D%0A%0D%0AThank you!"
-                  className="text-green-600 hover:underline"
+                  className="text-emerald-700 dark:text-emerald-400 hover:underline"
               >
                 info@asyncz.com
               </a>
