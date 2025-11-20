@@ -99,16 +99,41 @@ export const productSchema = {
   ],
 };
 
-// export const reviewSchema = {
-//   "@context": "https://schema.org",
-//   "@type": "AggregateRating",
-//   itemReviewed: {
-//     "@type": "SoftwareApplication",
-//     name: SITE_NAME,
-//     applicationCategory: "BusinessApplication",
-//     operatingSystem: "Web"
-//   },
-//   ratingValue: "4.9",
-//   reviewCount: "128",
-//   bestRating: "5"
-// };
+export const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  url: SITE_URL,
+  name: SITE_NAME,
+  potentialAction: {
+    "@type": "SearchAction",
+    target: `${SITE_URL}/search?q={search_term_string}`,
+    "query-input": "required name=search_term_string",
+  },
+};
+
+export const generateFaqSchema = (faqCategories: any[]) => {
+  if (!Array.isArray(faqCategories) || faqCategories.length === 0) {
+    return null;
+  }
+
+  const mainEntity = faqCategories.flatMap((category) =>
+    (category.questions || []).map((faq: any) => ({
+      "@type": "Question",
+      name: faq.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: faq.answer,
+      },
+    }))
+  );
+
+  if (mainEntity.length === 0) {
+    return null;
+  }
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity,
+  };
+};

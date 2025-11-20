@@ -15,6 +15,7 @@ import {
   localBusinessSchema,
   organizationSchema,
   productSchema,
+  websiteSchema,
 } from "src/config/schema";
 import { useLanguage } from "src/context/LanguageContext";
 
@@ -36,6 +37,7 @@ function DefaultLanding() {
         organizationSchema,
         localBusinessSchema,
         productSchema,
+        websiteSchema,
       ],
     }),
     [t] 

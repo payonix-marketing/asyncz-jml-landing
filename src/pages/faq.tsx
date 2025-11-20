@@ -4,12 +4,21 @@ import { Footer } from "src/components/layout/footer";
 import { Button } from "src/components/ui/button";
 import { ChevronDown, ChevronUp, MessageCircle, Mail, Phone } from "lucide-react";
 import { useLanguage } from "src/context/LanguageContext";
-import { Seo } from "src/components/Seo";
-import { organizationSchema } from "src/config/schema";
+import { Seo, type StructuredData } from "src/components/Seo";
+import { organizationSchema, generateFaqSchema } from "src/config/schema";
 
 export default function FAQ() {
   const { t } = useLanguage();
   const [openItems, setOpenItems] = useState<number[]>([0]); // First item open by default
+
+  // Helper function to get array items
+  const getArrayItems = (key: string): any[] => {
+    const result = t(key);
+    return Array.isArray(result) ? result : [];
+  };
+
+  const categories = getArrayItems("faq.categories");
+  const supportOptions = getArrayItems("faq.stillHaveQuestions.supportOptions");
 
   const seoConfig = useMemo(
     () => ({
@@ -21,16 +30,12 @@ export default function FAQ() {
         "asyncz support",
         "asyncz knowledge base"
       ],
-      structuredData: organizationSchema
+      structuredData: [organizationSchema, generateFaqSchema(categories)].filter(
+        (item): item is StructuredData => item !== null
+      ),
     }),
-    [t]
+    [t, categories]
   );
-
-  // Helper function to get array items
-  const getArrayItems = (key: string): any[] => {
-    const result = t(key);
-    return Array.isArray(result) ? result : [];
-  };
 
   const toggleItem = (index: number) => {
     setOpenItems(prev =>
@@ -39,9 +44,6 @@ export default function FAQ() {
             : [...prev, index]
     );
   };
-
-  const categories = getArrayItems("faq.categories");
-  const supportOptions = getArrayItems("faq.stillHaveQuestions.supportOptions");
 
   return (
       <div className="min-h-screen dark:text-gray-300">
